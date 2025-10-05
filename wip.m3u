@@ -29,8 +29,9 @@ http://mytv.dothome.co.kr/ch/catv/6.php
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="케이블",KBS Story (480p)
 http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-id="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1000px-KBS_World_%282009%29.svg.png" group-title="국제", KBS WORLD (1080p)
-https://hls.mskycdn.online/tv/kbsworld/index.m3u8
+#EXTINF:-1 tvg-id="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1000px-KBS_World_%282009%29.svg.png" group-title="국제", KBS WORLD (480p)
+# https://hls.mskycdn.online/tv/kbsworld/index.m3u8
+http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="MBCNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="케이블",MBC Net (480p)
 http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="EBS English" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="교육",EBS E (400p)
