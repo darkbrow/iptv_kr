@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2025-10-03T03:52:43.067391",
+    "UPDATED": "2025-10-08T04:43:40.659455",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2025-10-03T03:52:43.067485",
+    "UPDATED": "2025-10-08T04:43:40.659560",
     "TOTAL": 351,
     "CHANNELS": [
       { "Name": "더라이프", "No": "0", "ServiceId": "772", "Category": "여성/오락" },
@@ -671,7 +671,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2025-10-03T03:52:43.067583",
+    "UPDATED": "2025-10-08T04:43:40.659625",
     "TOTAL": 270,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -947,7 +947,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2025-10-03T03:52:43.067662",
+    "UPDATED": "2025-10-08T04:43:40.659672",
     "TOTAL": 428,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1381,7 +1381,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2025-10-03T03:52:43.067759",
+    "UPDATED": "2025-10-08T04:43:40.659740",
     "TOTAL": 467,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1854,8 +1854,8 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2025-10-03T03:52:43.067865",
-    "TOTAL": 116,
+    "UPDATED": "2025-10-08T04:43:40.659805",
+    "TOTAL": 117,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
       { "Name": "KBS 2TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png", "ServiceId": "K02" },
@@ -1867,6 +1867,7 @@
       { "Name": "연합뉴스TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/Y01_square_20250801151504.png", "ServiceId": "Y01" },
       { "Name": "YTN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2101_square_20250731141328.png", "ServiceId": "C2101" },
       { "Name": "SBS Biz", "Icon_url": "https://image.wavve.com/channel_mgmt/image/S06_square_20250801144339.png", "ServiceId": "S06" },
+      { "Name": "한국경제TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F2101_square_20250731144725.png", "ServiceId": "F2101" },
       { "Name": "매일경제TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F2001_square_20250731144657.png", "ServiceId": "F2001" },
       { "Name": "머니투데이방송", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F4301_square_20250731210829.png", "ServiceId": "F4301" },
       { "Name": "CCTV4", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K12_square_20250731212541.png", "ServiceId": "K12" },
@@ -1976,8 +1977,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2025-10-03T03:52:43.067901",
-    "TOTAL": 378,
+    "UPDATED": "2025-10-08T04:43:40.659838",
+    "TOTAL": 380,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241104/0232/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241112/0900/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -2122,8 +2123,8 @@
       { "Name": "CH.두산 베어스 지난 경기", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250219/0219/C52138.png", "ServiceId": "C52138", "Category": "스포츠/취미" },
       { "Name": "CH.KIA 타이거즈 지난 경기", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241022/0929/C52137.png", "ServiceId": "C52137", "Category": "스포츠/취미" },
       { "Name": "CH.롯데 자이언츠 지난 경기", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241022/0930/C52136.png", "ServiceId": "C52136", "Category": "스포츠/취미" },
-      { "Name": "CH.LG 트윈스 2023 시즌 하이라이트", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241023/0446/C52108.png", "ServiceId": "C52108", "Category": "스포츠/취미" },
       { "Name": "CH.삼성 라이온즈 지난 경기", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241022/0930/C52135.png", "ServiceId": "C52135", "Category": "스포츠/취미" },
+      { "Name": "CH.LG 트윈스 2023 시즌 하이라이트", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241023/0446/C52108.png", "ServiceId": "C52108", "Category": "스포츠/취미" },
       { "Name": "CH.NC 다이노스 2023 시즌 하이라이트", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241023/0446/C52109.png", "ServiceId": "C52109", "Category": "스포츠/취미" },
       { "Name": "CH.한화 이글스 지난 경기", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241213/1714/C52134.png", "ServiceId": "C52134", "Category": "스포츠/취미" },
       { "Name": "CH.SSG 랜더스 2023 시즌 하이라이트", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241023/0445/C52110.png", "ServiceId": "C52110", "Category": "스포츠/취미" },
@@ -2225,6 +2226,7 @@
       { "Name": "CH. 미지의 서울", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0137/C52344.png", "ServiceId": "C52344", "Category": "드라마" },
       { "Name": "CH. 월드 오브 스트릿 우먼 파이터", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0139/C52345.png", "ServiceId": "C52345", "Category": "음악/오락" },
       { "Name": "CH. 남겨서 뭐하게", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0141/C52346.png", "ServiceId": "C52346", "Category": "음악/오락" },
+      { "Name": "삼프로TV", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250814/0723/C52354.png", "ServiceId": "C52354", "Category": "크리에이터TV" },
       { "Name": "MBN NEWS", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250804/0543/C52349.png", "ServiceId": "C52349", "Category": "뉴스/재테크" },
       { "Name": "CH. 견우와 선녀", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250902/0624/C52361.png", "ServiceId": "C52361", "Category": "드라마" },
       { "Name": "CH. LIVE WIRE", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250909/0517/C52369.png", "ServiceId": "C52369", "Category": "음악/오락" },
@@ -2234,6 +2236,7 @@
       { "Name": "CH. 어쩌다 어른 10주년", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250909/0526/C52373.png", "ServiceId": "C52373", "Category": "음악/오락" },
       { "Name": "CH. 무쇠소녀단2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250909/0527/C52374.png", "ServiceId": "C52374", "Category": "음악/오락" },
       { "Name": "MBC 라디오 예능", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250922/0421/C52379.png", "ServiceId": "C52379", "Category": "뉴스/재테크" },
+      { "Name": "CH. BOYS II PLANET", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251002/0140/C52384.png", "ServiceId": "C52384", "Category": "음악/오락" },
       { "Name": "CH. NC 다이노스 지난 경기 (25년)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250220/0816/C52275.png", "ServiceId": "C52275", "Category": "스포츠/취미" },
       { "Name": "CH. SSG 랜더스 지난 경기 (25년)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250220/0817/C52276.png", "ServiceId": "C52276", "Category": "스포츠/취미" },
       { "Name": "CH. 두산 베어스 지난 경기 (25년)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250220/0815/C52278.png", "ServiceId": "C52278", "Category": "스포츠/취미" },
@@ -2360,7 +2363,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2025-10-03T03:52:43.067995",
+    "UPDATED": "2025-10-08T04:43:40.659971",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
