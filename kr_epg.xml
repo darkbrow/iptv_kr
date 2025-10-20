@@ -5132,7 +5132,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020001500 +0900" stop="20251020014000 +0900" channel="KBS2">
+  <programme start="20251020001500 +0900" stop="20251020013500 +0900" channel="KBS2">
     <title lang="ko">토일 미니시리즈 은수 좋은 날 (재)</title>
     <desc lang="ko">토일 미니시리즈 은수 좋은 날 (재)
 방송 : 재방송
@@ -5142,7 +5142,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020014000 +0900" stop="20251020015000 +0900" channel="KBS2">
+  <programme start="20251020013500 +0900" stop="20251020014500 +0900" channel="KBS2">
     <title lang="ko">KBS 재난방송센터 (재)</title>
     <desc lang="ko">KBS 재난방송센터 (재)
 방송 : 재방송
@@ -5152,7 +5152,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020015000 +0900" stop="20251020050000 +0900" channel="KBS2">
+  <programme start="20251020014500 +0900" stop="20251020050000 +0900" channel="KBS2">
     <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <desc lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)
 등급 : 전체 관람가</desc>
@@ -5322,7 +5322,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020180000 +0900" stop="20251020181500 +0900" channel="KBS2">
+  <programme start="20251020180000 +0900" stop="20251020183500 +0900" channel="KBS2">
     <title lang="ko">경제콘서트</title>
     <desc lang="ko">경제콘서트
 등급 : 전체 관람가</desc>
@@ -5330,14 +5330,28 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020181500 +0900" stop="20251020215000 +0900" channel="KBS2">
-    <title lang="ko">2025 프로야구 &lt;2안포함&gt;</title>
-    <sub-title lang="ko">플레이오프 3차전 , 한화:삼성 - 대구 -</sub-title>
-    <desc lang="ko">2025 프로야구 &lt;2안포함&gt;
-부제 : 플레이오프 3차전 , 한화:삼성 - 대구 -
+  <programme start="20251020183500 +0900" stop="20251020195000 +0900" channel="KBS2">
+    <title lang="ko">2TV 생생정보</title>
+    <desc lang="ko">2TV 생생정보
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20251020195000 +0900" stop="20251020203000 +0900" channel="KBS2">
+    <title lang="ko">일일드라마 친밀한 리플리</title>
+    <desc lang="ko">일일드라마 친밀한 리플리
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20251020203000 +0900" stop="20251020215000 +0900" channel="KBS2">
+    <title lang="ko">박원숙의 같이 삽시다</title>
+    <desc lang="ko">박원숙의 같이 삽시다
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251020215000 +0900" stop="20251020231000 +0900" channel="KBS2">
@@ -5366,7 +5380,7 @@
       <value>19세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021000500 +0900" stop="20251021011500 +0900" channel="KBS2">
+  <programme start="20251021000500 +0900" stop="20251021001500 +0900" channel="KBS2">
     <title lang="ko">KBS 재난방송센터 (재)</title>
     <desc lang="ko">KBS 재난방송센터 (재)
 방송 : 재방송
@@ -5376,7 +5390,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021011500 +0900" stop="20251021050000 +0900" channel="KBS2">
+  <programme start="20251021001500 +0900" stop="20251021050000 +0900" channel="KBS2">
     <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <desc lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)
 등급 : 전체 관람가</desc>
@@ -5429,13 +5443,13 @@
     </rating>
   </programme>
   <programme start="20251021093000 +0900" stop="20251021101000 +0900" channel="KBS2">
-    <title lang="ko">트레킹노트 세상을 걷다 스페셜 &lt;2안포함&gt; (재)</title>
-    <desc lang="ko">트레킹노트 세상을 걷다 스페셜 &lt;2안포함&gt; (재)
+    <title lang="ko">일일드라마 친밀한 리플리 (재)</title>
+    <desc lang="ko">일일드라마 친밀한 리플리 (재)
 방송 : 재방송
-등급 : 전체 관람가</desc>
+등급 : 15세 이상 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
-      <value>전체 관람가</value>
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251021101000 +0900" stop="20251021103000 +0900" channel="KBS2">
@@ -5564,7 +5578,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021180000 +0900" stop="20251021183500 +0900" channel="KBS2">
+  <programme start="20251021180000 +0900" stop="20251021181500 +0900" channel="KBS2">
     <title lang="ko">경제콘서트</title>
     <desc lang="ko">경제콘서트
 등급 : 전체 관람가</desc>
@@ -5572,28 +5586,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021183500 +0900" stop="20251021195000 +0900" channel="KBS2">
-    <title lang="ko">2TV 생생정보</title>
-    <desc lang="ko">2TV 생생정보
+  <programme start="20251021181500 +0900" stop="20251021214500 +0900" channel="KBS2">
+    <title lang="ko">2025 프로야구 &lt;2안포함&gt;</title>
+    <sub-title lang="ko">플레이오프 3차전 , 한화:삼성 - 대구 -</sub-title>
+    <desc lang="ko">2025 프로야구 &lt;2안포함&gt;
+부제 : 플레이오프 3차전 , 한화:삼성 - 대구 -
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20251021195000 +0900" stop="20251021203000 +0900" channel="KBS2">
-    <title lang="ko">일일드라마 친밀한 리플리</title>
-    <desc lang="ko">일일드라마 친밀한 리플리
-등급 : 15세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20251021203000 +0900" stop="20251021214500 +0900" channel="KBS2">
-    <title lang="ko">셀럽병사의 비밀</title>
-    <desc lang="ko">셀럽병사의 비밀
-등급 : 15세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251021214500 +0900" stop="20251021224500 +0900" channel="KBS2">
@@ -5681,13 +5681,13 @@
     </rating>
   </programme>
   <programme start="20251022093000 +0900" stop="20251022101000 +0900" channel="KBS2">
-    <title lang="ko">일일드라마 친밀한 리플리 (재)</title>
-    <desc lang="ko">일일드라마 친밀한 리플리 (재)
+    <title lang="ko">트레킹노트 세상을 걷다 스페셜 &lt;2안포함&gt; (재)</title>
+    <desc lang="ko">트레킹노트 세상을 걷다 스페셜 &lt;2안포함&gt; (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20251022101000 +0900" stop="20251022103000 +0900" channel="KBS2">
@@ -29180,7 +29180,27 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20251020140000 +0900" stop="20251020180000 +0900" channel="tbsTV">
+  <programme start="20251020140000 +0900" stop="20251020150000 +0900" channel="tbsTV">
+    <title lang="ko">흔적 (재)</title>
+    <desc lang="ko">흔적 (재)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20251020150000 +0900" stop="20251020153000 +0900" channel="tbsTV">
+    <title lang="ko">감성과 캠핑사이 (재)</title>
+    <desc lang="ko">감성과 캠핑사이 (재)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20251020153000 +0900" stop="20251020180000 +0900" channel="tbsTV">
     <title lang="ko">2025년 과학기술정보방송통신위원회 국정감사</title>
     <desc lang="ko">2025년 과학기술정보방송통신위원회 국정감사
 등급 : 전체 관람가</desc>
@@ -29274,20 +29294,20 @@
     <title lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)</title>
     <desc lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251021004000 +0900" stop="20251021005000 +0900" channel="tbsTV">
     <title lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)</title>
     <desc lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251021005000 +0900" stop="20251021011000 +0900" channel="tbsTV">
@@ -29338,7 +29358,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021042000 +0900" stop="20251021044000 +0900" channel="tbsTV">
+  <programme start="20251021042000 +0900" stop="20251021043600 +0900" channel="tbsTV">
     <title lang="ko">오늘도 배움 (재)</title>
     <desc lang="ko">오늘도 배움 (재)
 방송 : 재방송
@@ -29348,7 +29368,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20251021044000 +0900" stop="20251021050000 +0900" channel="tbsTV">
+  <programme start="20251021043600 +0900" stop="20251021050000 +0900" channel="tbsTV">
     <title lang="ko">오늘도 배움 (재)</title>
     <desc lang="ko">오늘도 배움 (재)
 방송 : 재방송
@@ -33287,21 +33307,17 @@
     </rating>
   </programme>
   <programme start="20251020050000 +0900" stop="20251020060000 +0900" channel="TV조선">
-    <title lang="ko">장수상회 (재)</title>
-    <desc lang="ko">장수상회 (재)
-방송 : 재방송
+    <title lang="ko">장수상회</title>
+    <desc lang="ko">장수상회
 등급 : 15세 이상 관람가</desc>
-    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20251020060000 +0900" stop="20251020070000 +0900" channel="TV조선">
-    <title lang="ko">건강한 집 2 특별판 (재)</title>
-    <desc lang="ko">건강한 집 2 특별판 (재)
-방송 : 재방송
+    <title lang="ko">건강한 집 2 특별판</title>
+    <desc lang="ko">건강한 집 2 특별판
 등급 : 15세 이상 관람가</desc>
-    <previously-shown />
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -49779,8 +49795,8 @@
     </rating>
   </programme>
   <programme start="20251021010000 +0900" stop="20251021020000 +0900" channel="CJ온스타일">
-    <title lang="ko">M12 의류</title>
-    <desc lang="ko">M12 의류
+    <title lang="ko">지스튜디오 의류</title>
+    <desc lang="ko">지스튜디오 의류
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
