@@ -1,0 +1,139 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Korea/korea1.xml.gz"
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="General",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Entertainment",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="General",MBC 강원영동 (1080p)
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="General",SBS KNN (1080p)
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="EBS.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Education",EBS 1 (400p)
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Education",EBS 2 (400p)
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Education",EBS+ 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS PLUS2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Education",방송대학 (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="KFN.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="General",국방 TV (1080p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS Drama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Entertainment",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBS Joy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Entertainment",KBS Joy (480p)
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBS Kids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids (480p)
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBS LIFE.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Lifestyle",KBS Life (480p)
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBS Story.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Entertainment",KBS Story (480p)
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Entertainment",MBC Net (480p)
+http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-id="EBS English.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E (400p)
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS KIDS.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids (400p)
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="국악방송.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="Music",국악방송 (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="News",KTV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="국회방송.kr" tvg-logo="https://i.imgur.com/UKdB8vD.png" group-title="News",국회 TV (720p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
+#EXTINF:-1 tvg-id="아리랑 TV.kr" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="News",아리랑 TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS TV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="News",TBS 서울 (720p)
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS경인TV (540p)
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="General",아름방송 TV (720p)
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="General",KCTV광주방송 (720p)
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1 tvg-id="NBS한국농업방송.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",NBS 농업방송 (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="News",NHTV 농협방송 (720p)
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-id="복지TV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="Entertainment",복지 TV (1080p)
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@Asia" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@AsiaLiveEvent" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="채널A.kr" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="General",Channel A (360p)
+http://www.hwado.net/webtv/catv/52_440DDPPJ.php
+#EXTINF:-1 tvg-id="TV조선.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="General" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV 조선 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCHOSUN2.kr" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="General" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV 조선 2 (720p)
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="Education",KBS 독도라이브캠 (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAWDTV.kr" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="General",안동 MBC (360p)
+http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLKUDTV.kr" tvg-logo="https://i.imgur.com/jiFOYi5.png" group-title="General",부산 MBC (360p)
+https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="General",춘천 MBC (480p)
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="General",충북 MBC (720p)
+http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-logo="https://i.imgur.com/LlYQR8m.png" group-title="General",대구 MBC (480p)
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCQDTV.kr" tvg-logo="https://i.imgur.com/HCbvAiM.png" group-title="General",대전 MBC (720p)
+https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCNDTV.kr" tvg-logo="https://i.imgur.com/wmGJgYh.png" group-title="General",광주 MBC (1080p)
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-logo="https://i.imgur.com/JM4rxGU.png" group-title="General",제주 MBC (352p)
+https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCXDTV.kr" tvg-logo="https://i.imgur.com/3C57SwN.png" group-title="General",전주 MBC (450p)
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLAMDTV.kr" tvg-logo="https://i.imgur.com/5oraHc0.png" group-title="General",목포 MBC (720p)
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" tvg-logo="https://i.imgur.com/4LHX71N.png" group-title="General",SBS (480p)
+http://www.hwado.net/webtv/catv/502_76142D8F.php
+#EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="General",SBS CJB (540p)
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLCGDTV.kr" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="General",SBS G1 (360p)
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDQDTV.kr" tvg-logo="https://i.imgur.com/4LHX71N.png" group-title="General",SBS JTV (406p) [Not 24/7]
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-logo="https://i.imgur.com/Srsw4Mi.png" group-title="General",SBS KBC (1080p)
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDEDTV.kr" tvg-logo="https://i.imgur.com/jknoVmp.png" group-title="General",SBS TBC (540p)
+http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="General",SBS TJB (1080p)
+http://123.214.216.80:1935/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-logo="https://i.imgur.com/BBCoqIf.png" group-title="General",SBS UBC (540p)
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
+#EXTINF:-1 tvg-id="CJ ONSTYLE.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="Shop",CJ OnStyle (540p)
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="CJ ONSTYLE+.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="Shop",CJ OnStyle Plus (540p)
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="공영쇼핑.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="Shop",공영쇼핑 (720p)
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GS MY SHOP.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="Shop",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GS SHOP.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="Shop",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="홈and쇼핑.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="Shop",홈&쇼핑 (720p)
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#EXTINF:-1 tvg-id="현대홈쇼핑.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="Shop",현대홈쇼핑 (720p)
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/paylist.m3u8
+#EXTINF:-1 tvg-id="현대홈쇼핑+샵.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="Shop",현대홈쇼핑 Plus (720p)
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="롯데홈쇼핑.kr" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="Shop",롯데홈쇼핑 (720p)
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="LOTTE OneTV.kr" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="Shop",롯데 OneTV (720p)
+https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
+#EXTINF:-1 tvg-id="NS홈쇼핑.kr" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="Shop",NS 홈쇼핑 (720p)
+https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#EXTINF:-1 tvg-id="NS Shop+.kr" tvg-logo="https://i.imgur.com/7KmXNci.png" group-title="Shop",NS Shop Plus (720p)
+https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
+#EXTINF:-1 tvg-id="신세계쇼핑.kr" tvg-logo="https://i.imgur.com/Hq3yjqA.png" group-title="Shop",신세계쇼핑 TV (720p)
+https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="쇼핑엔티.kr" tvg-logo="https://i.imgur.com/BgbJp5X.png" group-title="Shop",쇼핑엔티 (720p)
+https://live.shoppingntmall.com/live/10011.m3u8
+#EXTINF:-1 tvg-id="W쇼핑.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="Shop",W Shopping (720p)
+https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8

@@ -1,0 +1,106 @@
+{
+  "GLOBAL": {
+    "ENABLED": true,
+    "FETCH_LIMIT": 3,
+    "ID_FORMAT": "{Name}",
+    "ADD_REBROADCAST_TO_TITLE": true,
+    "ADD_EPNUM_TO_TITLE": true,
+    "ADD_DESCRIPTION": true,
+    "ADD_XMLTV_NS": true,
+    "GET_MORE_DETAILS": true,
+    "ADD_CHANNEL_ICON": true,
+    "HTTP_PROXY": null
+  },
+  "KT": {
+    "MY_CHANNELS": []
+  },
+  "LG": {
+    "MY_CHANNELS": [
+            { "Name": "GS마이샵", "No": "30", "ServiceId": "740", "Category": "홈쇼핑" },
+            { "Name": "현대홈쇼핑+샵", "No": "34", "ServiceId": "760", "Category": "홈쇼핑" },
+            { "Name": "롯데 OneTV", "No": "36", "ServiceId": "783", "Category": "홈쇼핑" },
+            { "Name": "신세계쇼핑", "No": "19", "ServiceId": "780", "Category": "홈쇼핑" },
+            { "Name": "쇼핑엔티", "No": "37", "ServiceId": "782", "Category": "홈쇼핑" },
+            { "Name": "W쇼핑", "No": "28", "ServiceId": "813", "Category": "홈쇼핑" }
+    ]
+  },
+  "SK": {
+    "MY_CHANNELS": []
+  },
+  "DAUM": {
+    "MY_CHANNELS": []
+  },
+  "NAVER": {
+    "MY_CHANNELS": [
+            { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
+            { "Name": "KBS2", "ServiceId": "814582", "Category": "지상파" },
+            { "Name": "MBC", "ServiceId": "814588", "Category": "지상파" },
+            { "Name": "SBS", "ServiceId": "814592", "Category": "지상파" },
+            { "Name": "EBS1", "ServiceId": "814595", "Category": "지상파" },
+            { "Name": "EBS2", "ServiceId": "2438226", "Category": "지상파" },
+            { "Name": "EBS플러스1", "ServiceId": "814967", "Category": "케이블" },
+            { "Name": "EBS플러스2", "ServiceId": "814969", "Category": "케이블" },
+            { "Name": "OUN", "ServiceId": "814975", "Category": "케이블" },
+            { "Name": "KFN", "ServiceId": "815082", "Category": "케이블" },
+            { "Name": "KBS 드라마", "ServiceId": "815214", "Category": "스카이라이프" },
+            { "Name": "KBS Joy", "ServiceId": "814811", "Category": "케이블" },
+            { "Name": "KBS KIDS", "ServiceId": "815543", "Category": "케이블" },
+            { "Name": "KBS LIFE", "ServiceId": "814942", "Category": "케이블" },
+            { "Name": "KBS Story", "ServiceId": "815555", "Category": "케이블" },
+            { "Name": "KBS WORLD", "ServiceId": "814813", "Category": "케이블" },
+            { "Name": "MBCNET", "ServiceId": "815052", "Category": "케이블" },
+            { "Name": "EBS English", "ServiceId": "814963", "Category": "케이블" },
+            { "Name": "EBS KIDS", "ServiceId": "815547", "Category": "케이블" },
+            { "Name": "국악방송", "ServiceId": "18120177", "Category": "케이블" },
+            { "Name": "KTV 국민방송", "ServiceId": "815090", "Category": "케이블" },
+            { "Name": "국회방송", "ServiceId": "815084", "Category": "케이블" },
+            { "Name": "arirang", "ServiceId": "815081", "Category": "케이블" },
+            { "Name": "tbsTV", "ServiceId": "815503", "Category": "케이블" },
+            { "Name": "OBS 경인TV", "ServiceId": "814599", "Category": "지상파" },
+            { "Name": "NBS한국농업방송", "ServiceId": "814961", "Category": "케이블" },
+            { "Name": "복지TV", "ServiceId": "815087", "Category": "케이블" },
+            { "Name": "채널A", "ServiceId": "815571", "Category": "종합 편성" },
+            { "Name": "TV조선", "ServiceId": "815572", "Category": "종합 편성" },
+            { "Name": "TV CHOSUN2", "ServiceId": "814914", "Category": "케이블" },
+            { "Name": "MBC 강원영동", "ServiceId": "814606", "Category": "지상파" },
+            { "Name": "안동 MBC", "ServiceId": "814635", "Category": "지상파" },
+            { "Name": "부산 MBC", "ServiceId": "814621", "Category": "지상파" },
+            { "Name": "춘천 MBC", "ServiceId": "814612", "Category": "지상파" },
+            { "Name": "MBC 충북", "ServiceId": "814678", "Category": "지상파" },
+            { "Name": "대구 MBC", "ServiceId": "814633", "Category": "지상파" },
+            { "Name": "대전 MBC", "ServiceId": "814668", "Category": "지상파" },
+            { "Name": "광주 MBC", "ServiceId": "814644", "Category": "지상파" },
+            { "Name": "제주 MBC", "ServiceId": "814700", "Category": "지상파" },
+            { "Name": "전주 MBC", "ServiceId": "814658", "Category": "지상파" },
+            { "Name": "목포 MBC", "ServiceId": "814646", "Category": "지상파" },
+            { "Name": "여수 MBC", "ServiceId": "814649", "Category": "지상파" },
+            { "Name": "CJB 청주방송", "ServiceId": "814684", "Category": "지상파" },
+            { "Name": "G1 방송", "ServiceId": "814614", "Category": "지상파" },
+            { "Name": "JTV 전주방송", "ServiceId": "814661", "Category": "지상파" },
+            { "Name": "KBC 광주방송", "ServiceId": "814652", "Category": "지상파" },
+            { "Name": "TBC 대구방송", "ServiceId": "814639", "Category": "지상파" },
+            { "Name": "TJB 대전방송", "ServiceId": "814671", "Category": "지상파" },
+            { "Name": "KNN 부산경남방송", "ServiceId": "814628", "Category": "지상파" },
+            { "Name": "UBC 울산방송", "ServiceId": "814694", "Category": "지상파" },
+            { "Name": "JIBS 제주방송", "ServiceId": "814703", "Category": "지상파" },
+            { "Name": "CJ온스타일", "ServiceId": "815096", "Category": "케이블" },
+            { "Name": "CJ온스타일플러스", "ServiceId": "18608759", "Category": "케이블" },
+            { "Name": "공영쇼핑", "ServiceId": "9931218", "Category": "케이블" },
+            { "Name": "GS SHOP", "ServiceId": "815097", "Category": "케이블" },
+            { "Name": "홈&쇼핑", "ServiceId": "815524", "Category": "케이블" },
+            { "Name": "현대홈쇼핑", "ServiceId": "815101", "Category": "케이블" },
+            { "Name": "롯데홈쇼핑", "ServiceId": "815100", "Category": "케이블" },
+            { "Name": "NS홈쇼핑", "ServiceId": "815099", "Category": "케이블" },
+            { "Name": "NS Shop+", "ServiceId": "29770878", "Category": "케이블" }
+    ]
+  },
+  "WAVVE": {
+    "MY_CHANNELS": []
+  },
+  "TVING": {
+    "MY_CHANNELS": []
+  },
+  "SPOTV": {
+    "MY_CHANNELS": []
+  }
+}
