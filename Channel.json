@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2025-11-21T22:13:35.495178",
+    "UPDATED": "2025-11-26T15:12:19.478400",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2025-11-21T22:13:35.495258",
+    "UPDATED": "2025-11-26T15:12:19.478537",
     "TOTAL": 351,
     "CHANNELS": [
       { "Name": "더라이프", "No": "0", "ServiceId": "772", "Category": "여성/오락" },
@@ -671,7 +671,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2025-11-21T22:13:35.495335",
+    "UPDATED": "2025-11-26T15:12:19.478650",
     "TOTAL": 270,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -947,7 +947,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2025-11-21T22:13:35.495396",
+    "UPDATED": "2025-11-26T15:12:19.478739",
     "TOTAL": 427,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1380,7 +1380,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2025-11-21T22:13:35.495486",
+    "UPDATED": "2025-11-26T15:12:19.478885",
     "TOTAL": 467,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1853,7 +1853,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2025-11-21T22:13:35.495614",
+    "UPDATED": "2025-11-26T15:12:19.478986",
     "TOTAL": 122,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1981,8 +1981,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2025-11-21T22:13:35.495666",
-    "TOTAL": 145,
+    "UPDATED": "2025-11-26T15:12:19.479025",
+    "TOTAL": 148,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -2076,14 +2076,17 @@
       { "Name": "CH. 월드 오브 스트릿 우먼 파이터", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0139/C52345.png", "ServiceId": "C52345", "Category": "음악/오락" },
       { "Name": "MBN NEWS", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250804/0543/C52349.png", "ServiceId": "C52349", "Category": "뉴스/재테크" },
       { "Name": "CH. 견우와 선녀", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0152/C52361.png", "ServiceId": "C52361", "Category": "드라마" },
-      { "Name": "CH. KBS 인간극장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0037/C52365.png", "ServiceId": "C52365", "Category": "다큐/정보" },
       { "Name": "CH. KBS 1박 2일", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0822/C52381.png", "ServiceId": "C52381", "Category": "지상파" },
       { "Name": "CH. KBS 사랑과 전쟁", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0821/C52380.png", "ServiceId": "C52380", "Category": "지상파" },
-      { "Name": "CH. KBS 주말드라마 명작", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0032/C52368.png", "ServiceId": "C52368", "Category": "드라마" },
-      { "Name": "CH. KBS 사극", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0033/C52367.png", "ServiceId": "C52367", "Category": "드라마" },
-      { "Name": "CH. KBS 역사저널 그날", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0739/C52366.png", "ServiceId": "C52366", "Category": "다큐/정보" },
       { "Name": "CH. LIVE WIRE", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0054/C52369.png", "ServiceId": "C52369", "Category": "음악/오락" },
       { "Name": "MBC 라디오 예능", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0825/C52379.png", "ServiceId": "C52379", "Category": "뉴스/재테크" },
+      { "Name": "TVING 쿡방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0410/C52396.png", "ServiceId": "C52396", "Category": "음악/오락" },
+      { "Name": "TVING 먹방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0403/C52395.png", "ServiceId": "C52395", "Category": "음악/오락" },
+      { "Name": "TVING 단편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251113/0537/C52401.png", "ServiceId": "C52401", "Category": "드라마" },
+      { "Name": "TVING K-POP", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0455/C52397.png", "ServiceId": "C52397", "Category": "음악/오락" },
+      { "Name": "CH. 스몰토크를 멈추면 안돼", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0819/C52408.png", "ServiceId": "C52408", "Category": "크리에이터TV" },
+      { "Name": "CH. 야노시호 화나따", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0833/C52409.png", "ServiceId": "C52409", "Category": "크리에이터TV" },
+      { "Name": "CH. 파김치갱:다이어리", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0846/C52410.png", "ServiceId": "C52410", "Category": "크리에이터TV" },
       { "Name": "CH.응답하라 1997", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C04761.png", "ServiceId": "C04761", "Category": "드라마" },
       { "Name": "CH.어쩌다사장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0844/C51357.png", "ServiceId": "C51357", "Category": "음악/오락" },
       { "Name": "국회방송(NATV)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0033/C51263.png", "ServiceId": "C51263", "Category": "다큐/정보" },
@@ -2132,7 +2135,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2025-11-21T22:13:35.495709",
+    "UPDATED": "2025-11-26T15:12:19.479087",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
