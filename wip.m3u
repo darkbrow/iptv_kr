@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/darkbrow/iptv_kr/refs/heads/main/kr_epg.xml.gz"
-#EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="지상파",KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="지상파",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="MBC 강원영동" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="지상파",강원영동 MBC (1080p)
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="G1 방송" tvg-logo="https://i.imgur.com/ABdmZMc.png" group-title="지상파",SBS G1 (360p)
@@ -19,19 +15,6 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="KFN" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="케이블",국방 TV (1080p)
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS 드라마" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="케이블",KBS Drama (480p)
-http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBS Joy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="케이블",KBS Joy (480p)
-http://mytv.dothome.co.kr/ch/catv/3.php
-#EXTINF:-1 tvg-id="KBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="아동",KBS Kids (480p)
-http://mytv.dothome.co.kr/ch/catv/6.php
-#EXTINF:-1 tvg-id="KBS LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="케이블",KBS Life (480p)
-http://mytv.dothome.co.kr/ch/catv/5.php
-#EXTINF:-1 tvg-id="KBS Story" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="케이블",KBS Story (480p)
-http://mytv.dothome.co.kr/ch/catv/4.php
-#EXTINF:-1 tvg-id="KBS WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1000px-KBS_World_%282009%29.svg.png" group-title="국제", KBS WORLD (480p)
-# https://hls.mskycdn.online/tv/kbsworld/index.m3u8
-http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="MBCNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="케이블",MBC Net (480p)
 http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="EBS English" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="교육",EBS E (400p)
@@ -70,8 +53,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TV CHOSUN2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="종편" http-referrer="http://broadcast.tvchosun.com/onair/on2.cstv",TV 조선 2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="케이블",KBS 독도라이브캠 (540p)
-http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Munhwa_Broadcasting_Corporation_%282023%29.svg/512px-Munhwa_Broadcasting_Corporation_%282023%29.svg.png" group-title="지상파",MBC (720p)
 http://www.hwado.net/webtv/catv/503_CFEA7803.php
 #EXTINF:-1 tvg-id="안동 MBC" tvg-logo="https://i.imgur.com/nqRWpUu.png" group-title="지상파",안동 MBC (360p)

@@ -32,8 +32,6 @@
   },
   "NAVER": {
     "MY_CHANNELS": [
-            { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
-            { "Name": "KBS2", "ServiceId": "814582", "Category": "지상파" },
             { "Name": "MBC", "ServiceId": "814588", "Category": "지상파" },
             { "Name": "SBS", "ServiceId": "814592", "Category": "지상파" },
             { "Name": "EBS1", "ServiceId": "814595", "Category": "지상파" },
@@ -42,12 +40,6 @@
             { "Name": "EBS플러스2", "ServiceId": "814969", "Category": "케이블" },
             { "Name": "OUN", "ServiceId": "814975", "Category": "케이블" },
             { "Name": "KFN", "ServiceId": "815082", "Category": "케이블" },
-            { "Name": "KBS 드라마", "ServiceId": "815214", "Category": "스카이라이프" },
-            { "Name": "KBS Joy", "ServiceId": "814811", "Category": "케이블" },
-            { "Name": "KBS KIDS", "ServiceId": "815543", "Category": "케이블" },
-            { "Name": "KBS LIFE", "ServiceId": "814942", "Category": "케이블" },
-            { "Name": "KBS Story", "ServiceId": "815555", "Category": "케이블" },
-            { "Name": "KBS WORLD", "ServiceId": "814813", "Category": "케이블" },
             { "Name": "MBCNET", "ServiceId": "815052", "Category": "케이블" },
             { "Name": "EBS English", "ServiceId": "814963", "Category": "케이블" },
             { "Name": "EBS KIDS", "ServiceId": "815547", "Category": "케이블" },
