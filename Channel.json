@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2025-12-11T14:00:47.094399",
+    "UPDATED": "2025-12-16T14:05:35.222945",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2025-12-11T14:00:47.094773",
+    "UPDATED": "2025-12-16T14:05:35.223029",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "더라이프", "No": "0", "ServiceId": "772", "Category": "여성/오락" },
@@ -668,7 +668,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2025-12-11T14:00:47.096501",
+    "UPDATED": "2025-12-16T14:05:35.223106",
     "TOTAL": 270,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -944,8 +944,8 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2025-12-11T14:00:47.096690",
-    "TOTAL": 386,
+    "UPDATED": "2025-12-16T14:05:35.223169",
+    "TOTAL": 427,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "지상파 KBS2", "Category": "지상파" },
@@ -1332,12 +1332,53 @@
       { "Name": "NHK WORLD Premium", "ServiceId": "해외위성 NHK WORLD Premium", "Category": "해외위성" },
       { "Name": "NHK WORLD-JAPAN", "ServiceId": "해외위성 NHK WORLD-JAPAN", "Category": "해외위성" },
       { "Name": "Stingray CMusic", "ServiceId": "해외위성 Stingray CMusic", "Category": "해외위성" },
-      { "Name": "스미소니언", "ServiceId": "해외위성 스미소니언", "Category": "해외위성" }
+      { "Name": "스미소니언", "ServiceId": "해외위성 스미소니언", "Category": "해외위성" },
+      { "Name": "ClassicFM", "ServiceId": "라디오 ClassicFM", "Category": "라디오" },
+      { "Name": "KBS CoolFM", "ServiceId": "라디오 KBS CoolFM", "Category": "라디오" },
+      { "Name": "MBCFM4U", "ServiceId": "라디오 MBCFM4U", "Category": "라디오" },
+      { "Name": "MBC표준FM", "ServiceId": "라디오 MBC표준FM", "Category": "라디오" },
+      { "Name": "SBS파워FM", "ServiceId": "라디오 SBS파워FM", "Category": "라디오" },
+      { "Name": "SBS러브FM", "ServiceId": "라디오 SBS러브FM", "Category": "라디오" },
+      { "Name": "TBSFM", "ServiceId": "라디오 TBSFM", "Category": "라디오" },
+      { "Name": "(R)원음방송", "ServiceId": "라디오 (R)원음방송", "Category": "라디오" },
+      { "Name": "Arirang", "ServiceId": "라디오 Arirang", "Category": "라디오" },
+      { "Name": "BBS불교방송", "ServiceId": "라디오 BBS불교방송", "Category": "라디오" },
+      { "Name": "CBS음악FM", "ServiceId": "라디오 CBS음악FM", "Category": "라디오" },
+      { "Name": "CBS표준FM", "ServiceId": "라디오 CBS표준FM", "Category": "라디오" },
+      { "Name": "EBS FM", "ServiceId": "라디오 EBS FM", "Category": "라디오" },
+      { "Name": "HappyFM", "ServiceId": "라디오 HappyFM", "Category": "라디오" },
+      { "Name": "KBS1R", "ServiceId": "라디오 KBS1R", "Category": "라디오" },
+      { "Name": "KBS3R", "ServiceId": "라디오 KBS3R", "Category": "라디오" },
+      { "Name": "KBSWorldRadio", "ServiceId": "라디오 KBSWorldRadio", "Category": "라디오" },
+      { "Name": "KBS한민족", "ServiceId": "라디오 KBS한민족", "Category": "라디오" },
+      { "Name": "KFN Radio", "ServiceId": "라디오 KFN Radio", "Category": "라디오" },
+      { "Name": "SBS 고릴라라디오 M", "ServiceId": "라디오 SBS 고릴라라디오 M", "Category": "라디오" },
+      { "Name": "TBN", "ServiceId": "라디오 TBN", "Category": "라디오" },
+      { "Name": "TBN(강원)", "ServiceId": "라디오 TBN(강원)", "Category": "라디오" },
+      { "Name": "TBN(경남)", "ServiceId": "라디오 TBN(경남)", "Category": "라디오" },
+      { "Name": "TBN(경북)", "ServiceId": "라디오 TBN(경북)", "Category": "라디오" },
+      { "Name": "TBN(경인)", "ServiceId": "라디오 TBN(경인)", "Category": "라디오" },
+      { "Name": "TBN(광주)", "ServiceId": "라디오 TBN(광주)", "Category": "라디오" },
+      { "Name": "TBN(대구)", "ServiceId": "라디오 TBN(대구)", "Category": "라디오" },
+      { "Name": "TBN(대전)", "ServiceId": "라디오 TBN(대전)", "Category": "라디오" },
+      { "Name": "TBN(부산)", "ServiceId": "라디오 TBN(부산)", "Category": "라디오" },
+      { "Name": "TBN(울산)", "ServiceId": "라디오 TBN(울산)", "Category": "라디오" },
+      { "Name": "TBN(전북)", "ServiceId": "라디오 TBN(전북)", "Category": "라디오" },
+      { "Name": "TBN(제주)", "ServiceId": "라디오 TBN(제주)", "Category": "라디오" },
+      { "Name": "TBN(충북)", "ServiceId": "라디오 TBN(충북)", "Category": "라디오" },
+      { "Name": "TBS영어방송", "ServiceId": "라디오 TBS영어방송", "Category": "라디오" },
+      { "Name": "U KBS MUSIC", "ServiceId": "라디오 U KBS MUSIC", "Category": "라디오" },
+      { "Name": "YTNNewsFM", "ServiceId": "라디오 YTNNewsFM", "Category": "라디오" },
+      { "Name": "경인방송", "ServiceId": "라디오 경인방송", "Category": "라디오" },
+      { "Name": "국악방송", "ServiceId": "라디오 국악방송", "Category": "라디오" },
+      { "Name": "극동방송", "ServiceId": "라디오 극동방송", "Category": "라디오" },
+      { "Name": "cpbc 가톨릭평화방송", "ServiceId": "라디오 cpbc 가톨릭평화방송", "Category": "라디오" },
+      { "Name": "올댓뮤직", "ServiceId": "라디오 올댓뮤직", "Category": "라디오" }
     ]
   },
   "NAVER": {
-    "UPDATED": "2025-12-11T14:00:47.096755",
-    "TOTAL": 468,
+    "UPDATED": "2025-12-16T14:05:35.223251",
+    "TOTAL": 470,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "814582", "Category": "지상파" },
@@ -1505,6 +1546,7 @@
       { "Name": "JEI 재능TV", "ServiceId": "814993", "Category": "케이블" },
       { "Name": "AniOne", "ServiceId": "814989", "Category": "케이블" },
       { "Name": "CBeebies", "ServiceId": "814991", "Category": "케이블" },
+      { "Name": "디즈니채널", "ServiceId": "815001", "Category": "케이블" },
       { "Name": "KBS KIDS", "ServiceId": "815543", "Category": "케이블" },
       { "Name": "EBS KIDS", "ServiceId": "815547", "Category": "케이블" },
       { "Name": "카투니토", "ServiceId": "815072", "Category": "케이블" },
@@ -1703,6 +1745,7 @@
       { "Name": "JEI 재능TV", "ServiceId": "815314", "Category": "스카이라이프" },
       { "Name": "AniOne", "ServiceId": "815313", "Category": "스카이라이프" },
       { "Name": "Kids TalkTalk 플러스", "ServiceId": "815316", "Category": "스카이라이프" },
+      { "Name": "디즈니채널", "ServiceId": "815318", "Category": "스카이라이프" },
       { "Name": "롯데홈쇼핑", "ServiceId": "815365", "Category": "스카이라이프" },
       { "Name": "현대홈쇼핑", "ServiceId": "815366", "Category": "스카이라이프" },
       { "Name": "CJ온스타일", "ServiceId": "815360", "Category": "스카이라이프" },
@@ -1810,7 +1853,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2025-12-11T14:00:47.096812",
+    "UPDATED": "2025-12-16T14:05:35.223339",
     "TOTAL": 122,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1938,8 +1981,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2025-12-11T14:00:47.096837",
-    "TOTAL": 151,
+    "UPDATED": "2025-12-16T14:05:35.223373",
+    "TOTAL": 152,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -1962,6 +2005,7 @@
       { "Name": "시그널", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0146/C06761.png", "ServiceId": "C06761", "Category": "드라마" },
       { "Name": "응답하라1988", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0833/C06762.png", "ServiceId": "C06762", "Category": "드라마" },
       { "Name": "EBS1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0056/C00772.png", "ServiceId": "C00772", "Category": "교육" },
+      { "Name": "SBS Biz", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251215/0933/C15846.png", "ServiceId": "C15846", "Category": "뉴스/재테크" },
       { "Name": "애니플러스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20241112/0904/C00901.png", "ServiceId": "C00901", "Category": "어린이/만화" },
       { "Name": "YTN사이언스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0911/C15347.png", "ServiceId": "C15347", "Category": "다큐/정보" },
       { "Name": "JTBC2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0039/C15741.png", "ServiceId": "C15741", "Category": "음악/오락" },
@@ -2095,7 +2139,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2025-12-11T14:00:47.096867",
+    "UPDATED": "2025-12-16T14:05:35.223413",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
