@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2025-12-16T14:05:35.222945",
+    "UPDATED": "2025-12-22T14:01:10.158180",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2025-12-16T14:05:35.223029",
+    "UPDATED": "2025-12-22T14:01:10.159069",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "더라이프", "No": "0", "ServiceId": "772", "Category": "여성/오락" },
@@ -668,8 +668,8 @@
     ]
   },
   "SK": {
-    "UPDATED": "2025-12-16T14:05:35.223106",
-    "TOTAL": 270,
+    "UPDATED": "2025-12-22T14:01:10.159580",
+    "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
       { "Name": "KBS2", "No": "7", "ServiceId": "12", "Category": "지상파/종편" },
@@ -697,7 +697,7 @@
       { "Name": "NS Shop+", "No": "35", "ServiceId": "341", "Category": "홈쇼핑" },
       { "Name": "W쇼핑", "No": "37", "ServiceId": "342", "Category": "홈쇼핑" },
       { "Name": "현대홈쇼핑+Shop", "No": "39", "ServiceId": "337", "Category": "홈쇼핑" },
-      { "Name": "GS MY SHOP", "No": "998", "ServiceId": "343", "Category": "홈쇼핑" },
+      { "Name": "GS MY SHOP", "No": "999", "ServiceId": "343", "Category": "홈쇼핑" },
       { "Name": "CATCH ON 1", "No": "70", "ServiceId": "181", "Category": "영화" },
       { "Name": "CATCH ON 2", "No": "71", "ServiceId": "182", "Category": "영화" },
       { "Name": "OCN Movies", "No": "72", "ServiceId": "187", "Category": "영화" },
@@ -719,7 +719,7 @@
       { "Name": "MBC 드라마", "No": "32", "ServiceId": "900", "Category": "드라마/시리즈" },
       { "Name": "드라마큐브", "No": "36", "ServiceId": "903", "Category": "드라마/시리즈" },
       { "Name": "Dramax", "No": "38", "ServiceId": "904", "Category": "드라마/시리즈" },
-      { "Name": "MBC ON", "No": "41", "ServiceId": "531", "Category": "드라마/시리즈" },
+      { "Name": "MBC ON", "No": "40", "ServiceId": "531", "Category": "드라마/시리즈" },
       { "Name": "Highlight TV", "No": "42", "ServiceId": "885", "Category": "드라마/시리즈" },
       { "Name": "CNTV", "No": "43", "ServiceId": "175", "Category": "드라마/시리즈" },
       { "Name": "EDGE TV", "No": "44", "ServiceId": "128", "Category": "드라마/시리즈" },
@@ -733,7 +733,6 @@
       { "Name": "UXN", "No": "120", "ServiceId": "888", "Category": "드라마/시리즈" },
       { "Name": "UHD Dream TV", "No": "121", "ServiceId": "879", "Category": "드라마/시리즈" },
       { "Name": "Asia UHD", "No": "122", "ServiceId": "878", "Category": "드라마/시리즈" },
-      { "Name": "UMAX", "No": "123", "ServiceId": "69", "Category": "드라마/시리즈" },
       { "Name": "Ch.NOW", "No": "130", "ServiceId": "189", "Category": "드라마/시리즈" },
       { "Name": "채널J", "No": "132", "ServiceId": "197", "Category": "드라마/시리즈" },
       { "Name": "중화TV", "No": "133", "ServiceId": "186", "Category": "드라마/시리즈" },
@@ -744,6 +743,7 @@
       { "Name": "채널W", "No": "139", "ServiceId": "172", "Category": "드라마/시리즈" },
       { "Name": "ApleDrama", "No": "140", "ServiceId": "203", "Category": "드라마/시리즈" },
       { "Name": "WeLike", "No": "141", "ServiceId": "204", "Category": "드라마/시리즈" },
+      { "Name": "Warner TV", "No": "142", "ServiceId": "205", "Category": "드라마/시리즈" },
       { "Name": "바둑TV", "No": "220", "ServiceId": "528", "Category": "스포츠/레저" },
       { "Name": "K 바둑", "No": "221", "ServiceId": "253", "Category": "스포츠/레저" },
       { "Name": "브레인TV", "No": "222", "ServiceId": "279", "Category": "스포츠/레저" },
@@ -790,7 +790,7 @@
       { "Name": "채널 뷰", "No": "49", "ServiceId": "276", "Category": "연예/오락" },
       { "Name": "SBS fun E", "No": "51", "ServiceId": "882", "Category": "연예/오락" },
       { "Name": "채널S 플러스", "No": "52", "ServiceId": "869", "Category": "연예/오락" },
-      { "Name": "KBS joy", "No": "53", "ServiceId": "880", "Category": "연예/오락" },
+      { "Name": "코미디TV", "No": "54", "ServiceId": "906", "Category": "연예/오락" },
       { "Name": "JTBC4", "No": "55", "ServiceId": "259", "Category": "연예/오락" },
       { "Name": "ENA PLAY", "No": "60", "ServiceId": "893", "Category": "연예/오락" },
       { "Name": "E LIKE", "No": "61", "ServiceId": "274", "Category": "연예/오락" },
@@ -799,7 +799,6 @@
       { "Name": "FUN TV", "No": "69", "ServiceId": "887", "Category": "연예/오락" },
       { "Name": "tvN SHOW", "No": "90", "ServiceId": "185", "Category": "연예/오락" },
       { "Name": "TVCHOSUN2", "No": "91", "ServiceId": "631", "Category": "연예/오락" },
-      { "Name": "코미디TV", "No": "92", "ServiceId": "906", "Category": "연예/오락" },
       { "Name": "chEM", "No": "93", "ServiceId": "267", "Category": "연예/오락" },
       { "Name": "CMCTV", "No": "94", "ServiceId": "876", "Category": "연예/오락" },
       { "Name": "더라이프2", "No": "96", "ServiceId": "866", "Category": "연예/오락" },
@@ -808,6 +807,7 @@
       { "Name": "엔터TV", "No": "100", "ServiceId": "258", "Category": "연예/오락" },
       { "Name": "채널A플러스", "No": "101", "ServiceId": "891", "Category": "연예/오락" },
       { "Name": "CH.WIDE", "No": "102", "ServiceId": "180", "Category": "연예/오락" },
+      { "Name": "UMAX", "No": "103", "ServiceId": "910", "Category": "연예/오락" },
       { "Name": "Smile TV Plus", "No": "104", "ServiceId": "894", "Category": "연예/오락" },
       { "Name": "MBC M", "No": "105", "ServiceId": "250", "Category": "연예/오락" },
       { "Name": "붐TV", "No": "107", "ServiceId": "249", "Category": "연예/오락" },
@@ -833,14 +833,14 @@
       { "Name": "ORFEO", "No": "207", "ServiceId": "787", "Category": "연예/오락" },
       { "Name": "Stingray CMusic", "No": "209", "ServiceId": "672", "Category": "연예/오락" },
       { "Name": "Discovery Channel", "No": "281", "ServiceId": "437", "Category": "연예/오락" },
-      { "Name": "MBC Every1", "No": "990", "ServiceId": "881", "Category": "연예/오락" },
-      { "Name": "E채널", "No": "991", "ServiceId": "886", "Category": "연예/오락" },
-      { "Name": "SBS LIFE", "No": "992", "ServiceId": "896", "Category": "연예/오락" },
+      { "Name": "MBC Every1", "No": "994", "ServiceId": "881", "Category": "연예/오락" },
+      { "Name": "E채널", "No": "995", "ServiceId": "886", "Category": "연예/오락" },
+      { "Name": "SBS LIFE", "No": "996", "ServiceId": "896", "Category": "연예/오락" },
+      { "Name": "KBS joy", "No": "998", "ServiceId": "880", "Category": "연예/오락" },
       { "Name": "Tooniverse", "No": "170", "ServiceId": "376", "Category": "애니/키즈" },
       { "Name": "카툰네트워크", "No": "171", "ServiceId": "384", "Category": "애니/키즈" },
       { "Name": "Animax", "No": "172", "ServiceId": "371", "Category": "애니/키즈" },
       { "Name": "애니원", "No": "173", "ServiceId": "379", "Category": "애니/키즈" },
-      { "Name": "카투니토", "No": "174", "ServiceId": "433", "Category": "애니/키즈" },
       { "Name": "애니플러스", "No": "176", "ServiceId": "377", "Category": "애니/키즈" },
       { "Name": "애니박스", "No": "177", "ServiceId": "191", "Category": "애니/키즈" },
       { "Name": "KBS KIDS", "No": "178", "ServiceId": "382", "Category": "애니/키즈" },
@@ -862,6 +862,7 @@
       { "Name": "팍스경제TV", "No": "154", "ServiceId": "622", "Category": "뉴스/경제" },
       { "Name": "이데일리TV", "No": "155", "ServiceId": "630", "Category": "뉴스/경제" },
       { "Name": "서울경제TV", "No": "156", "ServiceId": "629", "Category": "뉴스/경제" },
+      { "Name": "연합뉴스경제 TV", "No": "157", "ServiceId": "451", "Category": "뉴스/경제" },
       { "Name": "토마토리빙", "No": "158", "ServiceId": "621", "Category": "뉴스/경제" },
       { "Name": "CNN International", "No": "160", "ServiceId": "774", "Category": "뉴스/경제" },
       { "Name": "BBC News", "No": "162", "ServiceId": "778", "Category": "뉴스/경제" },
@@ -869,14 +870,14 @@
       { "Name": "Bloomberg TV", "No": "164", "ServiceId": "775", "Category": "뉴스/경제" },
       { "Name": "Channel News Asia", "No": "165", "ServiceId": "777", "Category": "뉴스/경제" },
       { "Name": "FOX News Channel", "No": "166", "ServiceId": "791", "Category": "뉴스/경제" },
-      { "Name": "연합뉴스경제 TV", "No": "167", "ServiceId": "451", "Category": "뉴스/경제" },
       { "Name": "DealSite경제TV", "No": "168", "ServiceId": "454", "Category": "뉴스/경제" },
       { "Name": "FRANCE 24", "No": "279", "ServiceId": "793", "Category": "뉴스/경제" },
-      { "Name": "B tv Today2", "No": "50", "ServiceId": "325", "Category": "라이프/정보" },
+      { "Name": "B tv Today2", "No": "87", "ServiceId": "325", "Category": "라이프/정보" },
       { "Name": "DOG TV", "No": "88", "ServiceId": "255", "Category": "라이프/정보" },
       { "Name": "라이프타임", "No": "97", "ServiceId": "271", "Category": "라이프/정보" },
       { "Name": "YTN 사이언스", "No": "240", "ServiceId": "422", "Category": "라이프/정보" },
       { "Name": "엑스원", "No": "241", "ServiceId": "257", "Category": "라이프/정보" },
+      { "Name": "육아방송", "No": "242", "ServiceId": "287", "Category": "라이프/정보" },
       { "Name": "YTN2", "No": "243", "ServiceId": "632", "Category": "라이프/정보" },
       { "Name": "TBSTV", "No": "244", "ServiceId": "420", "Category": "라이프/정보" },
       { "Name": "리얼TV", "No": "245", "ServiceId": "440", "Category": "라이프/정보" },
@@ -884,7 +885,6 @@
       { "Name": "MBC NET", "No": "247", "ServiceId": "281", "Category": "라이프/정보" },
       { "Name": "9colors", "No": "248", "ServiceId": "285", "Category": "라이프/정보" },
       { "Name": "Now제주TV", "No": "249", "ServiceId": "290", "Category": "라이프/정보" },
-      { "Name": "육아방송", "No": "250", "ServiceId": "287", "Category": "라이프/정보" },
       { "Name": "실버아이TV", "No": "251", "ServiceId": "286", "Category": "라이프/정보" },
       { "Name": "시니어TV", "No": "252", "ServiceId": "291", "Category": "라이프/정보" },
       { "Name": "KBS LIFE", "No": "253", "ServiceId": "292", "Category": "라이프/정보" },
@@ -900,7 +900,6 @@
       { "Name": "KFN", "No": "263", "ServiceId": "445", "Category": "라이프/정보" },
       { "Name": "DIMATV", "No": "264", "ServiceId": "446", "Category": "라이프/정보" },
       { "Name": "지방자치TV", "No": "265", "ServiceId": "447", "Category": "라이프/정보" },
-      { "Name": "EYTV", "No": "267", "ServiceId": "449", "Category": "라이프/정보" },
       { "Name": "국악방송", "No": "268", "ServiceId": "450", "Category": "라이프/정보" },
       { "Name": "뉴트로 TV", "No": "269", "ServiceId": "459", "Category": "라이프/정보" },
       { "Name": "ONN 닥터TV", "No": "270", "ServiceId": "460", "Category": "라이프/정보" },
@@ -912,7 +911,7 @@
       { "Name": "TV5Monde", "No": "276", "ServiceId": "780", "Category": "라이프/정보" },
       { "Name": "NHK WORLD JAPAN", "No": "277", "ServiceId": "783", "Category": "라이프/정보" },
       { "Name": "대교 뉴이프 Plus", "No": "280", "ServiceId": "373", "Category": "라이프/정보" },
-      { "Name": "B tv Today", "No": "999", "ServiceId": "326", "Category": "라이프/정보" },
+      { "Name": "B tv Today", "No": "997", "ServiceId": "326", "Category": "라이프/정보" },
       { "Name": "KTV", "No": "64", "ServiceId": "222", "Category": "교육/공공/종교" },
       { "Name": "국회방송", "No": "65", "ServiceId": "221", "Category": "교육/공공/종교" },
       { "Name": "EBS2", "No": "95", "ServiceId": "63", "Category": "교육/공공/종교" },
@@ -944,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2025-12-16T14:05:35.223169",
+    "UPDATED": "2025-12-22T14:01:10.159969",
     "TOTAL": 427,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1377,8 +1376,8 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2025-12-16T14:05:35.223251",
-    "TOTAL": 470,
+    "UPDATED": "2025-12-22T14:01:10.160451",
+    "TOTAL": 471,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "814582", "Category": "지상파" },
@@ -1671,6 +1670,7 @@
       { "Name": "매일경제TV", "ServiceId": "5663691", "Category": "케이블" },
       { "Name": "시니어TV", "ServiceId": "18073904", "Category": "케이블" },
       { "Name": "국악방송", "ServiceId": "18120177", "Category": "케이블" },
+      { "Name": "EYTV", "ServiceId": "40445340", "Category": "케이블" },
       { "Name": "RNA", "ServiceId": "18147999", "Category": "케이블" },
       { "Name": "다문화TV", "ServiceId": "28710358", "Category": "케이블" },
       { "Name": "DealSite경제TV", "ServiceId": "31297333", "Category": "케이블" },
@@ -1853,7 +1853,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2025-12-16T14:05:35.223339",
+    "UPDATED": "2025-12-22T14:01:10.160943",
     "TOTAL": 122,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1981,13 +1981,14 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2025-12-16T14:05:35.223373",
-    "TOTAL": 152,
+    "UPDATED": "2025-12-22T14:01:10.161293",
+    "TOTAL": 154,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
       { "Name": "Mnet", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0103/C00579.png", "ServiceId": "C00579", "Category": "음악/오락" },
       { "Name": "KBS2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250908/0722/C00710.png", "ServiceId": "C00710", "Category": "지상파" },
+      { "Name": "CJ 온스타일", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251219/0143/C00601.png", "ServiceId": "C00601", "Category": "지상파" },
       { "Name": "tvN DRAMA", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0054/C01143.png", "ServiceId": "C01143", "Category": "여성/홈쇼핑" },
       { "Name": "OCN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0042/C07381.png", "ServiceId": "C07381", "Category": "영화" },
       { "Name": "KBS1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250908/0723/C00709.png", "ServiceId": "C00709", "Category": "지상파" },
@@ -2091,6 +2092,7 @@
       { "Name": "야노시호 화나따", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0833/C52409.png", "ServiceId": "C52409", "Category": "크리에이터TV" },
       { "Name": "파김치갱:다이어리", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0846/C52410.png", "ServiceId": "C52410", "Category": "크리에이터TV" },
       { "Name": "고나리돌 : NEW STEP", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251204/0237/C52412.png", "ServiceId": "C52412", "Category": "뉴스/재테크" },
+      { "Name": "컷생-만화in문학", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251216/0754/C52418.png", "ServiceId": "C52418", "Category": "크리에이터TV" },
       { "Name": "응답하라 1997", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C04761.png", "ServiceId": "C04761", "Category": "드라마" },
       { "Name": "어쩌다사장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0844/C51357.png", "ServiceId": "C51357", "Category": "음악/오락" },
       { "Name": "국회방송(NATV)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0033/C51263.png", "ServiceId": "C51263", "Category": "다큐/정보" },
@@ -2139,7 +2141,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2025-12-16T14:05:35.223413",
+    "UPDATED": "2025-12-22T14:01:10.161519",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
