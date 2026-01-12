@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2026-01-07T04:28:13.559589",
+    "UPDATED": "2026-01-12T13:06:49.040698",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,10 +314,10 @@
     ]
   },
   "LG": {
-    "UPDATED": "2026-01-07T04:28:13.559643",
+    "UPDATED": "2026-01-12T13:06:49.040900",
     "TOTAL": 348,
     "CHANNELS": [
-      { "Name": "더라이프", "No": "0", "ServiceId": "772", "Category": "여성/오락" },
+      { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
       { "Name": "KBS조이", "No": "1", "ServiceId": "619", "Category": "여성/오락" },
       { "Name": "KT알파 쇼핑", "No": "2", "ServiceId": "811", "Category": "홈쇼핑" },
       { "Name": "tvN", "No": "3", "ServiceId": "682", "Category": "여성/오락" },
@@ -416,16 +416,15 @@
       { "Name": "MBC에브리원", "No": "29", "ServiceId": "626", "Category": "여성/오락" },
       { "Name": "GS마이샵", "No": "30", "ServiceId": "740", "Category": "홈쇼핑" },
       { "Name": "KBS드라마", "No": "31", "ServiceId": "617", "Category": "여성/오락" },
-      { "Name": "CJ온스타일플러스", "No": "32", "ServiceId": "781", "Category": "홈쇼핑" },
+      { "Name": "쇼핑엔티", "No": "32", "ServiceId": "782", "Category": "홈쇼핑" },
       { "Name": "SBS플러스", "No": "33", "ServiceId": "612", "Category": "여성/오락" },
       { "Name": "현대홈쇼핑+샵", "No": "34", "ServiceId": "760", "Category": "홈쇼핑" },
       { "Name": "MBC드라마넷", "No": "35", "ServiceId": "621", "Category": "여성/오락" },
       { "Name": "롯데 OneTV", "No": "36", "ServiceId": "783", "Category": "홈쇼핑" },
-      { "Name": "쇼핑엔티", "No": "37", "ServiceId": "782", "Category": "홈쇼핑" },
+      { "Name": "NS샵+", "No": "37", "ServiceId": "812", "Category": "홈쇼핑" },
       { "Name": "SBS퍼니", "No": "38", "ServiceId": "615", "Category": "여성/오락" },
       { "Name": "ENA", "No": "39", "ServiceId": "694", "Category": "여성/오락" },
       { "Name": "JTBC2", "No": "40", "ServiceId": "606", "Category": "여성/오락" },
-      { "Name": "NS샵+", "No": "41", "ServiceId": "812", "Category": "홈쇼핑" },
       { "Name": "tvN STORY", "No": "42", "ServiceId": "696", "Category": "여성/오락" },
       { "Name": "무비+", "No": "43", "ServiceId": "679", "Category": "영화" },
       { "Name": "OCN", "No": "44", "ServiceId": "684", "Category": "영화" },
@@ -664,11 +663,12 @@
       { "Name": "UHD Dream TV", "No": "975", "ServiceId": "805", "Category": "여성/오락" },
       { "Name": "SBS필 UHD", "No": "976", "ServiceId": "514", "Category": "여성/오락" },
       { "Name": "UXN-UHD", "No": "977", "ServiceId": "818", "Category": "여성/오락" },
-      { "Name": "U+투데이", "No": "999", "ServiceId": "677", "Category": "여성/오락" }
+      { "Name": "U+투데이", "No": "990", "ServiceId": "677", "Category": "여성/오락" },
+      { "Name": "더라이프", "No": "999", "ServiceId": "772", "Category": "여성/오락" }
     ]
   },
   "SK": {
-    "UPDATED": "2026-01-07T04:28:13.559694",
+    "UPDATED": "2026-01-12T13:06:49.041068",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -943,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-01-07T04:28:13.559736",
+    "UPDATED": "2026-01-12T13:06:49.041160",
     "TOTAL": 427,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1376,7 +1376,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-01-07T04:28:13.559796",
+    "UPDATED": "2026-01-12T13:06:49.041387",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1854,13 +1854,14 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-01-07T04:28:13.559857",
-    "TOTAL": 121,
+    "UPDATED": "2026-01-12T13:06:49.041484",
+    "TOTAL": 122,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
       { "Name": "KBS 2TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png", "ServiceId": "K02" },
       { "Name": "MBC", "Icon_url": "https://image.wavve.com/channel_mgmt/image/M01_square_20250801143212.png", "ServiceId": "M01" },
       { "Name": "EBS 1", "Icon_url": "https://image.wavve.com/channel_mgmt/image/E01_square_20250731144344.png", "ServiceId": "E01" },
+      { "Name": "EBS 2", "Icon_url": "https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png", "ServiceId": "E07" },
       { "Name": "MBN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png", "ServiceId": "C2401" },
       { "Name": "TV CHOSUN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2601_square_20250731141708.png", "ServiceId": "C2601" },
       { "Name": "채널A", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2501_square_20250731141617.png", "ServiceId": "C2501" },
@@ -1981,8 +1982,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-01-07T04:28:13.559915",
-    "TOTAL": 159,
+    "UPDATED": "2026-01-12T13:06:49.041534",
+    "TOTAL": 160,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -2015,6 +2016,7 @@
       { "Name": "MBN 플러스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0038/C17142.png", "ServiceId": "C17142", "Category": "다큐/정보" },
       { "Name": "히스토리", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0037/C17341.png", "ServiceId": "C17341", "Category": "드라마" },
       { "Name": "YTN2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0055/C01101.png", "ServiceId": "C01101", "Category": "다큐/정보" },
+      { "Name": "T LIVE", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0106/C15042.png", "ServiceId": "C15042", "Category": "음악/오락" },
       { "Name": "효리네민박1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0144/C51370.png", "ServiceId": "C51370", "Category": "음악/오락" },
       { "Name": "오 나의 귀신님", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0139/C07261.png", "ServiceId": "C07261", "Category": "드라마" },
       { "Name": "애니맥스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0046/C04042.png", "ServiceId": "C04042", "Category": "어린이/만화" },
@@ -2146,7 +2148,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-01-07T04:28:13.559955",
+    "UPDATED": "2026-01-12T13:06:49.041599",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
