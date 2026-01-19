@@ -4948,12 +4948,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="SBS">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="SBS">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="SBS">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="SBS">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119124500 +0900" channel="SBS">
@@ -19998,12 +20014,50 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119140000 +0900" stop="20260119180000 +0900" channel="국회방송">
-    <title lang="ko">재정경제기획위원회</title>
-    <sub-title lang="ko">이혜훈 기획예산처 장관후보자 인사청문회</sub-title>
-    <desc lang="ko">재정경제기획위원회
-부제 : 이혜훈 기획예산처 장관후보자 인사청문회
+  <programme start="20260119140000 +0900" stop="20260119150000 +0900" channel="국회방송">
+    <title lang="ko">한국인의 밥상 (재)</title>
+    <sub-title lang="ko">한 상 가득 남도-또 다시 봄</sub-title>
+    <desc lang="ko">한국인의 밥상 (재)
+부제 : 한 상 가득 남도-또 다시 봄
+방송 : 재방송
 등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119150000 +0900" stop="20260119160000 +0900" channel="국회방송">
+    <title lang="ko">하늘과 땅 사이의 산티아고 길 (재)</title>
+    <sub-title lang="ko">포르투갈 길</sub-title>
+    <desc lang="ko">하늘과 땅 사이의 산티아고 길 (재)
+부제 : 포르투갈 길
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119160000 +0900" stop="20260119170000 +0900" channel="국회방송">
+    <title lang="ko">고대공학의 비밀 2 (재)</title>
+    <sub-title lang="ko">역사상 가장 치명적인 무기들</sub-title>
+    <desc lang="ko">고대공학의 비밀 2 (재)
+부제 : 역사상 가장 치명적인 무기들
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119170000 +0900" stop="20260119180000 +0900" channel="국회방송">
+    <title lang="ko">국회, K컬처에 날개를 달다 (재)</title>
+    <sub-title lang="ko">K-뮤지컬, 세계 무대로 확장하다</sub-title>
+    <desc lang="ko">국회, K컬처에 날개를 달다 (재)
+부제 : K-뮤지컬, 세계 무대로 확장하다
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -20224,10 +20278,38 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260120100000 +0900" stop="20260120120000 +0900" channel="국회방송">
-    <title lang="ko">의사중계</title>
-    <desc lang="ko">의사중계
+  <programme start="20260120100000 +0900" stop="20260120103000 +0900" channel="국회방송">
+    <title lang="ko">죽기전에 꼭 가봐야 할 세계의 이색호텔 (재)</title>
+    <sub-title lang="ko">트리호텔(스웨덴)</sub-title>
+    <desc lang="ko">죽기전에 꼭 가봐야 할 세계의 이색호텔 (재)
+부제 : 트리호텔(스웨덴)
+방송 : 재방송
 등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260120103000 +0900" stop="20260120110000 +0900" channel="국회방송">
+    <title lang="ko">대한민국을 바꾼 법의 탄생 (재)</title>
+    <sub-title lang="ko">동성동본결혼금지제도의 폐지, 전통을 넘어 '혼인의 자유'로</sub-title>
+    <desc lang="ko">대한민국을 바꾼 법의 탄생 (재)
+부제 : 동성동본결혼금지제도의 폐지, 전통을 넘어 '혼인의 자유'로
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260120110000 +0900" stop="20260120120000 +0900" channel="국회방송">
+    <title lang="ko">한국인의 밥상 (재)</title>
+    <sub-title lang="ko">우리는 단짝! 호도, 녹도 사람들</sub-title>
+    <desc lang="ko">한국인의 밥상 (재)
+부제 : 우리는 단짝! 호도, 녹도 사람들
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -20277,8 +20359,10 @@
     </rating>
   </programme>
   <programme start="20260120140000 +0900" stop="20260120180000 +0900" channel="국회방송">
-    <title lang="ko">의사중계</title>
-    <desc lang="ko">의사중계
+    <title lang="ko">외교통일위원회</title>
+    <sub-title lang="ko">현안 질의</sub-title>
+    <desc lang="ko">외교통일위원회
+부제 : 현안 질의
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -26266,7 +26350,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260120220000 +0900" stop="20260121000000 +0900" channel="채널A">
+  <programme start="20260120220000 +0900" stop="20260121004000 +0900" channel="채널A">
     <title lang="ko">야구여왕</title>
     <desc lang="ko">야구여왕
 등급 : 15세 이상 관람가</desc>
@@ -26274,7 +26358,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121000000 +0900" stop="20260121012000 +0900" channel="채널A">
+  <programme start="20260121004000 +0900" stop="20260121020000 +0900" channel="채널A">
     <title lang="ko">채널A 토일드라마 아기가 생겼어요 (재)</title>
     <desc lang="ko">채널A 토일드라마 아기가 생겼어요 (재)
 방송 : 재방송
@@ -26284,7 +26368,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121012000 +0900" stop="20260121024000 +0900" channel="채널A">
+  <programme start="20260121020000 +0900" stop="20260121032000 +0900" channel="채널A">
     <title lang="ko">채널A 스페셜 앤틱 로드쇼 시즌46</title>
     <desc lang="ko">채널A 스페셜 앤틱 로드쇼 시즌46
 등급 : 전체 관람가</desc>
@@ -26292,28 +26376,10 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121024000 +0900" stop="20260121031000 +0900" channel="채널A">
+  <programme start="20260121032000 +0900" stop="20260121035000 +0900" channel="채널A">
     <title lang="ko">채널A 스페셜 7분다큐</title>
     <desc lang="ko">채널A 스페셜 7분다큐
 등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121031000 +0900" stop="20260121034000 +0900" channel="채널A">
-    <title lang="ko">채널A 스페셜 메디컬 인사이트</title>
-    <desc lang="ko">채널A 스페셜 메디컬 인사이트
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121034000 +0900" stop="20260121035000 +0900" channel="채널A">
-    <title lang="ko">채널A 한파 특보 (재)</title>
-    <desc lang="ko">채널A 한파 특보 (재)
-방송 : 재방송
-등급 : 전체 관람가</desc>
-    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -36168,12 +36234,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="CJB 청주방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="CJB 청주방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="CJB 청주방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="CJB 청주방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122000 +0900" channel="CJB 청주방송">
@@ -36912,12 +36994,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="G1 방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="G1 방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="G1 방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="G1 방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122500 +0900" channel="G1 방송">
@@ -37670,12 +37768,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="JTV 전주방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="JTV 전주방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="JTV 전주방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="JTV 전주방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119124500 +0900" channel="JTV 전주방송">
@@ -38380,12 +38494,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="KBC 광주방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="KBC 광주방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="KBC 광주방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="KBC 광주방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122500 +0900" channel="KBC 광주방송">
@@ -39122,12 +39252,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="TBC 대구방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="TBC 대구방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="TBC 대구방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="TBC 대구방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122000 +0900" channel="TBC 대구방송">
@@ -39880,12 +40026,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="TJB 대전방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="TJB 대전방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="TJB 대전방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="TJB 대전방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122000 +0900" channel="TJB 대전방송">
@@ -40652,12 +40814,28 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="KNN 부산경남방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="KNN 부산경남방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="KNN 부산경남방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122000 +0900" channel="KNN 부산경남방송">
@@ -41370,12 +41548,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="UBC 울산방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="UBC 울산방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="UBC 울산방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="UBC 울산방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119122000 +0900" channel="UBC 울산방송">
@@ -42116,12 +42310,28 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260119095500 +0900" stop="20260119120000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회</title>
-    <desc lang="ko">중계방송 이혜훈 기획예산처 장관 후보자 인사청문회
+  <programme start="20260119095500 +0900" stop="20260119103000 +0900" channel="JIBS 제주방송">
+    <title lang="ko">SBS 뉴스 / (2안)</title>
+    <desc lang="ko">SBS 뉴스 / (2안)
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119103000 +0900" stop="20260119110000 +0900" channel="JIBS 제주방송">
+    <title lang="ko">접속! 무비월드 스페셜 / (2안)</title>
+    <desc lang="ko">접속! 무비월드 스페셜 / (2안)
+등급 : 15세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260119110000 +0900" stop="20260119120000 +0900" channel="JIBS 제주방송">
+    <title lang="ko">보석이네 건강 수다 / (2안)</title>
+    <desc lang="ko">보석이네 건강 수다 / (2안)
+등급 : 12세 이상 관람가</desc>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260119120000 +0900" stop="20260119124500 +0900" channel="JIBS 제주방송">
