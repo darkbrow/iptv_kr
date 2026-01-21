@@ -4718,36 +4718,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="SBS">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="SBS">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="SBS">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121124500 +0900" channel="SBS">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="SBS">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="SBS">
@@ -35778,44 +35754,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="CJB 청주방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="CJB 청주방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="CJB 청주방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122000 +0900" channel="CJB 청주방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122000 +0900" stop="20260121124500 +0900" channel="CJB 청주방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="CJB 청주방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="CJB 청주방송">
@@ -36558,44 +36502,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="G1 방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="G1 방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="G1 방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122500 +0900" channel="G1 방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122500 +0900" stop="20260121124500 +0900" channel="G1 방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="G1 방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="G1 방송">
@@ -37344,36 +37256,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="JTV 전주방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="JTV 전주방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="JTV 전주방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121124500 +0900" channel="JTV 전주방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="JTV 전주방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="JTV 전주방송">
@@ -38082,44 +37970,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="KBC 광주방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="KBC 광주방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="KBC 광주방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122500 +0900" channel="KBC 광주방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122500 +0900" stop="20260121124500 +0900" channel="KBC 광주방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="KBC 광주방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="KBC 광주방송">
@@ -38854,44 +38710,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="TBC 대구방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="TBC 대구방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="TBC 대구방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122000 +0900" channel="TBC 대구방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122000 +0900" stop="20260121124500 +0900" channel="TBC 대구방송">
-    <title lang="ko">민방 네트워크 NEWS</title>
-    <desc lang="ko">민방 네트워크 NEWS
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="TBC 대구방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="TBC 대구방송">
@@ -39626,44 +39450,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="TJB 대전방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="TJB 대전방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="TJB 대전방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122000 +0900" channel="TJB 대전방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122000 +0900" stop="20260121124500 +0900" channel="TJB 대전방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="TJB 대전방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="TJB 대전방송">
@@ -40406,44 +40198,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="KNN 부산경남방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122000 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122000 +0900" stop="20260121124500 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="KNN 부산경남방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="KNN 부산경남방송">
@@ -41160,44 +40920,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="UBC 울산방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="UBC 울산방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="UBC 울산방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121122000 +0900" channel="UBC 울산방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121122000 +0900" stop="20260121124500 +0900" channel="UBC 울산방송">
-    <title lang="ko">민방 네트워크 뉴스</title>
-    <desc lang="ko">민방 네트워크 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="UBC 울산방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="UBC 울산방송">
@@ -41946,36 +41674,12 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260121095500 +0900" stop="20260121113000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">SBS 뉴스특보</title>
-    <desc lang="ko">SBS 뉴스특보
+  <programme start="20260121095500 +0900" stop="20260121130000 +0900" channel="JIBS 제주방송">
+    <title lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견</title>
+    <desc lang="ko">SBS 뉴스특보 이재명 대통령 신년 기자회견
 등급 : 전체 관람가</desc>
     <rating system="KMRB">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121113000 +0900" stop="20260121120000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">요리조리 맛있는 수업</title>
-    <desc lang="ko">요리조리 맛있는 수업
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121120000 +0900" stop="20260121124500 +0900" channel="JIBS 제주방송">
-    <title lang="ko">SBS 12 뉴스</title>
-    <desc lang="ko">SBS 12 뉴스
-등급 : 전체 관람가</desc>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260121124500 +0900" stop="20260121130000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">위시캣</title>
-    <desc lang="ko">위시캣
-등급 : 7세 이상 관람가</desc>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260121130000 +0900" stop="20260121140000 +0900" channel="JIBS 제주방송">
