@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2026-01-16T14:00:45.720611",
+    "UPDATED": "2026-01-21T12:13:51.367305",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2026-01-16T14:00:45.720661",
+    "UPDATED": "2026-01-21T12:13:51.367386",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -668,7 +668,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-01-16T14:00:45.720710",
+    "UPDATED": "2026-01-21T12:13:51.367470",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -943,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-01-16T14:00:45.720745",
+    "UPDATED": "2026-01-21T12:13:51.367534",
     "TOTAL": 427,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1376,7 +1376,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-01-16T14:00:45.720874",
+    "UPDATED": "2026-01-21T12:13:51.367620",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1854,7 +1854,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-01-16T14:00:45.720934",
+    "UPDATED": "2026-01-21T12:13:51.367745",
     "TOTAL": 122,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1982,8 +1982,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-01-16T14:00:45.720956",
-    "TOTAL": 164,
+    "UPDATED": "2026-01-21T12:13:51.367792",
+    "TOTAL": 165,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -2032,7 +2032,6 @@
       { "Name": "미스터트롯&미스트롯-영웅들의 탄생", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0048/C51434.png", "ServiceId": "C51434", "Category": "음악/오락" },
       { "Name": "텐트 밖은 유럽", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C51436.png", "ServiceId": "C51436", "Category": "음악/오락" },
       { "Name": "작은 아씨들", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0140/C51438.png", "ServiceId": "C51438", "Category": "드라마" },
-      { "Name": "WTA 투어 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C51651.png", "ServiceId": "C51651", "Category": "스포츠/취미" },
       { "Name": "쇼미 더 머니11", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png", "ServiceId": "C51663", "Category": "음악/오락" },
       { "Name": "보이즈 플래닛", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png", "ServiceId": "C52052", "Category": "음악/오락" },
       { "Name": "서진이네", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png", "ServiceId": "C52053", "Category": "음악/오락" },
@@ -2056,7 +2055,8 @@
       { "Name": "삼시세끼 Light", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0106/C52237.png", "ServiceId": "C52237", "Category": "음악/오락" },
       { "Name": "정년이", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0142/C52240.png", "ServiceId": "C52240", "Category": "드라마" },
       { "Name": "김창옥쇼3", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0122/C52241.png", "ServiceId": "C52241", "Category": "음악/오락" },
-      { "Name": "ATP 투어 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251202/1457/C52247.png", "ServiceId": "C52247", "Category": "스포츠/취미" },
+      { "Name": "2026 호주 오픈 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260106/2347/C52244.png", "ServiceId": "C52244", "Category": "스포츠/취미" },
+      { "Name": "2026 호주 오픈 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260106/2347/C52245.png", "ServiceId": "C52245", "Category": "스포츠/취미" },
       { "Name": "텐트 밖은 유럽 - 로맨틱 이탈리아", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0051/C52250.png", "ServiceId": "C52250", "Category": "음악/오락" },
       { "Name": "삼성 라이온즈 하이라이트 (25년)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0038/C52263.png", "ServiceId": "C52263", "Category": "스포츠/취미" },
       { "Name": "LG 트윈스 하이라이트 (25년)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0043/C52264.png", "ServiceId": "C52264", "Category": "스포츠/취미" },
@@ -2148,11 +2148,12 @@
       { "Name": "삼시세끼 어촌편2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C08681.png", "ServiceId": "C08681", "Category": "음악/오락" },
       { "Name": "삼시세끼 정선편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0635/C08682.png", "ServiceId": "C08682", "Category": "음악/오락" },
       { "Name": "삼시세끼 어촌편1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0631/C08683.png", "ServiceId": "C08683", "Category": "음악/오락" },
-      { "Name": "MBC 뉴스&시사", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251107/0145/C52389.png", "ServiceId": "C52389", "Category": "뉴스/재테크" }
+      { "Name": "MBC 뉴스&시사", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251107/0145/C52389.png", "ServiceId": "C52389", "Category": "뉴스/재테크" },
+      { "Name": "한국경제TV 글로벌", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251203/0849/C52405.png", "ServiceId": "C52405", "Category": "뉴스/재테크" }
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-01-16T14:00:45.720983",
+    "UPDATED": "2026-01-21T12:13:51.367838",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
