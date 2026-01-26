@@ -20089,11 +20089,11 @@
     </rating>
   </programme>
   <programme start="20260127133000 +0900" stop="20260127140000 +0900" channel="국회방송">
-    <title lang="ko">이야기를 담다 (재)</title>
-    <desc lang="ko">이야기를 담다 (재)
-방송 : 재방송
+    <title lang="ko">마에스트로 명장</title>
+    <sub-title lang="ko">권혁수 벼루장</sub-title>
+    <desc lang="ko">마에스트로 명장
+부제 : 권혁수 벼루장
 등급 : 전체 관람가</desc>
-    <previously-shown />
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -22326,10 +22326,10 @@
     <title lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)</title>
     <desc lang="ko">한국영화, 고전으로의 초대 큐레이션 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260127005000 +0900" stop="20260127011000 +0900" channel="tbsTV">
@@ -22380,7 +22380,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260127042000 +0900" stop="20260127044000 +0900" channel="tbsTV">
+  <programme start="20260127042000 +0900" stop="20260127044300 +0900" channel="tbsTV">
     <title lang="ko">오늘도 배움 (재)</title>
     <desc lang="ko">오늘도 배움 (재)
 방송 : 재방송
@@ -22390,7 +22390,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260127044000 +0900" stop="20260127050000 +0900" channel="tbsTV">
+  <programme start="20260127044300 +0900" stop="20260127050000 +0900" channel="tbsTV">
     <title lang="ko">오늘도 배움 (재)</title>
     <desc lang="ko">오늘도 배움 (재)
 방송 : 재방송
@@ -25844,7 +25844,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260127001000 +0900" stop="20260127014000 +0900" channel="채널A">
+  <programme start="20260127001000 +0900" stop="20260127013000 +0900" channel="채널A">
     <title lang="ko">채널A 토일드라마 아기가 생겼어요 (재)</title>
     <desc lang="ko">채널A 토일드라마 아기가 생겼어요 (재)
 방송 : 재방송
@@ -25854,7 +25854,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260127014000 +0900" stop="20260127030000 +0900" channel="채널A">
+  <programme start="20260127013000 +0900" stop="20260127030000 +0900" channel="채널A">
     <title lang="ko">요즘 육아 금쪽같은 내 새끼 (재)</title>
     <desc lang="ko">요즘 육아 금쪽같은 내 새끼 (재)
 방송 : 재방송
@@ -26030,7 +26030,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260127220000 +0900" stop="20260128000000 +0900" channel="채널A">
+  <programme start="20260127220000 +0900" stop="20260128001000 +0900" channel="채널A">
     <title lang="ko">야구여왕</title>
     <desc lang="ko">야구여왕
 등급 : 15세 이상 관람가</desc>
@@ -26038,7 +26038,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260128000000 +0900" stop="20260128012000 +0900" channel="채널A">
+  <programme start="20260128001000 +0900" stop="20260128013000 +0900" channel="채널A">
     <title lang="ko">채널A 토일드라마 아기가 생겼어요 (재)</title>
     <desc lang="ko">채널A 토일드라마 아기가 생겼어요 (재)
 방송 : 재방송
@@ -26048,7 +26048,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260128012000 +0900" stop="20260128024000 +0900" channel="채널A">
+  <programme start="20260128013000 +0900" stop="20260128025000 +0900" channel="채널A">
     <title lang="ko">채널A 스페셜 앤틱 로드쇼 시즌46</title>
     <desc lang="ko">채널A 스페셜 앤틱 로드쇼 시즌46
 등급 : 전체 관람가</desc>
@@ -26056,7 +26056,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260128024000 +0900" stop="20260128031000 +0900" channel="채널A">
+  <programme start="20260128025000 +0900" stop="20260128032000 +0900" channel="채널A">
     <title lang="ko">채널A 스페셜 클래스온</title>
     <desc lang="ko">채널A 스페셜 클래스온
 등급 : 전체 관람가</desc>
@@ -26064,22 +26064,12 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260128031000 +0900" stop="20260128034000 +0900" channel="채널A">
+  <programme start="20260128032000 +0900" stop="20260128035000 +0900" channel="채널A">
     <title lang="ko">채널A 스페셜 눈에 띄는 그녀들 7</title>
     <desc lang="ko">채널A 스페셜 눈에 띄는 그녀들 7
 등급 : 12세 이상 관람가</desc>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260128034000 +0900" stop="20260128035000 +0900" channel="채널A">
-    <title lang="ko">채널A 한파 특보 (재)</title>
-    <desc lang="ko">채널A 한파 특보 (재)
-방송 : 재방송
-등급 : 전체 관람가</desc>
-    <previously-shown />
-    <rating system="KMRB">
-      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260128035000 +0900" stop="20260128040000 +0900" channel="채널A">
