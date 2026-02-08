@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2026-02-03T14:00:59.348952",
+    "UPDATED": "2026-02-08T14:00:54.065611",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2026-02-03T14:00:59.349214",
+    "UPDATED": "2026-02-08T14:00:54.065709",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -484,7 +484,7 @@
       { "Name": "SBS Golf2", "No": "99", "ServiceId": "635", "Category": "스포츠/취미" },
       { "Name": "SBS골프", "No": "100", "ServiceId": "614", "Category": "스포츠/취미" },
       { "Name": "JTBC골프", "No": "101", "ServiceId": "602", "Category": "스포츠/취미" },
-      { "Name": "JTBC골프앤스포츠", "No": "102", "ServiceId": "795", "Category": "스포츠/취미" },
+      { "Name": "JTBC SPORTS", "No": "102", "ServiceId": "795", "Category": "스포츠/취미" },
       { "Name": "스포티비 골프 앤 헬스", "No": "103", "ServiceId": "650", "Category": "스포츠/취미" },
       { "Name": "SBS스포츠", "No": "104", "ServiceId": "613", "Category": "스포츠/취미" },
       { "Name": "KBSN스포츠", "No": "105", "ServiceId": "618", "Category": "스포츠/취미" },
@@ -668,7 +668,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-02-03T14:00:59.349462",
+    "UPDATED": "2026-02-08T14:00:54.065811",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -943,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-02-03T14:00:59.349653",
+    "UPDATED": "2026-02-08T14:00:54.065875",
     "TOTAL": 426,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1375,7 +1375,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-02-03T14:00:59.349913",
+    "UPDATED": "2026-02-08T14:00:54.065961",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1518,7 +1518,7 @@
       { "Name": "JTBC Golf", "ServiceId": "814876", "Category": "케이블" },
       { "Name": "Billiards TV", "ServiceId": "814868", "Category": "케이블" },
       { "Name": "SPOTV Golf & Health", "ServiceId": "815548", "Category": "케이블" },
-      { "Name": "JTBC GOLF & SPORTS", "ServiceId": "815499", "Category": "케이블" },
+      { "Name": "JTBC SPORTS", "ServiceId": "815499", "Category": "케이블" },
       { "Name": "SPOTV", "ServiceId": "2876055", "Category": "케이블" },
       { "Name": "SPOTV2", "ServiceId": "5286701", "Category": "케이블" },
       { "Name": "ENA SPORTS", "ServiceId": "5561517", "Category": "케이블" },
@@ -1853,8 +1853,8 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-02-03T14:00:59.350198",
-    "TOTAL": 120,
+    "UPDATED": "2026-02-08T14:00:54.066050",
+    "TOTAL": 118,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
       { "Name": "KBS 2TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png", "ServiceId": "K02" },
@@ -1920,7 +1920,6 @@
       { "Name": "PLAYY 웰메이드 영화", "Icon_url": "https://image.wavve.com/channel_mgmt/image/H01_square_20250731211351.png", "ServiceId": "H01" },
       { "Name": "PLAYY 프리미엄 영화", "Icon_url": "https://image.wavve.com/channel_mgmt/image/H02_square_20250731211438.png", "ServiceId": "H02" },
       { "Name": "PLAYY 액션영화", "Icon_url": "https://image.wavve.com/channel_mgmt/image/H07_square_20250731211559.png", "ServiceId": "H07" },
-      { "Name": "시네마천국", "Icon_url": "https://image.wavve.com/channel_mgmt/image/H05_square_20250731211522.png", "ServiceId": "H05" },
       { "Name": "씨네트리", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F2601_square_20250731210702.png", "ServiceId": "F2601" },
       { "Name": "THE MOVIE", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F2501_square_20250731210631.png", "ServiceId": "F2501" },
       { "Name": "ANIBOX", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C4401_square_20250731142904.png", "ServiceId": "C4401" },
@@ -1971,7 +1970,6 @@
       { "Name": "SBS No.1 뉴스라이브", "Icon_url": "https://image.wavve.com/channel_mgmt/image/S27_square_20250910163731.png", "ServiceId": "S27" },
       { "Name": "KBS NEWS 24", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K38_square_20250910163810.png", "ServiceId": "K38" },
       { "Name": "JTBC NEWS NOW", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2312_square_20250910163902.png", "ServiceId": "C2312" },
-      { "Name": "JTBC", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2311_square_20250910163833.png", "ServiceId": "C2311" },
       { "Name": "나는솔로", "Icon_url": "https://image.wavve.com/channel_mgmt/image/S28_square_20251001172621.png", "ServiceId": "S28" },
       { "Name": "TV조선 라이브 뉴스 24시", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2605_square_20251017175121.png", "ServiceId": "C2605" },
       { "Name": "MBN NEWS", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2413_square_20251017175409.png", "ServiceId": "C2413" },
@@ -1979,11 +1977,10 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-02-03T14:00:59.350302",
-    "TOTAL": 170,
+    "UPDATED": "2026-02-08T14:00:54.066084",
+    "TOTAL": 172,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
-      { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
       { "Name": "Mnet", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0103/C00579.png", "ServiceId": "C00579", "Category": "음악/오락" },
       { "Name": "KBS2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250908/0722/C00710.png", "ServiceId": "C00710", "Category": "지상파" },
       { "Name": "CJ 온스타일", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251219/0143/C00601.png", "ServiceId": "C00601", "Category": "여성/홈쇼핑" },
@@ -2049,6 +2046,9 @@
       { "Name": "텐트 밖은 유럽 남프랑스 편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20240531/0926/C52173.png", "ServiceId": "C52173", "Category": "음악/오락" },
       { "Name": "선재 업고 튀어", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0135/C52178.png", "ServiceId": "C52178", "Category": "드라마" },
       { "Name": "서진이네2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0134/C52194.png", "ServiceId": "C52194", "Category": "음악/오락" },
+      { "Name": "2025-2026 LG전자 프로농구", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0815/C52205.png", "ServiceId": "C52205", "Category": "스포츠/취미" },
+      { "Name": "2025-2026 LG전자 프로농구", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0817/C52206.png", "ServiceId": "C52206", "Category": "스포츠/취미" },
+      { "Name": "2025-2026 LG전자 프로농구", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0818/C52207.png", "ServiceId": "C52207", "Category": "스포츠/취미" },
       { "Name": "삼시세끼 Light", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0106/C52237.png", "ServiceId": "C52237", "Category": "음악/오락" },
       { "Name": "정년이", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0142/C52240.png", "ServiceId": "C52240", "Category": "드라마" },
       { "Name": "김창옥쇼3", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0122/C52241.png", "ServiceId": "C52241", "Category": "음악/오락" },
@@ -2155,7 +2155,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-02-03T14:00:59.350441",
+    "UPDATED": "2026-02-08T14:00:54.066130",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
