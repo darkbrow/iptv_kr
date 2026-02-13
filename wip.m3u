@@ -15,8 +15,6 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="KFN" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="케이블",국방 TV (1080p)
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="케이블",MBC Net (480p)
-http://mytv.dothome.co.kr/ch/catv/28.php
 #EXTINF:-1 tvg-id="EBS English" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="교육",EBS E (400p)
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS KIDS" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="아동",EBS Kids (400p)
@@ -37,14 +35,10 @@ https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="KCTV 광주방송" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="지역 민방",KCTV 광주 (720p)
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="JCN 울산방송" tvg-logo="http://www.jcntv.kr/theme/home/img/layout/img-meta.png" group-title="지역 민방",JCN 울산 (1080p)
-https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="NBS한국농업방송" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="케이블",NBS 농업방송 (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="NHTV.kr" tvg-logo="https://i.imgur.com/DfECkgB.png" group-title="케이블",NHTV 농협방송 (720p)
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
-#EXTINF:-1 tvg-id="복지TV" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="케이블",복지 TV (1080p)
-https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 #EXTINF:-1 tvg-id="채널A" tvg-logo="https://i.imgur.com/W9laHPD.png" group-title="종편",Channel A (360p)
 http://www.hwado.net/webtv/catv/52_440DDPPJ.php
 #EXTINF:-1 tvg-id="TV조선" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="종편" http-referrer="http://broadcast.tvchosun.com/onair/on.cstv",TV 조선 (720p)
@@ -125,3 +119,4 @@ https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720
 https://live.shoppingntmall.com/live/10011.m3u8
 #EXTINF:-1 tvg-id="W쇼핑" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="홈쇼핑",W Shopping (720p)
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
