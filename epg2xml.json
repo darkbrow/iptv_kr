@@ -22,6 +22,7 @@
     "MY_CHANNELS": [
       { "Name": "신세계쇼핑", "No": "19", "ServiceId": "339", "Category": "홈쇼핑" },
       { "Name": "쇼핑엔티", "No": "29", "ServiceId": "336", "Category": "홈쇼핑" },
+      { "Name": "홈&쇼핑", "No": "12", "ServiceId": "327", "Category": "홈쇼핑" },
       { "Name": "W쇼핑", "No": "37", "ServiceId": "342", "Category": "홈쇼핑" }
     ]
   },
@@ -77,15 +78,15 @@
       { "Name": "CJ온스타일플러스", "ServiceId": "케이블 CJ온스타일플러스", "Category": "케이블" },
       { "Name": "공영쇼핑", "ServiceId": "케이블 공영쇼핑", "Category": "케이블" },
       { "Name": "GS SHOP", "ServiceId": "케이블 GS SHOP", "Category": "케이블" },
-      { "Name": "홈&쇼핑", "ServiceId": "케이블 홈&쇼핑", "Category": "케이블" },
       { "Name": "현대홈쇼핑", "ServiceId": "케이블 현대홈쇼핑", "Category": "케이블" },
       { "Name": "롯데홈쇼핑", "ServiceId": "케이블 롯데홈쇼핑", "Category": "케이블" },
-      { "Name": "NS홈쇼핑", "ServiceId": "케이블 NS홈쇼핑", "Category": "케이블" },
-      { "Name": "NS Shop+", "ServiceId": "케이블 NS Shop+", "Category": "케이블" }
+      { "Name": "NS홈쇼핑", "ServiceId": "케이블 NS홈쇼핑", "Category": "케이블" }
     ]
   },
   "NAVER": {
-    "MY_CHANNELS": []
+    "MY_CHANNELS": [
+      { "Name": "NS Shop+", "ServiceId": "29770878", "Category": "케이블" }
+    ]
   },
   "WAVVE": {
     "MY_CHANNELS": []
