@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2026-04-25T19:24:01.890367",
+    "UPDATED": "2026-04-30T02:06:32.633508",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2026-04-25T19:24:01.890295",
+    "UPDATED": "2026-04-30T02:06:32.633380",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -668,7 +668,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-04-25T19:24:01.890339",
+    "UPDATED": "2026-04-30T02:06:32.633465",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -943,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-04-25T19:24:01.890401",
+    "UPDATED": "2026-04-30T02:06:32.633575",
     "TOTAL": 429,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1378,7 +1378,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-04-25T19:24:01.890436",
+    "UPDATED": "2026-04-30T02:06:32.633640",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1856,7 +1856,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-04-25T19:24:01.890471",
+    "UPDATED": "2026-04-30T02:06:32.633697",
     "TOTAL": 124,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1915,7 +1915,7 @@
       { "Name": "EDGETV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/X01_square_20250801151403.png", "ServiceId": "X01" },
       { "Name": "FUNTV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/X02_square_20250801151431.png", "ServiceId": "X02" },
       { "Name": "채널J", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C5501_square_20250731143839.png", "ServiceId": "C5501" },
-      { "Name": "CN PLAY", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C8401_square_20250731144306.png", "ServiceId": "C8401" },
+      { "Name": "채널차이나", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C8401_square_20250731144306.png", "ServiceId": "C8401" },
       { "Name": "TVasia Plus", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F5601_square_20250731210852.png", "ServiceId": "F5601" },
       { "Name": "SmileTV Plus", "Icon_url": "https://image.wavve.com/channel_mgmt/image/F5602_square_20250731210927.png", "ServiceId": "F5602" },
       { "Name": "위라이크", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C8101_square_20250731144133.png", "ServiceId": "C8101" },
@@ -1986,8 +1986,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-04-25T19:24:01.890485",
-    "TOTAL": 175,
+    "UPDATED": "2026-04-30T02:06:32.633716",
+    "TOTAL": 171,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -2037,10 +2037,6 @@
       { "Name": "텐트 밖은 유럽", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C51436.png", "ServiceId": "C51436", "Category": "음악/오락" },
       { "Name": "작은 아씨들", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0140/C51438.png", "ServiceId": "C51438", "Category": "드라마" },
       { "Name": "쇼미 더 머니11", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png", "ServiceId": "C51663", "Category": "음악/오락" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0453/C51850.png", "ServiceId": "C51850", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0457/C51949.png", "ServiceId": "C51949", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0458/C51950.png", "ServiceId": "C51950", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0500/C51951.png", "ServiceId": "C51951", "Category": "스포츠/취미" },
       { "Name": "보이즈 플래닛", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png", "ServiceId": "C52052", "Category": "음악/오락" },
       { "Name": "서진이네", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png", "ServiceId": "C52053", "Category": "음악/오락" },
       { "Name": "텐트 밖은 유럽 스페인 편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1007/C51861.png", "ServiceId": "C51861", "Category": "음악/오락" },
@@ -2167,11 +2163,12 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-04-25T19:24:01.890505",
-    "TOTAL": 5,
+    "UPDATED": "2026-04-30T02:06:32.633752",
+    "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
       { "Name": "SPOTV2", "ServiceId": 10, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/55509fff870629e4db8865ed79988c56.png" },
+      { "Name": "SPOTV Golf & Health", "ServiceId": 11, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/0011057bb69a02e3b3827ab82b57b849.png" },
       { "Name": "SPOTV PRIME", "ServiceId": 1, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png" },
       { "Name": "SPOTV PRIME2", "ServiceId": 2, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png" },
       { "Name": "SPOTV PRIME+", "ServiceId": 15, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png" }
@@ -2265,7 +2262,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-04-25T19:24:01.890520",
+    "UPDATED": "2026-04-30T02:06:32.633757",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -2280,7 +2277,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-04-25T19:24:01.890523",
+    "UPDATED": "2026-04-30T02:06:32.633763",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
