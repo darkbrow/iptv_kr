@@ -461,8 +461,8 @@
     </rating>
   </programme>
   <programme start="20260430015000 +0900" stop="20260430015500 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)맥케이슨 티셔츠</title>
+    <desc lang="ko">(패션)맥케이슨 티셔츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -477,16 +477,16 @@
     </rating>
   </programme>
   <programme start="20260430020000 +0900" stop="20260430020500 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)맥케이슨 상하의 세트</title>
+    <desc lang="ko">(패션)맥케이슨 상하의 세트
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260430020500 +0900" stop="20260430021000 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)오프로드 티셔츠</title>
+    <desc lang="ko">(패션)오프로드 티셔츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -500,9 +500,33 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430023100 +0900" stop="20260430025100 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
+  <programme start="20260430023100 +0900" stop="20260430023600 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)브루마스 샌들</title>
+    <desc lang="ko">(패션)브루마스 샌들
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430023600 +0900" stop="20260430024100 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)브루마스 샌들</title>
+    <desc lang="ko">(패션)브루마스 샌들
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430024100 +0900" stop="20260430024600 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)브루마스 샌들</title>
+    <desc lang="ko">(패션)브루마스 샌들
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430024600 +0900" stop="20260430025100 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)브루마스 샌들</title>
+    <desc lang="ko">(패션)브루마스 샌들
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -533,8 +557,8 @@
     </rating>
   </programme>
   <programme start="20260430032200 +0900" stop="20260430032700 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)맥케이슨 티셔츠</title>
+    <desc lang="ko">(패션)맥케이슨 티셔츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -548,25 +572,33 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430033200 +0900" stop="20260430034200 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
+  <programme start="20260430033200 +0900" stop="20260430033700 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)르네크루 블라우스</title>
+    <desc lang="ko">(패션)르네크루 블라우스
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430033700 +0900" stop="20260430034200 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)지프 운동화</title>
+    <desc lang="ko">(패션)지프 운동화
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260430034200 +0900" stop="20260430034700 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
+    <title lang="ko">플레이텍스 속옷</title>
+    <desc lang="ko">플레이텍스 속옷
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260430034700 +0900" stop="20260430035300 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
+    <title lang="ko">(패션)르네크루 블라우스</title>
+    <desc lang="ko">(패션)르네크루 블라우스
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -580,41 +612,17 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430041300 +0900" stop="20260430041800 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260430041800 +0900" stop="20260430042300 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260430042300 +0900" stop="20260430042800 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260430042800 +0900" stop="20260430043400 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)예비</title>
-    <desc lang="ko">(패션)예비
+  <programme start="20260430041300 +0900" stop="20260430043400 +0900" channel="GS마이샵">
+    <title lang="ko">보물섬투어 중국여행 상담예약</title>
+    <desc lang="ko">보물섬투어 중국여행 상담예약
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260430043400 +0900" stop="20260430043900 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)맥케이슨 티셔츠</title>
+    <desc lang="ko">(패션)맥케이슨 티셔츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -629,16 +637,16 @@
     </rating>
   </programme>
   <programme start="20260430044400 +0900" stop="20260430044900 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)르네크루 블라우스</title>
+    <desc lang="ko">(패션)르네크루 블라우스
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260430044900 +0900" stop="20260430045500 +0900" channel="GS마이샵">
-    <title lang="ko">예비</title>
-    <desc lang="ko">예비
+    <title lang="ko">(패션)지프 운동화</title>
+    <desc lang="ko">(패션)지프 운동화
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -652,17 +660,9 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430051500 +0900" stop="20260430055500 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)의류 예비</title>
-    <desc lang="ko">(패션)의류 예비
-등급 : 전체 관람가</desc>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260430055500 +0900" stop="20260430063600 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)의류 예비</title>
-    <desc lang="ko">(패션)의류 예비
+  <programme start="20260430051500 +0900" stop="20260430063600 +0900" channel="GS마이샵">
+    <title lang="ko">(패션)조이너스 가디건/(패션)조이너스 니트</title>
+    <desc lang="ko">(패션)조이너스 가디건/(패션)조이너스 니트
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -709,8 +709,8 @@
     </rating>
   </programme>
   <programme start="20260430113600 +0900" stop="20260430123600 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)의류 예비</title>
-    <desc lang="ko">(패션)의류 예비
+    <title lang="ko">(패션)라삐아프 팬츠</title>
+    <desc lang="ko">(패션)라삐아프 팬츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -773,8 +773,8 @@
     </rating>
   </programme>
   <programme start="20260430183800 +0900" stop="20260430193800 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)의류 예비</title>
-    <desc lang="ko">(패션)의류 예비
+    <title lang="ko">(패션)막스스튜디오 가디건</title>
+    <desc lang="ko">(패션)막스스튜디오 가디건
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -797,8 +797,8 @@
     </rating>
   </programme>
   <programme start="20260430213800 +0900" stop="20260430223800 +0900" channel="GS마이샵">
-    <title lang="ko">(패션)의류 예비</title>
-    <desc lang="ko">(패션)의류 예비
+    <title lang="ko">(패션)코어 니트</title>
+    <desc lang="ko">(패션)코어 니트
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -1670,97 +1670,361 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430052000 +0900" stop="20260430072000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430052000 +0900" stop="20260430060000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">경남제약 리포좀 소연골콘드로이친</title>
+    <desc lang="ko">경남제약 리포좀 소연골콘드로이친
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430072000 +0900" stop="20260430092000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430060000 +0900" stop="20260430064000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">셀코디 썸머 크링클 팬츠</title>
+    <desc lang="ko">셀코디 썸머 크링클 팬츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430092000 +0900" stop="20260430112000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430064000 +0900" stop="20260430074000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">퀵맘 냉감 UV 자켓</title>
+    <desc lang="ko">퀵맘 냉감 UV 자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430112000 +0900" stop="20260430132000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430074000 +0900" stop="20260430084000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">헬시픽 휴먼케어 형상맞춤인솔</title>
+    <desc lang="ko">헬시픽 휴먼케어 형상맞춤인솔
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430132000 +0900" stop="20260430152000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430084000 +0900" stop="20260430094000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">태그미 더블플리츠 블라우스</title>
+    <desc lang="ko">태그미 더블플리츠 블라우스
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430152000 +0900" stop="20260430172000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430094000 +0900" stop="20260430104000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">제이시글램 페이즐리 쉬폰셔츠자켓</title>
+    <desc lang="ko">제이시글램 페이즐리 쉬폰셔츠자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430172000 +0900" stop="20260430192000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430104000 +0900" stop="20260430114000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">라페어 산토리니 인견 라운지웨어</title>
+    <desc lang="ko">라페어 산토리니 인견 라운지웨어
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430192000 +0900" stop="20260430212000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430114000 +0900" stop="20260430122000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">The Grace-명품모음전 시즌64</title>
+    <desc lang="ko">The Grace-명품모음전 시즌64
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430212000 +0900" stop="20260430232000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430122000 +0900" stop="20260430132000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">락앤락 비스프리 온더테이블 밀폐용기</title>
+    <desc lang="ko">락앤락 비스프리 온더테이블 밀폐용기
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430232000 +0900" stop="20260501012000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430132000 +0900" stop="20260430140000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">빨간스캔들 유기농 석류콜라겐 젤리</title>
+    <desc lang="ko">빨간스캔들 유기농 석류콜라겐 젤리
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501012000 +0900" stop="20260501032000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430140000 +0900" stop="20260430150000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">사임당 발패치</title>
+    <desc lang="ko">사임당 발패치
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501032000 +0900" stop="20260501052000 +0900" channel="현대홈쇼핑+샵">
-    <title lang="ko">종합</title>
-    <desc lang="ko">종합
+  <programme start="20260430150000 +0900" stop="20260430154000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">태그 텐셀 찰랑팬츠</title>
+    <desc lang="ko">태그 텐셀 찰랑팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430154000 +0900" stop="20260430164000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">제시카헤어큐 프리미엄 정수리가발</title>
+    <desc lang="ko">제시카헤어큐 프리미엄 정수리가발
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430164000 +0900" stop="20260430174000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">이종임 열무김치</title>
+    <desc lang="ko">이종임 열무김치
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430174000 +0900" stop="20260430182000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">마르퀴스 까먹는 통마카다미아/마카다미아오일</title>
+    <desc lang="ko">마르퀴스 까먹는 통마카다미아/마카다미아오일
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430182000 +0900" stop="20260430190000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">LG 휘센 AI 오브제컬렉션 쿨 에어컨</title>
+    <desc lang="ko">LG 휘센 AI 오브제컬렉션 쿨 에어컨
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430190000 +0900" stop="20260430194000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">푸마 아이스쿨 드로즈</title>
+    <desc lang="ko">푸마 아이스쿨 드로즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430194000 +0900" stop="20260430204000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">박정수 올바른가 가시제거 손질갈치</title>
+    <desc lang="ko">박정수 올바른가 가시제거 손질갈치
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430204000 +0900" stop="20260430214000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">삼성 무풍에어컨 클래식</title>
+    <desc lang="ko">삼성 무풍에어컨 클래식
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430214000 +0900" stop="20260430224000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">인터쿡 토마호크 로스돔</title>
+    <desc lang="ko">인터쿡 토마호크 로스돔
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430224000 +0900" stop="20260430234000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">퀸즈라운지-엘르 스티치 배색 나일론팬츠</title>
+    <desc lang="ko">퀸즈라운지-엘르 스티치 배색 나일론팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430234000 +0900" stop="20260501004000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">바디프랜드 안마의자</title>
+    <desc lang="ko">바디프랜드 안마의자
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501004000 +0900" stop="20260501012000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">보스티나 염색제</title>
+    <desc lang="ko">보스티나 염색제
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501012000 +0900" stop="20260501022000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">유유제약 편해보리 보리차진액</title>
+    <desc lang="ko">유유제약 편해보리 보리차진액
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501022000 +0900" stop="20260501022500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓</title>
+    <desc lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501022500 +0900" stop="20260501023000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종</title>
+    <desc lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501023000 +0900" stop="20260501023500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓</title>
+    <desc lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501023500 +0900" stop="20260501024000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종</title>
+    <desc lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501024000 +0900" stop="20260501024500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓</title>
+    <desc lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501024500 +0900" stop="20260501025000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종</title>
+    <desc lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501025000 +0900" stop="20260501025500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓</title>
+    <desc lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501025500 +0900" stop="20260501030000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종</title>
+    <desc lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501030000 +0900" stop="20260501032000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">LG 휘센 AI 오브제컬렉션 쿨 에어컨(260414)_초특가</title>
+    <desc lang="ko">LG 휘센 AI 오브제컬렉션 쿨 에어컨(260414)_초특가
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501032000 +0900" stop="20260501040000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">리얼닥터 닥터픽 생유산균</title>
+    <desc lang="ko">리얼닥터 닥터픽 생유산균
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501040000 +0900" stop="20260501040500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓</title>
+    <desc lang="ko">Ai쇼핑쇼-부르다문 팬츠, 시스루자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501040500 +0900" stop="20260501041000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종</title>
+    <desc lang="ko">Ai쇼핑쇼-에이앤디 글리터 트위드 자켓 1종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501041000 +0900" stop="20260501041500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종</title>
+    <desc lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501041500 +0900" stop="20260501042000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">에이앤디 마린 스트라이프 티셔츠</title>
+    <desc lang="ko">에이앤디 마린 스트라이프 티셔츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501042000 +0900" stop="20260501043000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">시청자정보-안전한TV</title>
+    <desc lang="ko">시청자정보-안전한TV
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501043000 +0900" stop="20260501044000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">공익광고-행정안전부</title>
+    <desc lang="ko">공익광고-행정안전부
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501044000 +0900" stop="20260501050000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">테팔 인텐시브 블랙프라이팬</title>
+    <desc lang="ko">테팔 인텐시브 블랙프라이팬
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501050000 +0900" stop="20260501050500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종</title>
+    <desc lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501050500 +0900" stop="20260501051000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">에이앤디 마린 스트라이프 티셔츠</title>
+    <desc lang="ko">에이앤디 마린 스트라이프 티셔츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501051000 +0900" stop="20260501051500 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종</title>
+    <desc lang="ko">Ai쇼핑쇼-케이시박 떠블유 블라우스 3종/팬츠 3종
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501051500 +0900" stop="20260501052000 +0900" channel="현대홈쇼핑+샵">
+    <title lang="ko">에이앤디 마린 스트라이프 티셔츠</title>
+    <desc lang="ko">에이앤디 마린 스트라이프 티셔츠
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -1958,97 +2222,497 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430020000 +0900" stop="20260430040000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430020000 +0900" stop="20260430020500 +0900" channel="롯데 OneTV">
+    <title lang="ko">라포레 유리밥용기</title>
+    <desc lang="ko">라포레 유리밥용기
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430040000 +0900" stop="20260430060000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430020500 +0900" stop="20260430021000 +0900" channel="롯데 OneTV">
+    <title lang="ko">베리에 셔츠자켓</title>
+    <desc lang="ko">베리에 셔츠자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430060000 +0900" stop="20260430080000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430021000 +0900" stop="20260430021500 +0900" channel="롯데 OneTV">
+    <title lang="ko">로라애슐리 접이식 암막 양우산</title>
+    <desc lang="ko">로라애슐리 접이식 암막 양우산
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430080000 +0900" stop="20260430100000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430021500 +0900" stop="20260430022000 +0900" channel="롯데 OneTV">
+    <title lang="ko">라포레 유리밥용기</title>
+    <desc lang="ko">라포레 유리밥용기
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430100000 +0900" stop="20260430120000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430022000 +0900" stop="20260430022500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베리에 셔츠자켓</title>
+    <desc lang="ko">베리에 셔츠자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430120000 +0900" stop="20260430140000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430022500 +0900" stop="20260430023000 +0900" channel="롯데 OneTV">
+    <title lang="ko">로라애슐리 접이식 암막 양우산</title>
+    <desc lang="ko">로라애슐리 접이식 암막 양우산
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430140000 +0900" stop="20260430160000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430023000 +0900" stop="20260430023500 +0900" channel="롯데 OneTV">
+    <title lang="ko">라포레 유리밥용기</title>
+    <desc lang="ko">라포레 유리밥용기
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430160000 +0900" stop="20260430180000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430023500 +0900" stop="20260430024000 +0900" channel="롯데 OneTV">
+    <title lang="ko">베리에 셔츠자켓</title>
+    <desc lang="ko">베리에 셔츠자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430180000 +0900" stop="20260430200000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430024000 +0900" stop="20260430024500 +0900" channel="롯데 OneTV">
+    <title lang="ko">로라애슐리 접이식 암막 양우산</title>
+    <desc lang="ko">로라애슐리 접이식 암막 양우산
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430200000 +0900" stop="20260430220000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430024500 +0900" stop="20260430025000 +0900" channel="롯데 OneTV">
+    <title lang="ko">라포레 유리밥용기</title>
+    <desc lang="ko">라포레 유리밥용기
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430220000 +0900" stop="20260501000000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430025000 +0900" stop="20260430025500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베리에 셔츠자켓</title>
+    <desc lang="ko">베리에 셔츠자켓
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501000000 +0900" stop="20260501020000 +0900" channel="롯데 OneTV">
-    <title lang="ko">추천상품 입니다</title>
-    <desc lang="ko">추천상품 입니다
+  <programme start="20260430025500 +0900" stop="20260430030000 +0900" channel="롯데 OneTV">
+    <title lang="ko">로라애슐리 접이식 암막 양우산</title>
+    <desc lang="ko">로라애슐리 접이식 암막 양우산
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430030000 +0900" stop="20260430030500 +0900" channel="롯데 OneTV">
+    <title lang="ko">라포레 유리밥용기</title>
+    <desc lang="ko">라포레 유리밥용기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430030500 +0900" stop="20260430031000 +0900" channel="롯데 OneTV">
+    <title lang="ko">베리에 셔츠자켓</title>
+    <desc lang="ko">베리에 셔츠자켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430031000 +0900" stop="20260430031500 +0900" channel="롯데 OneTV">
+    <title lang="ko">로라애슐리 접이식 암막 양우산</title>
+    <desc lang="ko">로라애슐리 접이식 암막 양우산
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430031500 +0900" stop="20260430034500 +0900" channel="롯데 OneTV">
+    <title lang="ko">고객만족정보세상</title>
+    <desc lang="ko">고객만족정보세상
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430034500 +0900" stop="20260430035000 +0900" channel="롯데 OneTV">
+    <title lang="ko">브루노말리 뉴아르크 백</title>
+    <desc lang="ko">브루노말리 뉴아르크 백
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430035000 +0900" stop="20260430035500 +0900" channel="롯데 OneTV">
+    <title lang="ko">세인트프랑 더마 스킨 에끌라 틴트</title>
+    <desc lang="ko">세인트프랑 더마 스킨 에끌라 틴트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430035500 +0900" stop="20260430040000 +0900" channel="롯데 OneTV">
+    <title lang="ko">브루노말리 뉴아르크 백</title>
+    <desc lang="ko">브루노말리 뉴아르크 백
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430040000 +0900" stop="20260430040500 +0900" channel="롯데 OneTV">
+    <title lang="ko">세인트프랑 더마 스킨 에끌라 틴트</title>
+    <desc lang="ko">세인트프랑 더마 스킨 에끌라 틴트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430040500 +0900" stop="20260430041000 +0900" channel="롯데 OneTV">
+    <title lang="ko">브루노말리 뉴아르크 백</title>
+    <desc lang="ko">브루노말리 뉴아르크 백
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430041000 +0900" stop="20260430041500 +0900" channel="롯데 OneTV">
+    <title lang="ko">세인트프랑 더마 스킨 에끌라 틴트</title>
+    <desc lang="ko">세인트프랑 더마 스킨 에끌라 틴트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430041500 +0900" stop="20260430042000 +0900" channel="롯데 OneTV">
+    <title lang="ko">브루노말리 뉴아르크 백</title>
+    <desc lang="ko">브루노말리 뉴아르크 백
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430042000 +0900" stop="20260430042500 +0900" channel="롯데 OneTV">
+    <title lang="ko">세인트프랑 더마 스킨 에끌라 틴트</title>
+    <desc lang="ko">세인트프랑 더마 스킨 에끌라 틴트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430042500 +0900" stop="20260430043000 +0900" channel="롯데 OneTV">
+    <title lang="ko">브루노말리 뉴아르크 백</title>
+    <desc lang="ko">브루노말리 뉴아르크 백
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430043000 +0900" stop="20260430043500 +0900" channel="롯데 OneTV">
+    <title lang="ko">세인트프랑 더마 스킨 에끌라 틴트</title>
+    <desc lang="ko">세인트프랑 더마 스킨 에끌라 틴트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430043500 +0900" stop="20260430044000 +0900" channel="롯데 OneTV">
+    <title lang="ko">잭니클라우스 하프팬츠</title>
+    <desc lang="ko">잭니클라우스 하프팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430044000 +0900" stop="20260430044500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베네통 메리제인 스니커즈</title>
+    <desc lang="ko">베네통 메리제인 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430044500 +0900" stop="20260430045000 +0900" channel="롯데 OneTV">
+    <title lang="ko">잭니클라우스 하프팬츠</title>
+    <desc lang="ko">잭니클라우스 하프팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430045000 +0900" stop="20260430045500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베네통 메리제인 스니커즈</title>
+    <desc lang="ko">베네통 메리제인 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430045500 +0900" stop="20260430050000 +0900" channel="롯데 OneTV">
+    <title lang="ko">잭니클라우스 하프팬츠</title>
+    <desc lang="ko">잭니클라우스 하프팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430050000 +0900" stop="20260430050500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베네통 메리제인 스니커즈</title>
+    <desc lang="ko">베네통 메리제인 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430050500 +0900" stop="20260430051000 +0900" channel="롯데 OneTV">
+    <title lang="ko">잭니클라우스 하프팬츠</title>
+    <desc lang="ko">잭니클라우스 하프팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430051000 +0900" stop="20260430051500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베네통 메리제인 스니커즈</title>
+    <desc lang="ko">베네통 메리제인 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430051500 +0900" stop="20260430052000 +0900" channel="롯데 OneTV">
+    <title lang="ko">잭니클라우스 하프팬츠</title>
+    <desc lang="ko">잭니클라우스 하프팬츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430052000 +0900" stop="20260430052500 +0900" channel="롯데 OneTV">
+    <title lang="ko">베네통 메리제인 스니커즈</title>
+    <desc lang="ko">베네통 메리제인 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430052500 +0900" stop="20260430053000 +0900" channel="롯데 OneTV">
+    <title lang="ko">300초 햇 나주 신고배</title>
+    <desc lang="ko">300초 햇 나주 신고배
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430053000 +0900" stop="20260430063000 +0900" channel="롯데 OneTV">
+    <title lang="ko">조아하다 플리츠 이지웨어 셋업</title>
+    <desc lang="ko">조아하다 플리츠 이지웨어 셋업
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430063000 +0900" stop="20260430073000 +0900" channel="롯데 OneTV">
+    <title lang="ko">뉴트리디데이 시그니처 콜라겐 글루타치온</title>
+    <desc lang="ko">뉴트리디데이 시그니처 콜라겐 글루타치온
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430073000 +0900" stop="20260430083000 +0900" channel="롯데 OneTV">
+    <title lang="ko">허브이오 파로 효소</title>
+    <desc lang="ko">허브이오 파로 효소
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430083000 +0900" stop="20260430083500 +0900" channel="롯데 OneTV">
+    <title lang="ko">300초 부산 대저토마토</title>
+    <desc lang="ko">300초 부산 대저토마토
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430083500 +0900" stop="20260430093500 +0900" channel="롯데 OneTV">
+    <title lang="ko">엠유스포츠</title>
+    <desc lang="ko">엠유스포츠
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430093500 +0900" stop="20260430103500 +0900" channel="롯데 OneTV">
+    <title lang="ko">테팔 매직핸즈 풀세트</title>
+    <desc lang="ko">테팔 매직핸즈 풀세트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430103500 +0900" stop="20260430113500 +0900" channel="롯데 OneTV">
+    <title lang="ko">LBL 에어리 블라우스</title>
+    <desc lang="ko">LBL 에어리 블라우스
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430113500 +0900" stop="20260430123500 +0900" channel="롯데 OneTV">
+    <title lang="ko">슈리오 트리플 라인 쿨 슬립온</title>
+    <desc lang="ko">슈리오 트리플 라인 쿨 슬립온
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430123500 +0900" stop="20260430124000 +0900" channel="롯데 OneTV">
+    <title lang="ko">300초 베지밀 검은콩 두유</title>
+    <desc lang="ko">300초 베지밀 검은콩 두유
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430124000 +0900" stop="20260430134000 +0900" channel="롯데 OneTV">
+    <title lang="ko">하나손보 가득담은 3대질환보험</title>
+    <desc lang="ko">하나손보 가득담은 3대질환보험
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430134000 +0900" stop="20260430142000 +0900" channel="롯데 OneTV">
+    <title lang="ko">실리만 조리도구 세트</title>
+    <desc lang="ko">실리만 조리도구 세트
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430142000 +0900" stop="20260430150000 +0900" channel="롯데 OneTV">
+    <title lang="ko">안국약품 리포좀 오메가3</title>
+    <desc lang="ko">안국약품 리포좀 오메가3
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430150000 +0900" stop="20260430154000 +0900" channel="롯데 OneTV">
+    <title lang="ko">빈트릴</title>
+    <desc lang="ko">빈트릴
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430154000 +0900" stop="20260430162000 +0900" channel="롯데 OneTV">
+    <title lang="ko">라스튜디오</title>
+    <desc lang="ko">라스튜디오
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430162000 +0900" stop="20260430170000 +0900" channel="롯데 OneTV">
+    <title lang="ko">퀸즈락 갱년기앤유산균</title>
+    <desc lang="ko">퀸즈락 갱년기앤유산균
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430170000 +0900" stop="20260430174000 +0900" channel="롯데 OneTV">
+    <title lang="ko">삼성 파워모션 진공 청소기</title>
+    <desc lang="ko">삼성 파워모션 진공 청소기
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430174000 +0900" stop="20260430184000 +0900" channel="롯데 OneTV">
+    <title lang="ko">돈시몬 프리미엄 착즙 토마토 주스</title>
+    <desc lang="ko">돈시몬 프리미엄 착즙 토마토 주스
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430184000 +0900" stop="20260430194000 +0900" channel="롯데 OneTV">
+    <title lang="ko">코웨이 비렉스 리클라이닝 마사지셋 렌탈</title>
+    <desc lang="ko">코웨이 비렉스 리클라이닝 마사지셋 렌탈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430194000 +0900" stop="20260430204000 +0900" channel="롯데 OneTV">
+    <title lang="ko">페이유에 1920 프렌치 스니커즈</title>
+    <desc lang="ko">페이유에 1920 프렌치 스니커즈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430204000 +0900" stop="20260430214000 +0900" channel="롯데 OneTV">
+    <title lang="ko">완전균형영양식 뉴케어 구수한맛 밸런스업</title>
+    <desc lang="ko">완전균형영양식 뉴케어 구수한맛 밸런스업
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430214000 +0900" stop="20260430224000 +0900" channel="롯데 OneTV">
+    <title lang="ko">쉐우드가구 아벨로 통가죽 소파</title>
+    <desc lang="ko">쉐우드가구 아벨로 통가죽 소파
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430224000 +0900" stop="20260430234000 +0900" channel="롯데 OneTV">
+    <title lang="ko">필립림</title>
+    <desc lang="ko">필립림
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430234000 +0900" stop="20260501004000 +0900" channel="롯데 OneTV">
+    <title lang="ko">철벽녀 립스틱+파우치</title>
+    <desc lang="ko">철벽녀 립스틱+파우치
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501004000 +0900" stop="20260501012000 +0900" channel="롯데 OneTV">
+    <title lang="ko">까스텔바작</title>
+    <desc lang="ko">까스텔바작
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501012000 +0900" stop="20260501020000 +0900" channel="롯데 OneTV">
+    <title lang="ko">비비안BBC 란쥬팬티 세트</title>
+    <desc lang="ko">비비안BBC 란쥬팬티 세트
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -5074,13 +5738,13 @@
     </rating>
   </programme>
   <programme start="20260430144500 +0900" stop="20260430162500 +0900" channel="MBC">
-    <title lang="ko">제38회 한국 PD대상 시상식</title>
-    <desc lang="ko">제38회 한국 PD대상 시상식
+    <title lang="ko">제38회 한국PD대상 시상식</title>
+    <desc lang="ko">제38회 한국PD대상 시상식
 장르 : 연예/오락
-등급 : 15세 이상 관람가</desc>
+등급 : 12세 이상 관람가</desc>
     <category lang="ko">연예/오락</category>
     <rating system="KR">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260430162500 +0900" stop="20260430165500 +0900" channel="MBC">
@@ -5498,7 +6162,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502093000 +0900" stop="20260502102500 +0900" channel="MBC">
+  <programme start="20260502093000 +0900" stop="20260502103000 +0900" channel="MBC">
     <title lang="ko">라디오스타 스페셜</title>
     <desc lang="ko">라디오스타 스페셜
 장르 : 연예/오락
@@ -5508,7 +6172,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502102500 +0900" stop="20260502115000 +0900" channel="MBC">
+  <programme start="20260502103000 +0900" stop="20260502114000 +0900" channel="MBC">
     <title lang="ko">놀면 뭐하니? 스페셜</title>
     <desc lang="ko">놀면 뭐하니? 스페셜
 장르 : 연예/오락
@@ -5518,7 +6182,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502115000 +0900" stop="20260502120000 +0900" channel="MBC">
+  <programme start="20260502114000 +0900" stop="20260502115000 +0900" channel="MBC">
     <title lang="ko">MBC 뉴스</title>
     <desc lang="ko">MBC 뉴스
 장르 : 뉴스
@@ -5529,7 +6193,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502120000 +0900" stop="20260502141000 +0900" channel="MBC">
+  <programme start="20260502115000 +0900" stop="20260502140000 +0900" channel="MBC">
     <title lang="ko">소라와 진경 스페셜</title>
     <desc lang="ko">소라와 진경 스페셜
 장르 : 연예/오락
@@ -5539,7 +6203,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502141000 +0900" stop="20260502152000 +0900" channel="MBC">
+  <programme start="20260502140000 +0900" stop="20260502151000 +0900" channel="MBC">
     <title lang="ko">21세기 대군부인</title>
     <desc lang="ko">21세기 대군부인
 장르 : 드라마
@@ -5550,7 +6214,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260502152000 +0900" stop="20260502164000 +0900" channel="MBC">
+  <programme start="20260502151000 +0900" stop="20260502164000 +0900" channel="MBC">
     <title lang="ko">쇼! 음악중심</title>
     <desc lang="ko">쇼! 음악중심
 장르 : 음악
@@ -5998,13 +6662,14 @@
     </rating>
   </programme>
   <programme start="20260501084000 +0900" stop="20260501085000 +0900" channel="SBS">
-    <title lang="ko">맨 인 블랙박스 스페셜</title>
-    <desc lang="ko">맨 인 블랙박스 스페셜
-장르 : 교양/정보
-등급 : 12세 이상 관람가</desc>
-    <category lang="ko">교양/정보</category>
+    <title lang="ko">&lt;멋진 신세계&gt; 창세기 : 조선 악녀 입성기</title>
+    <desc lang="ko">&lt;멋진 신세계&gt; 창세기 : 조선 악녀 입성기
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
     <rating system="KR">
-      <value>12세 이상 관람가</value>
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260501085000 +0900" stop="20260501095500 +0900" channel="SBS">
@@ -20759,9 +21424,20 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430070000 +0900" stop="20260430090000 +0900" channel="국회방송">
+  <programme start="20260430070000 +0900" stop="20260430084000 +0900" channel="국회방송">
     <title lang="ko">의정중계 하이라이트</title>
     <desc lang="ko">의정중계 하이라이트
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430084000 +0900" stop="20260430090000 +0900" channel="국회방송">
+    <title lang="ko">한국기행</title>
+    <desc lang="ko">한국기행
 장르 : 시사/다큐
 등급 : 전체 관람가</desc>
     <category lang="ko">시사/다큐</category>
@@ -20844,13 +21520,54 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430140000 +0900" stop="20260430180000 +0900" channel="국회방송">
-    <title lang="ko">의사중계</title>
-    <desc lang="ko">의사중계
-장르 : 뉴스
+  <programme start="20260430140000 +0900" stop="20260430150000 +0900" channel="국회방송">
+    <title lang="ko">움직이는 예산과 경제</title>
+    <desc lang="ko">움직이는 예산과 경제
+장르 : 교양/정보
 등급 : 전체 관람가</desc>
-    <category lang="ko">뉴스</category>
-    <category lang="en">News / Current affairs</category>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430150000 +0900" stop="20260430160000 +0900" channel="국회방송">
+    <title lang="ko">히어로(law)</title>
+    <desc lang="ko">히어로(law)
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430160000 +0900" stop="20260430170000 +0900" channel="국회방송">
+    <title lang="ko">세계문화유산 탐방기</title>
+    <desc lang="ko">세계문화유산 탐방기
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430170000 +0900" stop="20260430173000 +0900" channel="국회방송">
+    <title lang="ko">음악 여행자</title>
+    <desc lang="ko">음악 여행자
+장르 : 교양/정보
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양/정보</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430173000 +0900" stop="20260430180000 +0900" channel="국회방송">
+    <title lang="ko">철길따라 세계여행</title>
+    <desc lang="ko">철길따라 세계여행
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
@@ -25213,18 +25930,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430000000 +0900" stop="20260430010000 +0900" channel="NBS한국농업방송">
-    <title lang="ko">리얼귀농스토리 나는 농부다 스페셜</title>
-    <desc lang="ko">리얼귀농스토리 나는 농부다 스페셜
-장르 : 시사/다큐
-등급 : 전체 관람가</desc>
-    <category lang="ko">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20260430010000 +0900" stop="20260430020000 +0900" channel="NBS한국농업방송">
+  <programme start="20260430005600 +0900" stop="20260430020200 +0900" channel="NBS한국농업방송">
     <title lang="ko">역전의 부자농부 플러스</title>
     <desc lang="ko">역전의 부자농부 플러스
 장르 : 시사/다큐
@@ -25235,7 +25941,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260430020000 +0900" stop="20260430040000 +0900" channel="NBS한국농업방송">
+  <programme start="20260430020200 +0900" stop="20260430040000 +0900" channel="NBS한국농업방송">
     <title lang="ko">낙찰! 가락동 라이브</title>
     <desc lang="ko">낙찰! 가락동 라이브
 장르 : 교양/정보
@@ -26858,6 +27564,16 @@
     <category lang="ko">연예/오락</category>
     <rating system="KR">
       <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260430001000 +0900" stop="20260430003000 +0900" channel="TV조선">
+    <title lang="ko">금타는 금요일 특별판</title>
+    <desc lang="ko">금타는 금요일 특별판
+장르 : 연예/오락
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">연예/오락</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20260430003000 +0900" stop="20260430013000 +0900" channel="TV조선">
@@ -41152,9 +41868,9 @@
   </programme>
   <programme start="20260501000000 +0900" stop="20260501012000 +0900" channel="부산 KBS1">
     <title lang="ko">KBS 중계석</title>
-    <sub-title lang="ko">울림 색소폰앙상블</sub-title>
+    <sub-title lang="ko">제6회 울림 색소폰앙상블</sub-title>
     <desc lang="ko">KBS 중계석
-부제 : 울림 색소폰앙상블
+부제 : 제6회 울림 색소폰앙상블
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -41265,8 +41981,8 @@
     </rating>
   </programme>
   <programme start="20260501093000 +0900" stop="20260501094500 +0900" channel="부산 KBS1">
-    <title lang="ko">KBS 뉴스 930</title>
-    <desc lang="ko">KBS 뉴스 930
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -41280,7 +41996,15 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501100000 +0900" stop="20260501111000 +0900" channel="부산 KBS1">
+  <programme start="20260501100000 +0900" stop="20260501102500 +0900" channel="부산 KBS1">
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501102500 +0900" stop="20260501113500 +0900" channel="부산 KBS1">
     <title lang="ko">무엇이든 물어보세요</title>
     <desc lang="ko">무엇이든 물어보세요
 등급 : 전체 관람가</desc>
@@ -41288,14 +42012,24 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501111000 +0900" stop="20260501120000 +0900" channel="부산 KBS1">
-    <title lang="ko">황신혜의 같이 삽시다 (재)</title>
-    <desc lang="ko">황신혜의 같이 삽시다 (재)
+  <programme start="20260501113500 +0900" stop="20260501115000 +0900" channel="부산 KBS1">
+    <title lang="ko">팔도밥상 스페셜 (재)</title>
+    <desc lang="ko">팔도밥상 스페셜 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KR">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501115000 +0900" stop="20260501120000 +0900" channel="부산 KBS1">
+    <title lang="ko">생활의 발견 스페셜 (재)</title>
+    <desc lang="ko">생활의 발견 스페셜 (재)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260501120000 +0900" stop="20260501121000 +0900" channel="부산 KBS1">
@@ -42122,9 +42856,9 @@
   </programme>
   <programme start="20260501000000 +0900" stop="20260501012000 +0900" channel="창원 KBS1">
     <title lang="ko">KBS 중계석</title>
-    <sub-title lang="ko">울림 색소폰앙상블</sub-title>
+    <sub-title lang="ko">제6회 울림 색소폰앙상블</sub-title>
     <desc lang="ko">KBS 중계석
-부제 : 울림 색소폰앙상블
+부제 : 제6회 울림 색소폰앙상블
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -42227,8 +42961,8 @@
     </rating>
   </programme>
   <programme start="20260501093000 +0900" stop="20260501094500 +0900" channel="창원 KBS1">
-    <title lang="ko">KBS 뉴스 930</title>
-    <desc lang="ko">KBS 뉴스 930
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -42242,7 +42976,15 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501100000 +0900" stop="20260501111000 +0900" channel="창원 KBS1">
+  <programme start="20260501100000 +0900" stop="20260501102500 +0900" channel="창원 KBS1">
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501102500 +0900" stop="20260501113500 +0900" channel="창원 KBS1">
     <title lang="ko">무엇이든 물어보세요</title>
     <desc lang="ko">무엇이든 물어보세요
 등급 : 전체 관람가</desc>
@@ -42250,14 +42992,24 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501111000 +0900" stop="20260501120000 +0900" channel="창원 KBS1">
-    <title lang="ko">황신혜의 같이 삽시다 (재)</title>
-    <desc lang="ko">황신혜의 같이 삽시다 (재)
+  <programme start="20260501113500 +0900" stop="20260501115000 +0900" channel="창원 KBS1">
+    <title lang="ko">팔도밥상 스페셜 (재)</title>
+    <desc lang="ko">팔도밥상 스페셜 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KR">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501115000 +0900" stop="20260501120000 +0900" channel="창원 KBS1">
+    <title lang="ko">생활의 발견 스페셜 (재)</title>
+    <desc lang="ko">생활의 발견 스페셜 (재)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260501120000 +0900" stop="20260501121000 +0900" channel="창원 KBS1">
@@ -43766,9 +44518,9 @@
   </programme>
   <programme start="20260501000000 +0900" stop="20260501012000 +0900" channel="대구 KBS1">
     <title lang="ko">KBS 중계석</title>
-    <sub-title lang="ko">울림 색소폰앙상블</sub-title>
+    <sub-title lang="ko">제6회 울림 색소폰앙상블</sub-title>
     <desc lang="ko">KBS 중계석
-부제 : 울림 색소폰앙상블
+부제 : 제6회 울림 색소폰앙상블
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -43879,8 +44631,8 @@
     </rating>
   </programme>
   <programme start="20260501093000 +0900" stop="20260501094500 +0900" channel="대구 KBS1">
-    <title lang="ko">KBS 뉴스 930</title>
-    <desc lang="ko">KBS 뉴스 930
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
 등급 : 전체 관람가</desc>
     <rating system="KR">
       <value>전체 관람가</value>
@@ -43894,7 +44646,15 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501100000 +0900" stop="20260501111000 +0900" channel="대구 KBS1">
+  <programme start="20260501100000 +0900" stop="20260501102500 +0900" channel="대구 KBS1">
+    <title lang="ko">중계방송 2026 노동절 기념식</title>
+    <desc lang="ko">중계방송 2026 노동절 기념식
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501102500 +0900" stop="20260501113500 +0900" channel="대구 KBS1">
     <title lang="ko">무엇이든 물어보세요</title>
     <desc lang="ko">무엇이든 물어보세요
 등급 : 전체 관람가</desc>
@@ -43902,14 +44662,24 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20260501111000 +0900" stop="20260501120000 +0900" channel="대구 KBS1">
-    <title lang="ko">황신혜의 같이 삽시다 (재)</title>
-    <desc lang="ko">황신혜의 같이 삽시다 (재)
+  <programme start="20260501113500 +0900" stop="20260501115000 +0900" channel="대구 KBS1">
+    <title lang="ko">팔도밥상 스페셜 (재)</title>
+    <desc lang="ko">팔도밥상 스페셜 (재)
 방송 : 재방송
-등급 : 15세 이상 관람가</desc>
+등급 : 전체 관람가</desc>
     <previously-shown />
     <rating system="KR">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20260501115000 +0900" stop="20260501120000 +0900" channel="대구 KBS1">
+    <title lang="ko">생활의 발견 스페셜 (재)</title>
+    <desc lang="ko">생활의 발견 스페셜 (재)
+방송 : 재방송
+등급 : 전체 관람가</desc>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20260501120000 +0900" stop="20260501121000 +0900" channel="대구 KBS1">
@@ -45956,9 +46726,9 @@
   </programme>
   <programme start="20260430180500 +0900" stop="20260430190500 +0900" channel="춘천 MBC">
     <title lang="ko">다큐 M</title>
-    <sub-title lang="ko">함성, 이후의 시간 (제주MBC)</sub-title>
+    <sub-title lang="ko">다시 쓰는 내일 (제주M)</sub-title>
     <desc lang="ko">다큐 M
-부제 : 함성, 이후의 시간 (제주MBC)
+부제 : 다시 쓰는 내일 (제주M)
 등급 : 12세 이상 관람가</desc>
     <rating system="KR">
       <value>12세 이상 관람가</value>
@@ -56379,11 +57149,9 @@
     </rating>
   </programme>
   <programme start="20260430011000 +0900" stop="20260430021000 +0900" channel="JIBS 제주방송">
-    <title lang="ko">역전다방 (재)</title>
-    <desc lang="ko">역전다방 (재)
-방송 : 재방송
+    <title lang="ko">네모세모</title>
+    <desc lang="ko">네모세모
 등급 : 전체 관람가</desc>
-    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
