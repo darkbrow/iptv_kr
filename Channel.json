@@ -1,6 +1,6 @@
 {
   "KT": {
-    "UPDATED": "2026-04-30T02:06:32.633508",
+    "UPDATED": "2026-05-04T05:37:47.794339",
     "TOTAL": 308,
     "CHANNELS": [
       { "Name": "지니 TV 가이드", "No": "997", "ServiceId": "997", "Category": "홍보" },
@@ -314,7 +314,7 @@
     ]
   },
   "LG": {
-    "UPDATED": "2026-04-30T02:06:32.633380",
+    "UPDATED": "2026-05-04T05:37:47.794269",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -668,7 +668,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-04-30T02:06:32.633465",
+    "UPDATED": "2026-05-04T05:37:47.794311",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -943,7 +943,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-04-30T02:06:32.633575",
+    "UPDATED": "2026-05-04T05:37:47.794371",
     "TOTAL": 429,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1378,8 +1378,8 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-04-30T02:06:32.633640",
-    "TOTAL": 472,
+    "UPDATED": "2026-05-04T05:37:47.794406",
+    "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "814582", "Category": "지상파" },
@@ -1401,6 +1401,7 @@
       { "Name": "MBC 경남", "ServiceId": "814626", "Category": "지상파" },
       { "Name": "부산 MBC", "ServiceId": "814621", "Category": "지상파" },
       { "Name": "KNN 부산경남방송", "ServiceId": "814628", "Category": "지상파" },
+      { "Name": "진주 MBC", "ServiceId": "814624", "Category": "지상파" },
       { "Name": "대구 KBS1", "ServiceId": "814630", "Category": "지상파" },
       { "Name": "대구 MBC", "ServiceId": "814633", "Category": "지상파" },
       { "Name": "안동 MBC", "ServiceId": "814635", "Category": "지상파" },
@@ -1856,14 +1857,13 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-04-30T02:06:32.633697",
-    "TOTAL": 124,
+    "UPDATED": "2026-05-04T05:37:47.794439",
+    "TOTAL": 123,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
       { "Name": "KBS 2TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png", "ServiceId": "K02" },
       { "Name": "MBC", "Icon_url": "https://image.wavve.com/channel_mgmt/image/M01_square_20250801143212.png", "ServiceId": "M01" },
       { "Name": "EBS 1", "Icon_url": "https://image.wavve.com/channel_mgmt/image/E01_square_20250731144344.png", "ServiceId": "E01" },
-      { "Name": "EBS 2", "Icon_url": "https://image.wavve.com/channel_mgmt/image/E07_square_20250731144434.png", "ServiceId": "E07" },
       { "Name": "MBN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2401_square_20250731141410.png", "ServiceId": "C2401" },
       { "Name": "TV CHOSUN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2601_square_20250731141708.png", "ServiceId": "C2601" },
       { "Name": "채널A", "Icon_url": "https://image.wavve.com/channel_mgmt/image/C2501_square_20250731141617.png", "ServiceId": "C2501" },
@@ -1986,7 +1986,7 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-04-30T02:06:32.633716",
+    "UPDATED": "2026-05-04T05:37:47.794451",
     "TOTAL": 171,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
@@ -2163,7 +2163,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-04-30T02:06:32.633752",
+    "UPDATED": "2026-05-04T05:37:47.794467",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
@@ -2262,7 +2262,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-04-30T02:06:32.633757",
+    "UPDATED": "2026-05-04T05:37:47.794470",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -2277,7 +2277,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-04-30T02:06:32.633763",
+    "UPDATED": "2026-05-04T05:37:47.794473",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
