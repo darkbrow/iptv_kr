@@ -2175,7 +2175,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-04-25T19:24:01.890508",
+    "UPDATED": "2026-05-03T15:43:10.651542",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
