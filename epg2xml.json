@@ -15,7 +15,28 @@
     "MY_CHANNELS": [
       { "Name": "GS마이샵", "No": "30", "ServiceId": "740", "Category": "홈쇼핑" },
       { "Name": "현대홈쇼핑+샵", "No": "34", "ServiceId": "760", "Category": "홈쇼핑" },
-      { "Name": "롯데 OneTV", "No": "36", "ServiceId": "783", "Category": "홈쇼핑" }
+      { "Name": "롯데 OneTV", "No": "36", "ServiceId": "783", "Category": "홈쇼핑" },
+      { "Name": "MBC", "No": "11", "ServiceId": "503", "Category": "지상파/종편" },
+      { "Name": "SBS", "No": "5", "ServiceId": "504", "Category": "지상파/종편" },
+      { "Name": "EBS1", "No": "14", "ServiceId": "505", "Category": "지상파/종편" },
+      { "Name": "EBS2", "No": "95", "ServiceId": "506", "Category": "지상파/종편" },
+      { "Name": "EBS플러스1", "No": "340", "ServiceId": "172", "Category": "어린이/교육" },
+      { "Name": "EBS플러스2", "No": "341", "ServiceId": "173", "Category": "어린이/교육" },
+      { "Name": "OUN", "No": "242", "ServiceId": "179", "Category": "공공/종교" },
+      { "Name": "KFN", "No": "244", "ServiceId": "704", "Category": "공공/종교" },
+      { "Name": "MBCNET", "No": "177", "ServiceId": "611", "Category": "교양/다큐" },
+      { "Name": "EBS English", "No": "342", "ServiceId": "768", "Category": "어린이/교육" },
+      { "Name": "EBS KIDS", "No": "312", "ServiceId": "607", "Category": "어린이/교육" },
+      { "Name": "국악방송", "No": "189", "ServiceId": "766", "Category": "교양/다큐" },
+      { "Name": "KTV 국민방송", "No": "64", "ServiceId": "177", "Category": "공공/종교" },
+      { "Name": "국회방송", "No": "65", "ServiceId": "717", "Category": "공공/종교" },
+      { "Name": "arirang", "No": "205", "ServiceId": "601", "Category": "뉴스/경제" },
+      { "Name": "tbsTV", "No": "245", "ServiceId": "720", "Category": "공공/종교" },
+      { "Name": "OBS 경인TV", "No": "26", "ServiceId": "596", "Category": "지상파/종편" },
+      { "Name": "NBS한국농업방송", "No": "180", "ServiceId": "814", "Category": "교양/다큐" },
+      { "Name": "채널A", "No": "18", "ServiceId": "749", "Category": "지상파/종편" },
+      { "Name": "TV조선", "No": "20", "ServiceId": "746", "Category": "지상파/종편" },
+      { "Name": "TV CHOSUN2", "No": "82", "ServiceId": "775", "Category": "여성/오락" }
     ]
   },
   "SK": {
@@ -28,27 +49,6 @@
   },
   "KT": {
     "MY_CHANNELS": [
-      { "Name": "MBC", "ServiceId": "11", "Category": "지상파" },
-      { "Name": "SBS", "ServiceId": "5", "Category": "지상파" },
-      { "Name": "EBS1", "ServiceId": "13", "Category": "지상파" },
-      { "Name": "EBS2", "ServiceId": "95", "Category": "지상파" },
-      { "Name": "EBS플러스1", "ServiceId": "972", "Category": "케이블" },
-      { "Name": "EBS플러스2", "ServiceId": "971", "Category": "케이블" },
-      { "Name": "OUN", "ServiceId": "160", "Category": "케이블" },
-      { "Name": "KFN", "ServiceId": "101", "Category": "케이블" },
-      { "Name": "MBCNET", "ServiceId": "164", "Category": "케이블" },
-      { "Name": "EBS English", "ServiceId": "973", "Category": "케이블" },
-      { "Name": "EBS KIDS", "ServiceId": "983", "Category": "케이블" },
-      { "Name": "국악방송", "ServiceId": "251", "Category": "케이블" },
-      { "Name": "KTV 국민방송", "ServiceId": "64", "Category": "케이블" },
-      { "Name": "국회방송", "ServiceId": "65", "Category": "케이블" },
-      { "Name": "arirang", "ServiceId": "166", "Category": "케이블" },
-      { "Name": "tbsTV", "ServiceId": "214", "Category": "케이블" },
-      { "Name": "OBS 경인TV", "ServiceId": "26", "Category": "지상파" },
-      { "Name": "NBS한국농업방송", "ServiceId": "100", "Category": "케이블" },
-      { "Name": "채널A", "ServiceId": "18", "Category": "종합 편성" },
-      { "Name": "TV조선", "ServiceId": "19", "Category": "종합 편성" },
-      { "Name": "TV CHOSUN2", "ServiceId": "69", "Category": "케이블" }
     ]
   },
   "DAUM": {
