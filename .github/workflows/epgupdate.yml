@@ -1,38 +1,37 @@
-name: Build EPG Files
+name: EPG Update Workflow
 
 # ---------------------------------------------------------
-# 트리거 변경: 매일 오후 2시 (UTC 기준)에 실행되도록 설정
-# Cron 표현식: '0 14 * * *' -> 매일 14시 0분
-# 참고: GitHub Actions의 Cron은 UTC를 기준으로 합니다. 한국 시간(KST) 오후 2시가 목표라면,
-# UTC 기준으로는 오전 6시여야 합니다. (KST = UTC + 9시간)
-# 따라서, KST 오후 2시를 원하시면 UTC 오전 6시에 설정하세요.
-# 예: KST 오후 2시 = UTC 오전 6시 -> '0 6 * * *'
+# 🚀 트리거 설정: Cron 또는 수동 실행 가능하도록 설정
 on:
   schedule:
-    # KST 오후 2시 (UTC 오전 6시)에 실행하려면 아래를 사용하세요.
+    # 매일 새벽 6시 (UTC 기준)에 자동으로 실행됩니다.
     - cron: '0 6 * * *' 
+  # 사용자가 GitHub UI에서 "Run workflow" 버튼을 눌러 수동으로 실행할 수 있게 합니다.
+  workflow_dispatch:
 
-# workflow_dispatch는 제거하여 자동 실행만 남김
 # ---------------------------------------------------------
+# 🛡️ 권한 설정: 이 워크플로우가 레포지토리에 쓸 수 있는 권한을 부여합니다.
+permissions:
+  contents: write # 파일 생성/수정/푸시 권한 부여
 
 jobs:
-  build_epg:
+  build_and_push:
     runs-on: ubuntu-latest
     steps:
-      # 1. 코드 체크아웃
+      # 1. 코드 체크아웃 (필요한 경우)
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # 2. Python 환경 설정 및 종속성 설치
-      - name: Set up Python and install dependencies
+      # 2. 의존성 설치 및 정리
+      - name: Setup Python and Install Dependencies
         run: |
-          python3 --version
+          # 파이썬 환경 설정 (필요하다면)
+          python3 -m pip install --upgrade pip
+          # 요청하신 패키지 설치
           pip install "epg2xml[all] @ git+https://github.com/epg2xml/epg2xml.git"
-        id: install
+          echo "Dependencies installed successfully."
 
-      # 3. 파일 정리 (기존 파일 삭제)
+      # 3. 이전 파일 삭제
       - name: Clean up old files
         run: |
           echo "Cleaning up previous EPG files..."
@@ -42,17 +41,19 @@ jobs:
       - name: Generate new EPG files
         run: |
           echo "Running epg2xml to generate kr_epg.xml and compressing it..."
-          # 요청하신 명령어 실행: XML 생성 후 gzip으로 압축하여 .gz 파일 생성
+          # XML 생성 및 Gzip 압축 실행
           python -m epg2xml run --config epg2xml.json --channelfile Channel.json --xmlfile kr_epg.xml && gzip -c kr_epg.xml > kr_epg.xml.gz
 
-      # 5. 변경 사항 커밋 및 푸시
+      # 5. 변경 사항 커밋 및 푸시 (토큰 사용)
       - name: Commit and Push changes
         run: |
           echo "Staging, committing, and pushing changes to the repository..."
           git config --global user.name "github-actions[bot]"
           git config --global user.email "actions@github.com"
+          # 파일 추가, 커밋, 푸시 실행
           git add kr_epg.xml kr_epg.xml.gz
           git commit -m "epg update"
           git push
         env:
+          # GITHUB_TOKEN을 사용하여 인증된 푸시를 시도합니다.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
