@@ -82,6 +82,7 @@
       { "Name": "전주 MBC", "ServiceId": "814658", "Category": "지상파" },
       { "Name": "목포 MBC", "ServiceId": "814646", "Category": "지상파" },
       { "Name": "여수 MBC", "ServiceId": "814649", "Category": "지상파" },
+      { "Name": "KBS WORLD", "ServiceId": "814813", "Category": "케이블" },
       { "Name": "CJB 청주방송", "ServiceId": "814684", "Category": "지상파" },
       { "Name": "G1 방송", "ServiceId": "814614", "Category": "지상파" },
       { "Name": "JTV 전주방송", "ServiceId": "814661", "Category": "지상파" },
