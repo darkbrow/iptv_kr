@@ -4,8 +4,8 @@ name: EPG Update Workflow
 # 🚀 트리거 설정: Cron 또는 수동 실행 가능하도록 설정
 on:
   schedule:
-    # 매일 새벽 6시 (UTC 기준)에 자동으로 실행됩니다.
-    - cron: '0 6 * * *' 
+    # 매일 저녁 8:30 실행 (UTC 기준)에 자동으로 실행됩니다.
+    - cron: '30 20 * * *' 
   # 사용자가 GitHub UI에서 "Run workflow" 버튼을 눌러 수동으로 실행할 수 있게 합니다.
   workflow_dispatch:
 
