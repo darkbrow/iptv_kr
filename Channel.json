@@ -1,11 +1,11 @@
 {
   "KT": {
-    "UPDATED": "2026-05-21T21:54:51.403981",
+    "UPDATED": "2026-05-26T22:01:04.980431",
     "TOTAL": 0,
     "CHANNELS": []
   },
   "LG": {
-    "UPDATED": "2026-05-21T21:54:51.403888",
+    "UPDATED": "2026-05-26T22:01:04.980328",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -359,7 +359,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-05-21T21:54:51.403949",
+    "UPDATED": "2026-05-26T22:01:04.980393",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -634,7 +634,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-05-21T21:54:51.403985",
+    "UPDATED": "2026-05-26T22:01:04.980436",
     "TOTAL": 430,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1070,7 +1070,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-05-21T21:54:51.404038",
+    "UPDATED": "2026-05-26T22:01:04.980476",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1549,7 +1549,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-05-21T21:54:51.404095",
+    "UPDATED": "2026-05-26T22:01:04.980507",
     "TOTAL": 126,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1681,8 +1681,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-05-21T21:54:51.404114",
-    "TOTAL": 168,
+    "UPDATED": "2026-05-26T22:01:04.980522",
+    "TOTAL": 178,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -1734,9 +1734,6 @@
       { "Name": "쇼미 더 머니11", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png", "ServiceId": "C51663", "Category": "음악/오락" },
       { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0453/C51850.png", "ServiceId": "C51850", "Category": "스포츠/취미" },
       { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0456/C51851.png", "ServiceId": "C51851", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0457/C51949.png", "ServiceId": "C51949", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0458/C51950.png", "ServiceId": "C51950", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0500/C51951.png", "ServiceId": "C51951", "Category": "스포츠/취미" },
       { "Name": "보이즈 플래닛", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png", "ServiceId": "C52052", "Category": "음악/오락" },
       { "Name": "서진이네", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png", "ServiceId": "C52053", "Category": "음악/오락" },
       { "Name": "텐트 밖은 유럽 스페인 편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1007/C51861.png", "ServiceId": "C51861", "Category": "음악/오락" },
@@ -1752,6 +1749,10 @@
       { "Name": "환승연애 시즌1", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260211/0456/C52118.png", "ServiceId": "C52118", "Category": "음악/오락" },
       { "Name": "환승연애 시즌2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260211/0456/C52119.png", "ServiceId": "C52119", "Category": "음악/오락" },
       { "Name": "내 남편과 결혼해줘", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0058/C52143.png", "ServiceId": "C52143", "Category": "드라마" },
+      { "Name": "2026 롤랑가로스 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260514/0240/C52163.png", "ServiceId": "C52163", "Category": "스포츠/취미" },
+      { "Name": "2026 롤랑가로스 P. Chatrier 코트피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260514/0241/C52164.png", "ServiceId": "C52164", "Category": "스포츠/취미" },
+      { "Name": "2026 롤랑가로스 S.Lenglen 코트피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260514/0241/C52165.png", "ServiceId": "C52165", "Category": "스포츠/취미" },
+      { "Name": "2026 롤랑가로스 S.Mathieu 코트피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260514/0242/C52166.png", "ServiceId": "C52166", "Category": "스포츠/취미" },
       { "Name": "2026 롤랑가로스 Court.14 코트피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260514/0243/C52167.png", "ServiceId": "C52167", "Category": "스포츠/취미" },
       { "Name": "눈물의 여왕", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0126/C52171.png", "ServiceId": "C52171", "Category": "드라마" },
       { "Name": "텐트 밖은 유럽 남프랑스 편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20240531/0926/C52173.png", "ServiceId": "C52173", "Category": "음악/오락" },
@@ -1787,7 +1788,6 @@
       { "Name": "TVING 쿡방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0410/C52396.png", "ServiceId": "C52396", "Category": "음악/오락" },
       { "Name": "TVING 먹방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0403/C52395.png", "ServiceId": "C52395", "Category": "음악/오락" },
       { "Name": "TVING 단편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251113/0537/C52401.png", "ServiceId": "C52401", "Category": "드라마" },
-      { "Name": "TVING 뮤직", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251201/0557/C52411.png", "ServiceId": "C52411", "Category": "음악/오락" },
       { "Name": "TVING K-POP", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0455/C52397.png", "ServiceId": "C52397", "Category": "음악/오락" },
       { "Name": "스몰토크를 멈추면 안돼", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0819/C52408.png", "ServiceId": "C52408", "Category": "크리에이터TV" },
       { "Name": "야노시호 화나따", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0833/C52409.png", "ServiceId": "C52409", "Category": "크리에이터TV" },
@@ -1799,8 +1799,18 @@
       { "Name": "MBC 나 혼자 산다", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2339/C52421.png", "ServiceId": "C52421", "Category": "음악/오락" },
       { "Name": "머니투데이방송", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2335/C52407.png", "ServiceId": "C52407", "Category": "뉴스/재테크" },
       { "Name": "MBC 뉴스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260510/2346/C52389.png", "ServiceId": "C52389", "Category": "뉴스/재테크" },
-      { "Name": "한국경제TV 글로벌", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251203/0849/C52405.png", "ServiceId": "C52405", "Category": "뉴스/재테크" },
       { "Name": "일상의 쉼표", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260323/0439/C52448.png", "ServiceId": "C52448", "Category": "다큐/정보" },
+      { "Name": "프로보노", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0236/C52452.png", "ServiceId": "C52452", "Category": "드라마" },
+      { "Name": "우주를 줄게", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0406/C52453.png", "ServiceId": "C52453", "Category": "드라마" },
+      { "Name": "보검매직컬", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0414/C52455.png", "ServiceId": "C52455", "Category": "음악/오락" },
+      { "Name": "스프링 피버", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0417/C52456.png", "ServiceId": "C52456", "Category": "드라마" },
+      { "Name": "언더커버 미쓰홍", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0408/C52454.png", "ServiceId": "C52454", "Category": "드라마" },
+      { "Name": "지금 우리 TV엔", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0632/C52459.png", "ServiceId": "C52459", "Category": "CJ ENM" },
+      { "Name": "힐링의 新 NA", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0701/C52462.png", "ServiceId": "C52462", "Category": "음악/오락" },
+      { "Name": "TVING 오리지널 신작체험단", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0656/C52461.png", "ServiceId": "C52461", "Category": "드라마" },
+      { "Name": "TVING 오리지널 정주행", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0636/C52460.png", "ServiceId": "C52460", "Category": "드라마" },
+      { "Name": "K명작 상영회", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0616/C52458.png", "ServiceId": "C52458", "Category": "드라마" },
+      { "Name": "레트로TV", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0612/C52457.png", "ServiceId": "C52457", "Category": "CJ ENM" },
       { "Name": "응답하라 1997", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C04761.png", "ServiceId": "C04761", "Category": "드라마" },
       { "Name": "어쩌다사장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0844/C51357.png", "ServiceId": "C51357", "Category": "음악/오락" },
       { "Name": "국회방송(NATV)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0033/C51263.png", "ServiceId": "C51263", "Category": "다큐/정보" },
@@ -1855,7 +1865,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-05-21T21:54:51.404139",
+    "UPDATED": "2026-05-26T22:01:04.980539",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
@@ -1867,7 +1877,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-05-21T21:54:51.404143",
+    "UPDATED": "2026-05-26T22:01:04.980542",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1954,7 +1964,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-05-21T21:54:51.404158",
+    "UPDATED": "2026-05-26T22:01:04.980552",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1969,7 +1979,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-05-21T21:54:51.404162",
+    "UPDATED": "2026-05-26T22:01:04.980555",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
