@@ -1,11 +1,11 @@
 {
   "KT": {
-    "UPDATED": "2026-05-26T22:01:04.980431",
+    "UPDATED": "2026-05-31T21:30:20.735819",
     "TOTAL": 0,
     "CHANNELS": []
   },
   "LG": {
-    "UPDATED": "2026-05-26T22:01:04.980328",
+    "UPDATED": "2026-05-31T21:30:20.735729",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -359,7 +359,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-05-26T22:01:04.980393",
+    "UPDATED": "2026-05-31T21:30:20.735777",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -456,7 +456,7 @@
       { "Name": "스크린골프존", "No": "971", "ServiceId": "138", "Category": "스포츠/레저" },
       { "Name": "SBS Golf2", "No": "972", "ServiceId": "383", "Category": "스포츠/레저" },
       { "Name": "GOLF & PBA", "No": "973", "ServiceId": "135", "Category": "스포츠/레저" },
-      { "Name": "SPOTV Golf&Health", "No": "974", "ServiceId": "134", "Category": "스포츠/레저" },
+      { "Name": "SPOTV GOLF PLUS", "No": "974", "ServiceId": "134", "Category": "스포츠/레저" },
       { "Name": "JTBC SPORTS", "No": "975", "ServiceId": "436", "Category": "스포츠/레저" },
       { "Name": "JTBC GOLF", "No": "976", "ServiceId": "127", "Category": "스포츠/레저" },
       { "Name": "SBS GOLF", "No": "977", "ServiceId": "133", "Category": "스포츠/레저" },
@@ -634,11 +634,13 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-05-26T22:01:04.980436",
-    "TOTAL": 430,
+    "UPDATED": "2026-05-31T21:30:20.735826",
+    "TOTAL": 423,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "지상파 KBS2", "Category": "지상파" },
+      { "Name": "HD KBS1", "ServiceId": "지상파 HD KBS1", "Category": "지상파" },
+      { "Name": "HD KBS2", "ServiceId": "지상파 HD KBS2", "Category": "지상파" },
       { "Name": "강릉 KBS1", "ServiceId": "지상파 강릉 KBS1", "Category": "지상파" },
       { "Name": "경인 KBS1", "ServiceId": "지상파 경인 KBS1", "Category": "지상파" },
       { "Name": "광주 KBS1", "ServiceId": "지상파 광주 KBS1", "Category": "지상파" },
@@ -659,8 +661,8 @@
       { "Name": "충주 KBS1", "ServiceId": "지상파 충주 KBS1", "Category": "지상파" },
       { "Name": "포항 KBS1", "ServiceId": "지상파 포항 KBS1", "Category": "지상파" },
       { "Name": "MBC", "ServiceId": "지상파 MBC", "Category": "지상파" },
+      { "Name": "HD MBC", "ServiceId": "지상파 HD MBC", "Category": "지상파" },
       { "Name": "MBC 충북", "ServiceId": "지상파 MBC 충북", "Category": "지상파" },
-      { "Name": "MBC강원영동", "ServiceId": "지상파 MBC강원영동", "Category": "지상파" },
       { "Name": "MBC경남", "ServiceId": "지상파 MBC경남", "Category": "지상파" },
       { "Name": "광주 MBC", "ServiceId": "지상파 광주 MBC", "Category": "지상파" },
       { "Name": "대구 MBC", "ServiceId": "지상파 대구 MBC", "Category": "지상파" },
@@ -677,6 +679,7 @@
       { "Name": "춘천 MBC", "ServiceId": "지상파 춘천 MBC", "Category": "지상파" },
       { "Name": "포항 MBC", "ServiceId": "지상파 포항 MBC", "Category": "지상파" },
       { "Name": "SBS", "ServiceId": "지상파 SBS", "Category": "지상파" },
+      { "Name": "HD SBS", "ServiceId": "지상파 HD SBS", "Category": "지상파" },
       { "Name": "CJB 청주방송", "ServiceId": "지상파 CJB 청주방송", "Category": "지상파" },
       { "Name": "G1 방송", "ServiceId": "지상파 G1 방송", "Category": "지상파" },
       { "Name": "JIBS 제주방송", "ServiceId": "지상파 JIBS 제주방송", "Category": "지상파" },
@@ -718,7 +721,6 @@
       { "Name": "서울경제TV", "ServiceId": "케이블 서울경제TV", "Category": "케이블" },
       { "Name": "소상공인시장tv", "ServiceId": "케이블 소상공인시장tv", "Category": "케이블" },
       { "Name": "쿠키건강TV", "ServiceId": "케이블 쿠키건강TV", "Category": "케이블" },
-      { "Name": "토마토리빙", "ServiceId": "케이블 토마토리빙", "Category": "케이블" },
       { "Name": "팍스경제TV", "ServiceId": "케이블 팍스경제TV", "Category": "케이블" },
       { "Name": "한국경제TV", "ServiceId": "케이블 한국경제TV", "Category": "케이블" },
       { "Name": "투니버스", "ServiceId": "케이블 투니버스", "Category": "케이블" },
@@ -732,7 +734,6 @@
       { "Name": "CJ온스타일", "ServiceId": "케이블 CJ온스타일", "Category": "케이블" },
       { "Name": "GS SHOP", "ServiceId": "케이블 GS SHOP", "Category": "케이블" },
       { "Name": "(i)신세계 쇼핑", "ServiceId": "케이블 (i)신세계 쇼핑", "Category": "케이블" },
-      { "Name": "CJ온스타일플러스", "ServiceId": "케이블 CJ온스타일플러스", "Category": "케이블" },
       { "Name": "GS MY SHOP", "ServiceId": "케이블 GS MY SHOP", "Category": "케이블" },
       { "Name": "LOTTE OneTV", "ServiceId": "케이블 LOTTE OneTV", "Category": "케이블" },
       { "Name": "NS Shop+", "ServiceId": "케이블 NS Shop+", "Category": "케이블" },
@@ -790,7 +791,6 @@
       { "Name": "KBS N 스포츠", "ServiceId": "케이블 KBS N 스포츠", "Category": "케이블" },
       { "Name": "AsportsTV", "ServiceId": "케이블 AsportsTV", "Category": "케이블" },
       { "Name": "Billiards TV", "ServiceId": "케이블 Billiards TV", "Category": "케이블" },
-      { "Name": "ENA SPORTS", "ServiceId": "케이블 ENA SPORTS", "Category": "케이블" },
       { "Name": "GOLF & PBA", "ServiceId": "케이블 GOLF & PBA", "Category": "케이블" },
       { "Name": "JTBC GOLF", "ServiceId": "케이블 JTBC GOLF", "Category": "케이블" },
       { "Name": "K바둑", "ServiceId": "케이블 K바둑", "Category": "케이블" },
@@ -798,7 +798,7 @@
       { "Name": "OGN", "ServiceId": "케이블 OGN", "Category": "케이블" },
       { "Name": "SBS Golf2", "ServiceId": "케이블 SBS Golf2", "Category": "케이블" },
       { "Name": "SBS골프", "ServiceId": "케이블 SBS골프", "Category": "케이블" },
-      { "Name": "SPOTV Golf & Health", "ServiceId": "케이블 SPOTV Golf & Health", "Category": "케이블" },
+      { "Name": "SPOTV Golf+", "ServiceId": "케이블 SPOTV Golf+", "Category": "케이블" },
       { "Name": "SPOTV PRIME", "ServiceId": "케이블 SPOTV PRIME", "Category": "케이블" },
       { "Name": "SPOTV PRIME+", "ServiceId": "케이블 SPOTV PRIME+", "Category": "케이블" },
       { "Name": "SPOTV2", "ServiceId": "케이블 SPOTV2", "Category": "케이블" },
@@ -883,7 +883,6 @@
       { "Name": "지방자치TV", "ServiceId": "케이블 지방자치TV", "Category": "케이블" },
       { "Name": "채널i", "ServiceId": "케이블 채널i", "Category": "케이블" },
       { "Name": "채널이엠", "ServiceId": "케이블 채널이엠", "Category": "케이블" },
-      { "Name": "트로트아이", "ServiceId": "케이블 트로트아이", "Category": "케이블" },
       { "Name": "해피독 티비", "ServiceId": "케이블 해피독 티비", "Category": "케이블" },
       { "Name": "헬스메디tv", "ServiceId": "케이블 헬스메디tv", "Category": "케이블" },
       { "Name": "아리랑 TV", "ServiceId": "케이블 아리랑 TV", "Category": "케이블" },
@@ -898,6 +897,10 @@
       { "Name": "엑스원", "ServiceId": "케이블 엑스원", "Category": "케이블" },
       { "Name": "채널 뷰", "ServiceId": "케이블 채널 뷰", "Category": "케이블" },
       { "Name": "히스토리채널", "ServiceId": "케이블 히스토리채널", "Category": "케이블" },
+      { "Name": "B tv+", "ServiceId": "케이블 B tv+", "Category": "케이블" },
+      { "Name": "디즈니플러스", "ServiceId": "케이블 디즈니플러스", "Category": "케이블" },
+      { "Name": "쿠팡플레이", "ServiceId": "케이블 쿠팡플레이", "Category": "케이블" },
+      { "Name": "티빙", "ServiceId": "케이블 티빙", "Category": "케이블" },
       { "Name": "EBS English", "ServiceId": "케이블 EBS English", "Category": "케이블" },
       { "Name": "EBS플러스1", "ServiceId": "케이블 EBS플러스1", "Category": "케이블" },
       { "Name": "EBS플러스2", "ServiceId": "케이블 EBS플러스2", "Category": "케이블" },
@@ -915,9 +918,6 @@
       { "Name": "국회방송", "ServiceId": "케이블 국회방송", "Category": "케이블" },
       { "Name": "법률방송", "ServiceId": "케이블 법률방송", "Category": "케이블" },
       { "Name": "복지TV", "ServiceId": "케이블 복지TV", "Category": "케이블" },
-      { "Name": "디즈니플러스", "ServiceId": "케이블 디즈니플러스", "Category": "케이블" },
-      { "Name": "쿠팡플레이", "ServiceId": "케이블 쿠팡플레이", "Category": "케이블" },
-      { "Name": "티빙", "ServiceId": "케이블 티빙", "Category": "케이블" },
       { "Name": "TLC여행레저채널", "ServiceId": "SKYLIFE TLC여행레저채널", "Category": "스카이라이프" },
       { "Name": "HD FTV2", "ServiceId": "SKYLIFE HD FTV2", "Category": "스카이라이프" },
       { "Name": "애니맥스", "ServiceId": "SKYLIFE 애니맥스", "Category": "스카이라이프" },
@@ -936,8 +936,6 @@
       { "Name": "HD SBS플러스", "ServiceId": "SKYLIFE HD SBS플러스", "Category": "스카이라이프" },
       { "Name": "HD 텔레노벨라", "ServiceId": "SKYLIFE HD 텔레노벨라", "Category": "스카이라이프" },
       { "Name": "HD OCN", "ServiceId": "SKYLIFE HD OCN", "Category": "스카이라이프" },
-      { "Name": "HD tvN SHOW", "ServiceId": "SKYLIFE HD tvN SHOW", "Category": "스카이라이프" },
-      { "Name": "HD OCN Movies", "ServiceId": "SKYLIFE HD OCN Movies", "Category": "스카이라이프" },
       { "Name": "HD Mplex", "ServiceId": "SKYLIFE HD Mplex", "Category": "스카이라이프" },
       { "Name": "시네마천국", "ServiceId": "SKYLIFE 시네마천국", "Category": "스카이라이프" },
       { "Name": "씨네프", "ServiceId": "SKYLIFE 씨네프", "Category": "스카이라이프" },
@@ -949,11 +947,9 @@
       { "Name": "울트라오디오01", "ServiceId": "SKYLIFE 울트라오디오01", "Category": "스카이라이프" },
       { "Name": "울트라오디오02", "ServiceId": "SKYLIFE 울트라오디오02", "Category": "스카이라이프" },
       { "Name": "CMCTV", "ServiceId": "SKYLIFE CMCTV", "Category": "스카이라이프" },
-      { "Name": "HD JTBC2", "ServiceId": "SKYLIFE HD JTBC2", "Category": "스카이라이프" },
       { "Name": "HD K STAR", "ServiceId": "SKYLIFE HD K STAR", "Category": "스카이라이프" },
       { "Name": "HD KBS JOY", "ServiceId": "SKYLIFE HD KBS JOY", "Category": "스카이라이프" },
       { "Name": "HD MBC 에브리원", "ServiceId": "SKYLIFE HD MBC 에브리원", "Category": "스카이라이프" },
-      { "Name": "HD NQQ", "ServiceId": "SKYLIFE HD NQQ", "Category": "스카이라이프" },
       { "Name": "HD SBS funE", "ServiceId": "SKYLIFE HD SBS funE", "Category": "스카이라이프" },
       { "Name": "HD TV CHOSUN2", "ServiceId": "SKYLIFE HD TV CHOSUN2", "Category": "스카이라이프" },
       { "Name": "HD tvN", "ServiceId": "SKYLIFE HD tvN", "Category": "스카이라이프" },
@@ -982,15 +978,13 @@
       { "Name": "HD TJB 대전방송", "ServiceId": "SKYLIFE HD TJB 대전방송", "Category": "스카이라이프" },
       { "Name": "HD UBC 울산방송", "ServiceId": "SKYLIFE HD UBC 울산방송", "Category": "스카이라이프" },
       { "Name": "MBC 충주", "ServiceId": "SKYLIFE MBC 충주", "Category": "스카이라이프" },
-      { "Name": "HD CJ온스타일2", "ServiceId": "SKYLIFE HD CJ온스타일2", "Category": "스카이라이프" },
       { "Name": "HD GS SHOP", "ServiceId": "SKYLIFE HD GS SHOP", "Category": "스카이라이프" },
       { "Name": "HD NS홈쇼핑", "ServiceId": "SKYLIFE HD NS홈쇼핑", "Category": "스카이라이프" },
       { "Name": "HD 롯데홈쇼핑", "ServiceId": "SKYLIFE HD 롯데홈쇼핑", "Category": "스카이라이프" },
       { "Name": "HD 현대홈쇼핑", "ServiceId": "SKYLIFE HD 현대홈쇼핑", "Category": "스카이라이프" },
       { "Name": "HD KTV 국민방송", "ServiceId": "SKYLIFE HD KTV 국민방송", "Category": "스카이라이프" },
+      { "Name": "HD Kids Talk Talk 플러스", "ServiceId": "SKYLIFE HD Kids Talk Talk 플러스", "Category": "스카이라이프" },
       { "Name": "HD LIFETIME", "ServiceId": "SKYLIFE HD LIFETIME", "Category": "스카이라이프" },
-      { "Name": "HD Olive", "ServiceId": "SKYLIFE HD Olive", "Category": "스카이라이프" },
-      { "Name": "HD tvN STORY", "ServiceId": "SKYLIFE HD tvN STORY", "Category": "스카이라이프" },
       { "Name": "동아TV", "ServiceId": "SKYLIFE 동아TV", "Category": "스카이라이프" },
       { "Name": "육아방송", "ServiceId": "SKYLIFE 육아방송", "Category": "스카이라이프" },
       { "Name": "HD MBCNET", "ServiceId": "SKYLIFE HD MBCNET", "Category": "스카이라이프" },
@@ -1010,7 +1004,6 @@
       { "Name": "skyUHD", "ServiceId": "SKYLIFE skyUHD", "Category": "스카이라이프" },
       { "Name": "유교방송", "ServiceId": "SKYLIFE 유교방송", "Category": "스카이라이프" },
       { "Name": "Animal Planet", "ServiceId": "해외위성 Animal Planet", "Category": "해외위성" },
-      { "Name": "B tv+", "ServiceId": "해외위성 B tv+", "Category": "해외위성" },
       { "Name": "BBC Earth", "ServiceId": "해외위성 BBC Earth", "Category": "해외위성" },
       { "Name": "BBC News", "ServiceId": "해외위성 BBC News", "Category": "해외위성" },
       { "Name": "BBC World 2", "ServiceId": "해외위성 BBC World 2", "Category": "해외위성" },
@@ -1070,7 +1063,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-05-26T22:01:04.980476",
+    "UPDATED": "2026-05-31T21:30:20.735887",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1549,7 +1542,7 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-05-26T22:01:04.980507",
+    "UPDATED": "2026-05-31T21:30:20.735951",
     "TOTAL": 126,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
@@ -1681,8 +1674,8 @@
     ]
   },
   "TVING": {
-    "UPDATED": "2026-05-26T22:01:04.980522",
-    "TOTAL": 178,
+    "UPDATED": "2026-05-31T21:30:20.735968",
+    "TOTAL": 177,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
       { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
@@ -1732,8 +1725,6 @@
       { "Name": "텐트 밖은 유럽", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C51436.png", "ServiceId": "C51436", "Category": "음악/오락" },
       { "Name": "작은 아씨들", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0140/C51438.png", "ServiceId": "C51438", "Category": "드라마" },
       { "Name": "쇼미 더 머니11", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png", "ServiceId": "C51663", "Category": "음악/오락" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0453/C51850.png", "ServiceId": "C51850", "Category": "스포츠/취미" },
-      { "Name": "2026 KBO 리그", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260311/0456/C51851.png", "ServiceId": "C51851", "Category": "스포츠/취미" },
       { "Name": "보이즈 플래닛", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png", "ServiceId": "C52052", "Category": "음악/오락" },
       { "Name": "서진이네", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png", "ServiceId": "C52053", "Category": "음악/오락" },
       { "Name": "텐트 밖은 유럽 스페인 편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1007/C51861.png", "ServiceId": "C51861", "Category": "음악/오락" },
@@ -1775,6 +1766,7 @@
       { "Name": "<대탈출 : 더 스토리> 같이볼래?", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0059/C52338.png", "ServiceId": "C52338", "Category": "음악/오락" },
       { "Name": "월드 오브 스트릿 우먼 파이터", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20250724/0139/C52345.png", "ServiceId": "C52345", "Category": "음악/오락" },
       { "Name": "MBN NEWS", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250804/0543/C52349.png", "ServiceId": "C52349", "Category": "뉴스/재테크" },
+      { "Name": "쇼미더머니12 콘서트", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260519/0449/C52351.png", "ServiceId": "C52351", "Category": "음악/오락" },
       { "Name": "견우와 선녀", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0152/C52361.png", "ServiceId": "C52361", "Category": "드라마" },
       { "Name": "KBS 인간극장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0037/C52365.png", "ServiceId": "C52365", "Category": "다큐/정보" },
       { "Name": "KBS 1박 2일", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0822/C52381.png", "ServiceId": "C52381", "Category": "지상파" },
@@ -1784,11 +1776,6 @@
       { "Name": "KBS 역사저널 그날", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0739/C52366.png", "ServiceId": "C52366", "Category": "다큐/정보" },
       { "Name": "LIVE WIRE", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0054/C52369.png", "ServiceId": "C52369", "Category": "음악/오락" },
       { "Name": "MBC 라디오 예능", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0825/C52379.png", "ServiceId": "C52379", "Category": "뉴스/재테크" },
-      { "Name": "TVING Pick", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0225/C52394.png", "ServiceId": "C52394", "Category": "음악/오락" },
-      { "Name": "TVING 쿡방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0410/C52396.png", "ServiceId": "C52396", "Category": "음악/오락" },
-      { "Name": "TVING 먹방", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0403/C52395.png", "ServiceId": "C52395", "Category": "음악/오락" },
-      { "Name": "TVING 단편", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251113/0537/C52401.png", "ServiceId": "C52401", "Category": "드라마" },
-      { "Name": "TVING K-POP", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251107/0455/C52397.png", "ServiceId": "C52397", "Category": "음악/오락" },
       { "Name": "스몰토크를 멈추면 안돼", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0819/C52408.png", "ServiceId": "C52408", "Category": "크리에이터TV" },
       { "Name": "야노시호 화나따", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0833/C52409.png", "ServiceId": "C52409", "Category": "크리에이터TV" },
       { "Name": "파김치갱:다이어리", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251124/0846/C52410.png", "ServiceId": "C52410", "Category": "크리에이터TV" },
@@ -1811,6 +1798,11 @@
       { "Name": "TVING 오리지널 정주행", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0636/C52460.png", "ServiceId": "C52460", "Category": "드라마" },
       { "Name": "K명작 상영회", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0616/C52458.png", "ServiceId": "C52458", "Category": "드라마" },
       { "Name": "레트로TV", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0612/C52457.png", "ServiceId": "C52457", "Category": "CJ ENM" },
+      { "Name": "은밀한 감사", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0839/C52468.png", "ServiceId": "C52468", "Category": "드라마" },
+      { "Name": "구기동 프렌즈", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0834/C52466.png", "ServiceId": "C52466", "Category": "음악/오락" },
+      { "Name": "언니네 산지직송 in 칼라페", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0836/C52467.png", "ServiceId": "C52467", "Category": "음악/오락" },
+      { "Name": "세이렌", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0825/C52464.png", "ServiceId": "C52464", "Category": "드라마" },
+      { "Name": "대한민국에서 건물주 되는  법", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260528/0832/C52465.png", "ServiceId": "C52465", "Category": "드라마" },
       { "Name": "응답하라 1997", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/1001/C04761.png", "ServiceId": "C04761", "Category": "드라마" },
       { "Name": "어쩌다사장", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20241024/0844/C51357.png", "ServiceId": "C51357", "Category": "음악/오락" },
       { "Name": "국회방송(NATV)", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0033/C51263.png", "ServiceId": "C51263", "Category": "다큐/정보" },
@@ -1865,19 +1857,19 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-05-26T22:01:04.980539",
+    "UPDATED": "2026-05-31T21:30:20.735986",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
       { "Name": "SPOTV2", "ServiceId": 10, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/55509fff870629e4db8865ed79988c56.png" },
-      { "Name": "SPOTV Golf & Health", "ServiceId": 11, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/0011057bb69a02e3b3827ab82b57b849.png" },
+      { "Name": "SPOTV Golf+", "ServiceId": 11, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20260601/b4c08aa63a0f7ab24274c466200b586e.png" },
       { "Name": "SPOTV PRIME", "ServiceId": 1, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/7e36da649acf52299449f70a1412fdbf.png" },
       { "Name": "SPOTV PRIME2", "ServiceId": 2, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/8b3a24e8f2e7e5a5d591d94e1420990d.png" },
       { "Name": "SPOTV PRIME+", "ServiceId": 15, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png" }
     ]
   },
   "KBS": {
-    "UPDATED": "2026-05-26T22:01:04.980542",
+    "UPDATED": "2026-05-31T21:30:20.735990",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1964,7 +1956,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-05-26T22:01:04.980552",
+    "UPDATED": "2026-05-31T21:30:20.736002",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1979,7 +1971,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-05-26T22:01:04.980555",
+    "UPDATED": "2026-05-31T21:30:20.736005",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
