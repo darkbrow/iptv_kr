@@ -1,11 +1,11 @@
 {
   "KT": {
-    "UPDATED": "2026-06-08T22:08:29.640662",
+    "UPDATED": "2026-06-13T21:42:53.740920",
     "TOTAL": 0,
     "CHANNELS": []
   },
   "LG": {
-    "UPDATED": "2026-06-08T22:08:29.640595",
+    "UPDATED": "2026-06-13T21:42:53.740840",
     "TOTAL": 348,
     "CHANNELS": [
       { "Name": "CJ온스타일플러스", "No": "0", "ServiceId": "781", "Category": "홈쇼핑" },
@@ -359,7 +359,7 @@
     ]
   },
   "SK": {
-    "UPDATED": "2026-06-08T22:08:29.640637",
+    "UPDATED": "2026-06-13T21:42:53.740880",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -634,7 +634,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-06-08T22:08:29.640665",
+    "UPDATED": "2026-06-13T21:42:53.740925",
     "TOTAL": 419,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -1059,7 +1059,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-06-08T22:08:29.640717",
+    "UPDATED": "2026-06-13T21:42:53.740971",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1538,8 +1538,8 @@
     ]
   },
   "WAVVE": {
-    "UPDATED": "2026-06-08T22:08:29.640763",
-    "TOTAL": 127,
+    "UPDATED": "2026-06-13T21:42:53.741021",
+    "TOTAL": 129,
     "CHANNELS": [
       { "Name": "KBS 1TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K01_square_20250731211949.png", "ServiceId": "K01" },
       { "Name": "KBS 2TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/K02_square_20250731212021.png", "ServiceId": "K02" },
@@ -1667,15 +1667,16 @@
       { "Name": "KNN", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J5001_square_20260224135355.png", "ServiceId": "J5001" },
       { "Name": "Wavve Golf 2", "Icon_url": "https://image.wavve.com/channel_mgmt/image/S30_square_20260403134435.png", "ServiceId": "S30" },
       { "Name": "헬로tv뉴스", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J5101_square_20260506133401.png", "ServiceId": "J5101" },
-      { "Name": "서울경제TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J6301_square_20260520105013.png", "ServiceId": "J6301" }
+      { "Name": "서울경제TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J6301_square_20260520105013.png", "ServiceId": "J6301" },
+      { "Name": "아시안투어 LIVE", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J3904_square_20260520105054.png", "ServiceId": "J3904" },
+      { "Name": "이데일리TV", "Icon_url": "https://image.wavve.com/channel_mgmt/image/J6401_square_20260506133419.png", "ServiceId": "J6401" }
     ]
   },
   "TVING": {
-    "UPDATED": "2026-06-08T22:08:29.640781",
+    "UPDATED": "2026-06-13T21:42:53.741035",
     "TOTAL": 172,
     "CHANNELS": [
       { "Name": "tvN", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C00551.png", "ServiceId": "C00551", "Category": "드라마" },
-      { "Name": "JTBC", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0051/C01582.png", "ServiceId": "C01582", "Category": "뉴스/재테크" },
       { "Name": "Mnet", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0103/C00579.png", "ServiceId": "C00579", "Category": "음악/오락" },
       { "Name": "KBS2", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250908/0722/C00710.png", "ServiceId": "C00710", "Category": "지상파" },
       { "Name": "CJ 온스타일+", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260318/0800/C00601.png", "ServiceId": "C00601", "Category": "여성/홈쇼핑" },
@@ -1721,6 +1722,7 @@
       { "Name": "미스터트롯&미스트롯-영웅들의 탄생", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0048/C51434.png", "ServiceId": "C51434", "Category": "음악/오락" },
       { "Name": "텐트 밖은 유럽", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C51436.png", "ServiceId": "C51436", "Category": "음악/오락" },
       { "Name": "작은 아씨들", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0140/C51438.png", "ServiceId": "C51438", "Category": "드라마" },
+      { "Name": "WTA 투어 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251022/0104/C51651.png", "ServiceId": "C51651", "Category": "스포츠/취미" },
       { "Name": "쇼미 더 머니11", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0110/C51663.png", "ServiceId": "C51663", "Category": "음악/오락" },
       { "Name": "보이즈 플래닛", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0131/C52052.png", "ServiceId": "C52052", "Category": "음악/오락" },
       { "Name": "서진이네", "Icon_url": "https://image.tving.com/upload/cms/caic/CAIC0100/C52053.png", "ServiceId": "C52053", "Category": "음악/오락" },
@@ -1744,6 +1746,7 @@
       { "Name": "삼시세끼 Light", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0106/C52237.png", "ServiceId": "C52237", "Category": "음악/오락" },
       { "Name": "정년이", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0142/C52240.png", "ServiceId": "C52240", "Category": "드라마" },
       { "Name": "김창옥쇼3", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0122/C52241.png", "ServiceId": "C52241", "Category": "음악/오락" },
+      { "Name": "ATP 투어 월드피드", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251202/1457/C52247.png", "ServiceId": "C52247", "Category": "스포츠/취미" },
       { "Name": "텐트 밖은 유럽 - 로맨틱 이탈리아", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0051/C52250.png", "ServiceId": "C52250", "Category": "음악/오락" },
       { "Name": "KBS NEWS 24", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20250317/0521/C52286.png", "ServiceId": "C52286", "Category": "뉴스/재테크" },
       { "Name": "나는 SOLO", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20251022/0123/C52291.png", "ServiceId": "C52291", "Category": "음악/오락" },
@@ -1777,7 +1780,6 @@
       { "Name": "MBC 나 혼자 산다", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2339/C52421.png", "ServiceId": "C52421", "Category": "음악/오락" },
       { "Name": "머니투데이방송", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260119/2335/C52407.png", "ServiceId": "C52407", "Category": "뉴스/재테크" },
       { "Name": "MBC 뉴스", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20260510/2346/C52389.png", "ServiceId": "C52389", "Category": "뉴스/재테크" },
-      { "Name": "한국경제TV 글로벌", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC2300/ko/20251203/0849/C52405.png", "ServiceId": "C52405", "Category": "뉴스/재테크" },
       { "Name": "일상의 쉼표", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260323/0439/C52448.png", "ServiceId": "C52448", "Category": "다큐/정보" },
       { "Name": "프로보노", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0236/C52452.png", "ServiceId": "C52452", "Category": "드라마" },
       { "Name": "우주를 줄게", "Icon_url": "https://image.tving.com/ntgs/contents/CTC/caic/CAIC0100/ko/20260522/0406/C52453.png", "ServiceId": "C52453", "Category": "드라마" },
@@ -1849,7 +1851,7 @@
     ]
   },
   "SPOTV": {
-    "UPDATED": "2026-06-08T22:08:29.640837",
+    "UPDATED": "2026-06-13T21:42:53.741065",
     "TOTAL": 6,
     "CHANNELS": [
       { "Name": "SPOTV", "ServiceId": 9, "Icon_url": "https://cdn.spotvnow.co.kr/src/upload/image/20211215/710e7a39f7910d4d828047e1222e2dce.png" },
@@ -1861,7 +1863,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-06-08T22:08:29.640841",
+    "UPDATED": "2026-06-13T21:42:53.741071",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1948,7 +1950,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-06-08T22:08:29.640851",
+    "UPDATED": "2026-06-13T21:42:53.741086",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1963,7 +1965,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-06-08T22:08:29.640854",
+    "UPDATED": "2026-06-13T21:42:53.741091",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
