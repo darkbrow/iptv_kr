@@ -97,7 +97,7 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 tvg-id="공영쇼핑" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="홈쇼핑",공영쇼핑 (720p)
 https://etv.publichs.com/live5.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GS마이샵" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="홈쇼핑",GS My Shop (1080p)
+#EXTINF:-1 tvg-id="GS MY SHOP" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="홈쇼핑",GS My Shop (1080p)
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GS SHOP" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="홈쇼핑",GS Shop (1080p)
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
@@ -105,11 +105,11 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 tvg-id="현대홈쇼핑" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="홈쇼핑",현대홈쇼핑 (720p)
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/paylist.m3u8
-#EXTINF:-1 tvg-id="현대홈쇼핑+샵" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="홈쇼핑",현대홈쇼핑 Plus (720p)
+#EXTINF:-1 tvg-id="현대홈쇼핑+Shop" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="홈쇼핑",현대홈쇼핑 Plus (720p)
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="롯데홈쇼핑" tvg-logo="https://i.imgur.com/dJeNehc.png" group-title="홈쇼핑",롯데홈쇼핑 (720p)
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
-#EXTINF:-1 tvg-id="롯데 OneTV" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="홈쇼핑",롯데 OneTV (720p)
+#EXTINF:-1 tvg-id="롯데OneTV" tvg-logo="https://i.imgur.com/bXe7tYE.png" group-title="홈쇼핑",롯데 OneTV (720p)
 https://onetvhlslive.lotteimall.com/lotteonetvlive/lotteonetvlive.mp4.m3u8
 #EXTINF:-1 tvg-id="NS홈쇼핑" tvg-logo="https://i.imgur.com/Q9xsDQo.png" group-title="홈쇼핑",NS 홈쇼핑 (720p)
 https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
