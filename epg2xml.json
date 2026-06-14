@@ -110,5 +110,8 @@
     "MY_CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "지상파" }
     ]
+  },
+  "KT": {
+    "MY_CHANNELS": []
   }
 }
