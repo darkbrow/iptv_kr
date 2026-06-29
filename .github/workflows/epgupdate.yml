@@ -1,0 +1,58 @@
+name: EPG Update Workflow
+
+# ---------------------------------------------------------
+# 🚀 트리거 설정: Cron 또는 수동 실행 가능하도록 설정
+on:
+  schedule:
+    # 매일 오후 1시 실행 (KST 기준)에 자동으로 실행됩니다.
+    - cron: '0 4 * * *' 
+  # 사용자가 GitHub UI에서 "Run workflow" 버튼을 눌러 수동으로 실행할 수 있게 합니다.
+  workflow_dispatch: {}
+
+# ---------------------------------------------------------
+# 🛡️ 권한 설정: 이 워크플로우가 레포지토리에 쓸 수 있는 권한을 부여합니다.
+permissions:
+  contents: write # 파일 생성/수정/푸시 권한 부여
+
+jobs:
+  build_and_push:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 코드 체크아웃 (필요한 경우)
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. 의존성 설치 및 정리
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          
+      - name: Install Dependencies
+        run: |
+          pip install "epg2xml[all] @ git+https://github.com/epg2xml/epg2xml.git"
+          echo "Dependencies installed successfully."
+      
+      # 3. 이전 파일 삭제
+      - name: Clean up old files
+        run: |
+          echo "Cleaning up previous EPG files..."
+          rm -f Channel.json kr_epg.xml kr_epg.xml.gz
+      
+      # 4. EPG 파일 생성 (핵심 실행 단계)
+      - name: Generate new EPG files
+        run: |
+          echo "Running epg2xml to generate kr_epg.xml and compressing it..."
+          # XML 생성 및 Gzip 압축 실행
+          python -m epg2xml run --config epg2xml.json --xmlfile kr_epg.xml && gzip -c kr_epg.xml > kr_epg.xml.gz
+      
+      # 5. 변경 사항 커밋 및 푸시 (토큰 사용)
+      - name: Commit and Push changes
+        run: |
+          echo "Staging, committing, and pushing changes to the repository..."
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # 파일 추가, 커밋, 푸시 실행
+          git add .
+          git diff --cached --quiet || git commit -m "EPG update"
+          git push
