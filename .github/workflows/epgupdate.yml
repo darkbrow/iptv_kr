@@ -26,7 +26,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: ">=3.9"
           
       - name: Install Dependencies
         run: |
@@ -44,7 +44,7 @@ jobs:
         run: |
           echo "Running epg2xml to generate kr_epg.xml and compressing it..."
           # XML 생성 및 Gzip 압축 실행
-          python -m epg2xml run --config epg2xml.json --xmlfile kr_epg.xml && gzip -c kr_epg.xml > kr_epg.xml.gz
+          python3 -m epg2xml run --config epg2xml.json --xmlfile kr_epg.xml && gzip -c kr_epg.xml > kr_epg.xml.gz
       
       # 5. 변경 사항 커밋 및 푸시 (토큰 사용)
       - name: Commit and Push changes
