@@ -26,12 +26,12 @@
   "DAUM": {
     "ENABLED": true,
     "MY_CHANNELS": [
-      { "Name": "CJ온스타일", "ServiceId": "케이블 CJ온스타일", "Category": "케이블" },
-      { "Name": "공영쇼핑", "ServiceId": "케이블 공영쇼핑", "Category": "케이블" },
-      { "Name": "GS SHOP", "ServiceId": "케이블 GS SHOP", "Category": "케이블" },
-      { "Name": "현대홈쇼핑", "ServiceId": "케이블 현대홈쇼핑", "Category": "케이블" },
-      { "Name": "롯데홈쇼핑", "ServiceId": "케이블 롯데홈쇼핑", "Category": "케이블" },
-      { "Name": "NS홈쇼핑", "ServiceId": "케이블 NS홈쇼핑", "Category": "케이블" }
+      { "Name": "CJ온스타일", "ServiceId": "케이블 CJ온스타일", "Category": "홈쇼핑" },
+      { "Name": "공영쇼핑", "ServiceId": "케이블 공영쇼핑", "Category": "홈쇼핑" },
+      { "Name": "GS SHOP", "ServiceId": "케이블 GS SHOP", "Category": "홈쇼핑" },
+      { "Name": "현대홈쇼핑", "ServiceId": "케이블 현대홈쇼핑", "Category": "홈쇼핑" },
+      { "Name": "롯데홈쇼핑", "ServiceId": "케이블 롯데홈쇼핑", "Category": "홈쇼핑" },
+      { "Name": "NS홈쇼핑", "ServiceId": "케이블 NS홈쇼핑", "Category": "홈쇼핑" }
     ]
   },
   "NAVER": {
@@ -81,8 +81,8 @@
       { "Name": "KNN 부산경남방송", "ServiceId": "814628", "Category": "지상파" },
       { "Name": "UBC 울산방송", "ServiceId": "814694", "Category": "지상파" },
       { "Name": "JIBS 제주방송", "ServiceId": "814703", "Category": "지상파" },
-      { "Name": "CJ온스타일플러스", "ServiceId": "18608759", "Category": "케이블" },
-      { "Name": "NS Shop+", "ServiceId": "29770878", "Category": "케이블" }
+      { "Name": "CJ온스타일플러스", "ServiceId": "18608759", "Category": "홈쇼핑" },
+      { "Name": "NS Shop+", "ServiceId": "29770878", "Category": "홈쇼핑" }
     ]
   },
   "KBS": {
