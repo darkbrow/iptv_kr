@@ -4,7 +4,7 @@
 
 ## 플레이리스트
 ```
-https://raw.githubusercontent.com/darkbrow/iptv_kr/refs/heads/main/wip.m3u
+https://raw.githubusercontent.com/darkbrow/iptv_kr/refs/heads/main/KOR-TV.m3u
 ```
 다음 파일을 참조하여 작성했습니다.
 
