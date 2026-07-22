@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-07-21T06:28:41.390518",
+    "UPDATED": "2026-07-22T06:29:02.199831",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -25,11 +25,11 @@
       { "Name": "공영쇼핑", "No": "21", "ServiceId": "332", "Category": "홈쇼핑" },
       { "Name": "kt알파 쇼핑", "No": "22", "ServiceId": "333", "Category": "홈쇼핑" },
       { "Name": "쇼핑엔티", "No": "29", "ServiceId": "336", "Category": "홈쇼핑" },
+      { "Name": "GS MY SHOP", "No": "31", "ServiceId": "343", "Category": "홈쇼핑" },
       { "Name": "롯데OneTV", "No": "33", "ServiceId": "344", "Category": "홈쇼핑" },
       { "Name": "NS Shop+", "No": "35", "ServiceId": "341", "Category": "홈쇼핑" },
-      { "Name": "W쇼핑", "No": "37", "ServiceId": "342", "Category": "홈쇼핑" },
       { "Name": "현대홈쇼핑+Shop", "No": "39", "ServiceId": "337", "Category": "홈쇼핑" },
-      { "Name": "GS MY SHOP", "No": "999", "ServiceId": "343", "Category": "홈쇼핑" },
+      { "Name": "W쇼핑", "No": "999", "ServiceId": "342", "Category": "홈쇼핑" },
       { "Name": "CATCH ON 1", "No": "70", "ServiceId": "181", "Category": "영화" },
       { "Name": "CATCH ON 2", "No": "71", "ServiceId": "182", "Category": "영화" },
       { "Name": "OCN Movies", "No": "72", "ServiceId": "187", "Category": "영화" },
@@ -126,11 +126,13 @@
       { "Name": "JTBC4", "No": "55", "ServiceId": "259", "Category": "연예/오락" },
       { "Name": "ENA PLAY", "No": "60", "ServiceId": "893", "Category": "연예/오락" },
       { "Name": "E LIKE", "No": "61", "ServiceId": "274", "Category": "연예/오락" },
+      { "Name": "Gtv", "No": "66", "ServiceId": "284", "Category": "연예/오락" },
       { "Name": "더라이프", "No": "67", "ServiceId": "898", "Category": "연예/오락" },
       { "Name": "K star", "No": "68", "ServiceId": "884", "Category": "연예/오락" },
       { "Name": "FUN TV", "No": "69", "ServiceId": "887", "Category": "연예/오락" },
       { "Name": "tvN SHOW", "No": "90", "ServiceId": "185", "Category": "연예/오락" },
       { "Name": "TVCHOSUN2", "No": "91", "ServiceId": "631", "Category": "연예/오락" },
+      { "Name": "EDGE ON", "No": "92", "ServiceId": "456", "Category": "연예/오락" },
       { "Name": "chEM", "No": "93", "ServiceId": "267", "Category": "연예/오락" },
       { "Name": "CMCTV", "No": "94", "ServiceId": "876", "Category": "연예/오락" },
       { "Name": "더라이프2", "No": "96", "ServiceId": "866", "Category": "연예/오락" },
@@ -145,15 +147,13 @@
       { "Name": "붐TV", "No": "107", "ServiceId": "249", "Category": "연예/오락" },
       { "Name": "TVCHOSUN3", "No": "109", "ServiceId": "867", "Category": "연예/오락" },
       { "Name": "Ch.ever", "No": "112", "ServiceId": "280", "Category": "연예/오락" },
-      { "Name": "Gtv", "No": "113", "ServiceId": "284", "Category": "연예/오락" },
       { "Name": "동아TV", "No": "114", "ServiceId": "272", "Category": "연예/오락" },
       { "Name": "ENA STORY", "No": "115", "ServiceId": "288", "Category": "연예/오락" },
       { "Name": "StoryTV", "No": "116", "ServiceId": "289", "Category": "연예/오락" },
       { "Name": "ETN연예TV", "No": "117", "ServiceId": "897", "Category": "연예/오락" },
       { "Name": "다문화TV", "No": "119", "ServiceId": "448", "Category": "연예/오락" },
-      { "Name": "SBS F!L UHD", "No": "124", "ServiceId": "909", "Category": "연예/오락" },
+      { "Name": "SBS NEX", "No": "124", "ServiceId": "909", "Category": "연예/오락" },
       { "Name": "InUltra", "No": "125", "ServiceId": "890", "Category": "연예/오락" },
-      { "Name": "EDGE ON", "No": "126", "ServiceId": "456", "Category": "연예/오락" },
       { "Name": "슬로우 TV", "No": "127", "ServiceId": "453", "Category": "연예/오락" },
       { "Name": "THE M", "No": "200", "ServiceId": "883", "Category": "연예/오락" },
       { "Name": "GMTV", "No": "201", "ServiceId": "671", "Category": "연예/오락" },
@@ -196,13 +196,13 @@
       { "Name": "서울경제TV", "No": "156", "ServiceId": "629", "Category": "뉴스/경제" },
       { "Name": "연합뉴스경제 TV", "No": "157", "ServiceId": "451", "Category": "뉴스/경제" },
       { "Name": "토마토리빙", "No": "158", "ServiceId": "621", "Category": "뉴스/경제" },
+      { "Name": "DealSite경제TV", "No": "159", "ServiceId": "454", "Category": "뉴스/경제" },
       { "Name": "CNN International", "No": "160", "ServiceId": "774", "Category": "뉴스/경제" },
       { "Name": "BBC News", "No": "162", "ServiceId": "778", "Category": "뉴스/경제" },
       { "Name": "CGTN", "No": "163", "ServiceId": "771", "Category": "뉴스/경제" },
       { "Name": "Bloomberg TV", "No": "164", "ServiceId": "775", "Category": "뉴스/경제" },
       { "Name": "Channel News Asia", "No": "165", "ServiceId": "777", "Category": "뉴스/경제" },
       { "Name": "FOX News Channel", "No": "166", "ServiceId": "791", "Category": "뉴스/경제" },
-      { "Name": "DealSite경제TV", "No": "168", "ServiceId": "454", "Category": "뉴스/경제" },
       { "Name": "FRANCE 24", "No": "279", "ServiceId": "793", "Category": "뉴스/경제" },
       { "Name": "B tv Today2", "No": "87", "ServiceId": "325", "Category": "라이프/정보" },
       { "Name": "DOG TV", "No": "88", "ServiceId": "255", "Category": "라이프/정보" },
@@ -275,7 +275,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-07-21T06:28:41.390551",
+    "UPDATED": "2026-07-22T06:29:02.199848",
     "TOTAL": 419,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -700,7 +700,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-07-21T06:28:41.390555",
+    "UPDATED": "2026-07-22T06:29:02.199853",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1179,7 +1179,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-07-21T06:28:41.390558",
+    "UPDATED": "2026-07-22T06:29:02.199856",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1266,7 +1266,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-07-21T06:28:41.390560",
+    "UPDATED": "2026-07-22T06:29:02.199859",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1281,7 +1281,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-07-21T06:28:41.390562",
+    "UPDATED": "2026-07-22T06:29:02.199862",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
