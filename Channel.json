@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-07-22T06:29:02.199831",
+    "UPDATED": "2026-07-23T06:30:56.071134",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -275,7 +275,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-07-22T06:29:02.199848",
+    "UPDATED": "2026-07-23T06:30:56.071148",
     "TOTAL": 419,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -700,7 +700,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-07-22T06:29:02.199853",
+    "UPDATED": "2026-07-23T06:30:56.071152",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1046,7 +1046,7 @@
       { "Name": "KBS Joy", "ServiceId": "815231", "Category": "스카이라이프" },
       { "Name": "아이넷TV", "ServiceId": "815256", "Category": "스카이라이프" },
       { "Name": "ETN", "ServiceId": "815229", "Category": "스카이라이프" },
-      { "Name": "SBS Fil UHD", "ServiceId": "5332390", "Category": "스카이라이프" },
+      { "Name": "SBS NEX", "ServiceId": "5332390", "Category": "스카이라이프" },
       { "Name": "skyUHD", "ServiceId": "5332391", "Category": "스카이라이프" },
       { "Name": "tvN DRAMA", "ServiceId": "815328", "Category": "스카이라이프" },
       { "Name": "채널와이드", "ServiceId": "815218", "Category": "스카이라이프" },
@@ -1179,7 +1179,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-07-22T06:29:02.199856",
+    "UPDATED": "2026-07-23T06:30:56.071155",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1266,7 +1266,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-07-22T06:29:02.199859",
+    "UPDATED": "2026-07-23T06:30:56.071157",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1281,7 +1281,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-07-22T06:29:02.199862",
+    "UPDATED": "2026-07-23T06:30:56.071160",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
