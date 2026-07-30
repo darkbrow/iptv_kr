@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-07-29T06:31:32.862984",
+    "UPDATED": "2026-07-30T06:28:46.485466",
     "TOTAL": 269,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -275,8 +275,8 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-07-29T06:31:32.862998",
-    "TOTAL": 419,
+    "UPDATED": "2026-07-30T06:28:46.485479",
+    "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
       { "Name": "KBS2", "ServiceId": "지상파 KBS2", "Category": "지상파" },
@@ -534,10 +534,6 @@
       { "Name": "엑스원", "ServiceId": "케이블 엑스원", "Category": "케이블" },
       { "Name": "채널 뷰", "ServiceId": "케이블 채널 뷰", "Category": "케이블" },
       { "Name": "히스토리채널", "ServiceId": "케이블 히스토리채널", "Category": "케이블" },
-      { "Name": "B tv+", "ServiceId": "케이블 B tv+", "Category": "케이블" },
-      { "Name": "디즈니플러스", "ServiceId": "케이블 디즈니플러스", "Category": "케이블" },
-      { "Name": "쿠팡플레이", "ServiceId": "케이블 쿠팡플레이", "Category": "케이블" },
-      { "Name": "티빙", "ServiceId": "케이블 티빙", "Category": "케이블" },
       { "Name": "EBS English", "ServiceId": "케이블 EBS English", "Category": "케이블" },
       { "Name": "EBS플러스1", "ServiceId": "케이블 EBS플러스1", "Category": "케이블" },
       { "Name": "EBS플러스2", "ServiceId": "케이블 EBS플러스2", "Category": "케이블" },
@@ -700,7 +696,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-07-29T06:31:32.863002",
+    "UPDATED": "2026-07-30T06:28:46.485482",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1179,7 +1175,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-07-29T06:31:32.863005",
+    "UPDATED": "2026-07-30T06:28:46.485485",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1266,7 +1262,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-07-29T06:31:32.863007",
+    "UPDATED": "2026-07-30T06:28:46.485487",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1281,7 +1277,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-07-29T06:31:32.863009",
+    "UPDATED": "2026-07-30T06:28:46.485488",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
