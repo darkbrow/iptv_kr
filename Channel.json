@@ -1,7 +1,7 @@
 {
   "SK": {
-    "UPDATED": "2026-09-01T09:14:18.837894",
-    "TOTAL": 269,
+    "UPDATED": "2026-09-02T08:28:29.753257",
+    "TOTAL": 268,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
       { "Name": "KBS2", "No": "7", "ServiceId": "12", "Category": "지상파/종편" },
@@ -92,7 +92,6 @@
       { "Name": "i play", "No": "235", "ServiceId": "277", "Category": "스포츠/레저" },
       { "Name": "OGN", "No": "236", "ServiceId": "124", "Category": "스포츠/레저" },
       { "Name": "Eurosport", "No": "967", "ServiceId": "120", "Category": "스포츠/레저" },
-      { "Name": "SMTsports", "No": "968", "ServiceId": "457", "Category": "스포츠/레저" },
       { "Name": "BallTV", "No": "970", "ServiceId": "452", "Category": "스포츠/레저" },
       { "Name": "스크린골프존", "No": "971", "ServiceId": "138", "Category": "스포츠/레저" },
       { "Name": "SBS Golf2", "No": "972", "ServiceId": "383", "Category": "스포츠/레저" },
@@ -275,7 +274,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-09-01T09:14:18.837906",
+    "UPDATED": "2026-09-02T08:28:29.753274",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -696,7 +695,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-09-01T09:14:18.837910",
+    "UPDATED": "2026-09-02T08:28:29.753281",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1175,7 +1174,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-09-01T09:14:18.837912",
+    "UPDATED": "2026-09-02T08:28:29.753286",
     "TOTAL": 81,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1262,7 +1261,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-09-01T09:14:18.837913",
+    "UPDATED": "2026-09-02T08:28:29.753290",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1277,7 +1276,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-09-01T09:14:18.837915",
+    "UPDATED": "2026-09-02T08:28:29.753294",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
