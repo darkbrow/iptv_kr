@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-10-03T09:42:28.519904",
+    "UPDATED": "2026-10-04T10:26:42.982411",
     "TOTAL": 268,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -274,7 +274,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-10-03T09:42:28.519921",
+    "UPDATED": "2026-10-04T10:26:42.982425",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -695,7 +695,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-10-03T09:42:28.519925",
+    "UPDATED": "2026-10-04T10:26:42.982429",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1174,13 +1174,12 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-10-03T09:42:28.519928",
-    "TOTAL": 80,
+    "UPDATED": "2026-10-04T10:26:42.982431",
+    "TOTAL": 79,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
       { "Name": "2TV", "ServiceId": "12", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" },
       { "Name": "KBS WORLD", "ServiceId": "14", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" },
-      { "Name": "아시안게임 화면해설방송", "ServiceId": "CP03", "Category": "아이치-나고야 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133477_507581.png" },
       { "Name": "KBS NEWS 24", "ServiceId": "81", "Category": "KBS NEWS 24", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" },
       { "Name": "KBS Story", "ServiceId": "N94", "Category": "KBS N 케이블", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png" },
       { "Name": "KBS LIFE", "ServiceId": "N93", "Category": "KBS N 케이블", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" },
@@ -1260,7 +1259,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-10-03T09:42:28.519931",
+    "UPDATED": "2026-10-04T10:26:42.982433",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1275,7 +1274,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-10-03T09:42:28.519933",
+    "UPDATED": "2026-10-04T10:26:42.982434",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
