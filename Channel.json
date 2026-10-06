@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-10-05T11:13:36.639490",
+    "UPDATED": "2026-10-06T11:03:30.403988",
     "TOTAL": 268,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -274,7 +274,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-10-05T11:13:36.639502",
+    "UPDATED": "2026-10-06T11:03:30.404001",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -429,6 +429,7 @@
       { "Name": "Billiards TV", "ServiceId": "케이블 Billiards TV", "Category": "케이블" },
       { "Name": "GOLF & PBA", "ServiceId": "케이블 GOLF & PBA", "Category": "케이블" },
       { "Name": "JTBC GOLF", "ServiceId": "케이블 JTBC GOLF", "Category": "케이블" },
+      { "Name": "JTBC SPORTS", "ServiceId": "케이블 JTBC SPORTS", "Category": "케이블" },
       { "Name": "K바둑", "ServiceId": "케이블 K바둑", "Category": "케이블" },
       { "Name": "MAXPORTS", "ServiceId": "케이블 MAXPORTS", "Category": "케이블" },
       { "Name": "OGN", "ServiceId": "케이블 OGN", "Category": "케이블" },
@@ -500,7 +501,6 @@
       { "Name": "가톨릭 평화방송", "ServiceId": "케이블 가톨릭 평화방송", "Category": "케이블" },
       { "Name": "국악방송", "ServiceId": "케이블 국악방송", "Category": "케이블" },
       { "Name": "DOGTV", "ServiceId": "케이블 DOGTV", "Category": "케이블" },
-      { "Name": "EYTV", "ServiceId": "케이블 EYTV", "Category": "케이블" },
       { "Name": "HGTV", "ServiceId": "케이블 HGTV", "Category": "케이블" },
       { "Name": "KBS LIFE", "ServiceId": "케이블 KBS LIFE", "Category": "케이블" },
       { "Name": "MBCNET", "ServiceId": "케이블 MBCNET", "Category": "케이블" },
@@ -695,7 +695,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-10-05T11:13:36.639506",
+    "UPDATED": "2026-10-06T11:03:30.404005",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1174,7 +1174,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-10-05T11:13:36.639509",
+    "UPDATED": "2026-10-06T11:03:30.404008",
     "TOTAL": 79,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1259,7 +1259,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-10-05T11:13:36.639511",
+    "UPDATED": "2026-10-06T11:03:30.404010",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1274,7 +1274,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-10-05T11:13:36.639513",
+    "UPDATED": "2026-10-06T11:03:30.404011",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
