@@ -1,11 +1,11 @@
 {
   "SK": {
-    "UPDATED": "2026-10-17T08:18:54.466252",
+    "UPDATED": "2026-10-18T08:37:24.094262",
     "TOTAL": 0,
     "CHANNELS": []
   },
   "DAUM": {
-    "UPDATED": "2026-10-17T08:18:54.466265",
+    "UPDATED": "2026-10-18T08:37:24.094276",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -426,7 +426,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-10-17T08:18:54.466268",
+    "UPDATED": "2026-10-18T08:37:24.094282",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -904,22 +904,22 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-10-17T08:18:54.466270",
+    "UPDATED": "2026-10-18T08:37:24.094286",
     "TOTAL": 89,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
       { "Name": "2TV", "ServiceId": "12", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" },
       { "Name": "KBS WORLD", "ServiceId": "14", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" },
-      { "Name": "28대 KBS사장후보 국민추천위원회 회의", "ServiceId": "CP01", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133305_507569.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 2", "ServiceId": "CP02", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133394_507570.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 3", "ServiceId": "CP03", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133477_507581.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 4", "ServiceId": "CP04", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133546_507592.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 5", "ServiceId": "CP05", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133627_507605.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 6", "ServiceId": "CP06", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592316_437007.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 7", "ServiceId": "CP07", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592370_437018.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 8", "ServiceId": "CP08", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592447_437029.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 9", "ServiceId": "CP09", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592538_437030.png" },
-      { "Name": "2026 아이치-나고야 장애인 아시안게임 10", "ServiceId": "CP10", "Category": "KBS 채널", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592654_437041.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 1", "ServiceId": "CP11", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592654_437041.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 2", "ServiceId": "CP02", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133394_507570.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 3", "ServiceId": "CP03", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133477_507581.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 4", "ServiceId": "CP04", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133546_507592.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 5", "ServiceId": "CP05", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2026/3/16/1773617133627_507605.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 6", "ServiceId": "CP06", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592316_437007.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 7", "ServiceId": "CP07", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592370_437018.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 8", "ServiceId": "CP08", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592447_437029.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 9", "ServiceId": "CP09", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592538_437030.png" },
+      { "Name": "2026 아이치-나고야 장애인 아시안게임 10", "ServiceId": "CP10", "Category": "2026 아이치-나고야 장애인 아시안게임", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/6/1738803592654_437041.png" },
       { "Name": "KBS NEWS 24", "ServiceId": "81", "Category": "KBS NEWS 24", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" },
       { "Name": "KBS Story", "ServiceId": "N94", "Category": "KBS N 케이블", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png" },
       { "Name": "KBS LIFE", "ServiceId": "N93", "Category": "KBS N 케이블", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" },
@@ -999,7 +999,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-10-17T08:18:54.466272",
+    "UPDATED": "2026-10-18T08:37:24.094289",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1014,7 +1014,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-10-17T08:18:54.466273",
+    "UPDATED": "2026-10-18T08:37:24.094292",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
