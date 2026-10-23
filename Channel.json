@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-10-22T09:12:36.684553",
+    "UPDATED": "2026-10-23T09:08:59.226506",
     "TOTAL": 268,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -274,7 +274,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-10-22T09:12:36.684566",
+    "UPDATED": "2026-10-23T09:08:59.226520",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -695,7 +695,7 @@
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-10-22T09:12:36.684569",
+    "UPDATED": "2026-10-23T09:08:59.226524",
     "TOTAL": 472,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1173,7 +1173,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-10-22T09:12:36.684571",
+    "UPDATED": "2026-10-23T09:08:59.226525",
     "TOTAL": 89,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1268,7 +1268,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-10-22T09:12:36.684573",
+    "UPDATED": "2026-10-23T09:08:59.226527",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1283,7 +1283,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-10-22T09:12:36.684574",
+    "UPDATED": "2026-10-23T09:08:59.226528",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
