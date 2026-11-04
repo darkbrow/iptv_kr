@@ -2,6 +2,55 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv generator-info-name="epg2xml v2.9.0.dev1+g3f78a8d72">
+  <channel id="GS MY SHOP">
+    <display-name>GS MY SHOP</display-name>
+    <display-name>SK</display-name>
+    <display-name>999</display-name>
+    <display-name>999 GS MY SHOP</display-name>
+    <display-name>999 SK</display-name>
+  </channel>
+  <channel id="현대홈쇼핑+Shop">
+    <display-name>현대홈쇼핑+Shop</display-name>
+    <display-name>SK</display-name>
+    <display-name>39</display-name>
+    <display-name>39 현대홈쇼핑+Shop</display-name>
+    <display-name>39 SK</display-name>
+  </channel>
+  <channel id="롯데OneTV">
+    <display-name>롯데OneTV</display-name>
+    <display-name>SK</display-name>
+    <display-name>33</display-name>
+    <display-name>33 롯데OneTV</display-name>
+    <display-name>33 SK</display-name>
+  </channel>
+  <channel id="신세계쇼핑">
+    <display-name>신세계쇼핑</display-name>
+    <display-name>SK</display-name>
+    <display-name>19</display-name>
+    <display-name>19 신세계쇼핑</display-name>
+    <display-name>19 SK</display-name>
+  </channel>
+  <channel id="쇼핑엔티">
+    <display-name>쇼핑엔티</display-name>
+    <display-name>SK</display-name>
+    <display-name>29</display-name>
+    <display-name>29 쇼핑엔티</display-name>
+    <display-name>29 SK</display-name>
+  </channel>
+  <channel id="홈&amp;쇼핑">
+    <display-name>홈&amp;쇼핑</display-name>
+    <display-name>SK</display-name>
+    <display-name>12</display-name>
+    <display-name>12 홈&amp;쇼핑</display-name>
+    <display-name>12 SK</display-name>
+  </channel>
+  <channel id="W쇼핑">
+    <display-name>W쇼핑</display-name>
+    <display-name>SK</display-name>
+    <display-name>37</display-name>
+    <display-name>37 W쇼핑</display-name>
+    <display-name>37 SK</display-name>
+  </channel>
   <channel id="CJ온스타일">
     <display-name>CJ온스타일</display-name>
     <display-name>DAUM</display-name>
@@ -395,6 +444,5594 @@
     <display-name>0 SBS</display-name>
     <display-name>0 SBS</display-name>
   </channel>
+  <programme start="20261104003800 +0900" stop="20261104013900 +0900" channel="GS MY SHOP">
+    <title lang="ko">심플바이오 루테인아스타잔틴</title>
+    <desc lang="ko">심플바이오 루테인아스타잔틴
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104013900 +0900" stop="20261104015000 +0900" channel="GS MY SHOP">
+    <title lang="ko">GS 에코UCC</title>
+    <desc lang="ko">GS 에코UCC
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104015000 +0900" stop="20261104015500 +0900" channel="GS MY SHOP">
+    <title lang="ko">코데즈컴바인 이너웨어 속옷</title>
+    <desc lang="ko">코데즈컴바인 이너웨어 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104015500 +0900" stop="20261104020000 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)까스텔바작 니트</title>
+    <desc lang="ko">(패션)까스텔바작 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104020500 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)린 운동화</title>
+    <desc lang="ko">(패션)린 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020500 +0900" stop="20261104021000 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)스케쳐스 운동화</title>
+    <desc lang="ko">(패션)스케쳐스 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104021000 +0900" stop="20261104021500 +0900" channel="GS MY SHOP">
+    <title lang="ko">스마트카라 에어프라이어</title>
+    <desc lang="ko">스마트카라 에어프라이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104021500 +0900" stop="20261104022000 +0900" channel="GS MY SHOP">
+    <title lang="ko">메디큐브 기미캡슐크림</title>
+    <desc lang="ko">메디큐브 기미캡슐크림
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104022000 +0900" stop="20261104022500 +0900" channel="GS MY SHOP">
+    <title lang="ko">아크메 순금</title>
+    <desc lang="ko">아크메 순금
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104022500 +0900" stop="20261104023100 +0900" channel="GS MY SHOP">
+    <title lang="ko">코어 코트</title>
+    <desc lang="ko">코어 코트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104023100 +0900" stop="20261104025100 +0900" channel="GS MY SHOP">
+    <title lang="ko">아쿠아스큐텀 니트</title>
+    <desc lang="ko">아쿠아스큐텀 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104025100 +0900" stop="20261104025600 +0900" channel="GS MY SHOP">
+    <title lang="ko">코데즈컴바인 이너웨어 속옷</title>
+    <desc lang="ko">코데즈컴바인 이너웨어 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104025600 +0900" stop="20261104030100 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)까스텔바작 니트</title>
+    <desc lang="ko">(패션)까스텔바작 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030100 +0900" stop="20261104030600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)린 운동화</title>
+    <desc lang="ko">(패션)린 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030600 +0900" stop="20261104031200 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)스케쳐스 운동화</title>
+    <desc lang="ko">(패션)스케쳐스 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104031200 +0900" stop="20261104031700 +0900" channel="GS MY SHOP">
+    <title lang="ko">스마트카라 에어프라이어</title>
+    <desc lang="ko">스마트카라 에어프라이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104031700 +0900" stop="20261104032200 +0900" channel="GS MY SHOP">
+    <title lang="ko">메디큐브 기미캡슐크림</title>
+    <desc lang="ko">메디큐브 기미캡슐크림
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032200 +0900" stop="20261104032700 +0900" channel="GS MY SHOP">
+    <title lang="ko">SJ와니 니트</title>
+    <desc lang="ko">SJ와니 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032700 +0900" stop="20261104033200 +0900" channel="GS MY SHOP">
+    <title lang="ko">쏘내추럴 팬츠</title>
+    <desc lang="ko">쏘내추럴 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033200 +0900" stop="20261104035300 +0900" channel="GS MY SHOP">
+    <title lang="ko">아쿠아스큐텀 니트</title>
+    <desc lang="ko">아쿠아스큐텀 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035300 +0900" stop="20261104035800 +0900" channel="GS MY SHOP">
+    <title lang="ko">코데즈컴바인 이너웨어 속옷</title>
+    <desc lang="ko">코데즈컴바인 이너웨어 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035800 +0900" stop="20261104040300 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)까스텔바작 니트</title>
+    <desc lang="ko">(패션)까스텔바작 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040300 +0900" stop="20261104040800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)린 운동화</title>
+    <desc lang="ko">(패션)린 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040800 +0900" stop="20261104041300 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)스케쳐스 운동화</title>
+    <desc lang="ko">(패션)스케쳐스 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104041300 +0900" stop="20261104043400 +0900" channel="GS MY SHOP">
+    <title lang="ko">화과방 큐빅양갱</title>
+    <desc lang="ko">화과방 큐빅양갱
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104043400 +0900" stop="20261104045500 +0900" channel="GS MY SHOP">
+    <title lang="ko">hy 윌 프로바이오틱스</title>
+    <desc lang="ko">hy 윌 프로바이오틱스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104045500 +0900" stop="20261104051500 +0900" channel="GS MY SHOP">
+    <title lang="ko">올레비다 올리브유</title>
+    <desc lang="ko">올레비다 올리브유
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104051500 +0900" stop="20261104055500 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)앤앤에프 상하의 세트</title>
+    <desc lang="ko">(패션)앤앤에프 상하의 세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104055500 +0900" stop="20261104063600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)바스키아 상하의 세트</title>
+    <desc lang="ko">(패션)바스키아 상하의 세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104063600 +0900" stop="20261104073600 +0900" channel="GS MY SHOP">
+    <title lang="ko">닥터린 콘드로이친</title>
+    <desc lang="ko">닥터린 콘드로이친
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104073600 +0900" stop="20261104083600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)레드캠프 재킷</title>
+    <desc lang="ko">(패션)레드캠프 재킷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104083600 +0900" stop="20261104093600 +0900" channel="GS MY SHOP">
+    <title lang="ko">이자녹스 기미쿠션</title>
+    <desc lang="ko">이자녹스 기미쿠션
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104093600 +0900" stop="20261104103600 +0900" channel="GS MY SHOP">
+    <title lang="ko">제메이스 순금</title>
+    <desc lang="ko">제메이스 순금
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104103600 +0900" stop="20261104113600 +0900" channel="GS MY SHOP">
+    <title lang="ko">휴롬 착즙기</title>
+    <desc lang="ko">휴롬 착즙기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104113600 +0900" stop="20261104123600 +0900" channel="GS MY SHOP">
+    <title lang="ko">헤르츠아뜰리에 탈취제</title>
+    <desc lang="ko">헤르츠아뜰리에 탈취제
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104123600 +0900" stop="20261104133700 +0900" channel="GS MY SHOP">
+    <title lang="ko">래오 이경제 흑염소 진액</title>
+    <desc lang="ko">래오 이경제 흑염소 진액
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104133700 +0900" stop="20261104141700 +0900" channel="GS MY SHOP">
+    <title lang="ko">여수돌산갓김치</title>
+    <desc lang="ko">여수돌산갓김치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104141700 +0900" stop="20261104145700 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)DOTTI 팬츠</title>
+    <desc lang="ko">(패션)DOTTI 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104145700 +0900" stop="20261104153800 +0900" channel="GS MY SHOP">
+    <title lang="ko">닥터오기덤 마스크팩</title>
+    <desc lang="ko">닥터오기덤 마스크팩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104153800 +0900" stop="20261104163800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)르네크루 티셔츠</title>
+    <desc lang="ko">(패션)르네크루 티셔츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104163800 +0900" stop="20261104173800 +0900" channel="GS MY SHOP">
+    <title lang="ko">시슬리 속옷</title>
+    <desc lang="ko">시슬리 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104173800 +0900" stop="20261104183800 +0900" channel="GS MY SHOP">
+    <title lang="ko">궁키친 이상민 새우</title>
+    <desc lang="ko">궁키친 이상민 새우
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104183800 +0900" stop="20261104193800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)슈페리어 팬츠</title>
+    <desc lang="ko">(패션)슈페리어 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104193800 +0900" stop="20261104203800 +0900" channel="GS MY SHOP">
+    <title lang="ko">코어 팬츠</title>
+    <desc lang="ko">코어 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104203800 +0900" stop="20261104213800 +0900" channel="GS MY SHOP">
+    <title lang="ko">글램팜 헤어스타일러</title>
+    <desc lang="ko">글램팜 헤어스타일러
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104213800 +0900" stop="20261104223800 +0900" channel="GS MY SHOP">
+    <title lang="ko">참좋은여행 중국여행 상담예약</title>
+    <desc lang="ko">참좋은여행 중국여행 상담예약
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104223800 +0900" stop="20261104233800 +0900" channel="GS MY SHOP">
+    <title lang="ko">모르간 다운 패딩</title>
+    <desc lang="ko">모르간 다운 패딩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104233800 +0900" stop="20261105003800 +0900" channel="GS MY SHOP">
+    <title lang="ko">루나 앤 슬립 침구세트</title>
+    <desc lang="ko">루나 앤 슬립 침구세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003800 +0900" stop="20261105013900 +0900" channel="GS MY SHOP">
+    <title lang="ko">하이랜드 프레쉬 블루베리 주스</title>
+    <desc lang="ko">하이랜드 프레쉬 블루베리 주스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105013900 +0900" stop="20261105014400 +0900" channel="GS MY SHOP">
+    <title lang="ko">샤론느 속옷</title>
+    <desc lang="ko">샤론느 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105014400 +0900" stop="20261105015000 +0900" channel="GS MY SHOP">
+    <title lang="ko">프롬바이오 체중조절 식품</title>
+    <desc lang="ko">프롬바이오 체중조절 식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105015000 +0900" stop="20261105015500 +0900" channel="GS MY SHOP">
+    <title lang="ko">스마트카라 에어프라이어</title>
+    <desc lang="ko">스마트카라 에어프라이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105015500 +0900" stop="20261105020000 +0900" channel="GS MY SHOP">
+    <title lang="ko">메디큐브 스킨 케어</title>
+    <desc lang="ko">메디큐브 스킨 케어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105020500 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)제이슨우 다운 패딩</title>
+    <desc lang="ko">(패션)제이슨우 다운 패딩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020500 +0900" stop="20261105021000 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105021000 +0900" stop="20261105023100 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105023100 +0900" stop="20261105023600 +0900" channel="GS MY SHOP">
+    <title lang="ko">샤론느 속옷</title>
+    <desc lang="ko">샤론느 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105023600 +0900" stop="20261105024100 +0900" channel="GS MY SHOP">
+    <title lang="ko">스마트카라 에어프라이어</title>
+    <desc lang="ko">스마트카라 에어프라이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105024100 +0900" stop="20261105024600 +0900" channel="GS MY SHOP">
+    <title lang="ko">메디큐브 스킨 케어</title>
+    <desc lang="ko">메디큐브 스킨 케어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105024600 +0900" stop="20261105025100 +0900" channel="GS MY SHOP">
+    <title lang="ko">프롬바이오 체중조절 식품</title>
+    <desc lang="ko">프롬바이오 체중조절 식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105025100 +0900" stop="20261105025600 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105025600 +0900" stop="20261105030100 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030100 +0900" stop="20261105031200 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)예비</title>
+    <desc lang="ko">(패션)예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105031200 +0900" stop="20261105033200 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105033200 +0900" stop="20261105033700 +0900" channel="GS MY SHOP">
+    <title lang="ko">샤론느 속옷</title>
+    <desc lang="ko">샤론느 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105033700 +0900" stop="20261105034200 +0900" channel="GS MY SHOP">
+    <title lang="ko">스마트카라 에어프라이어</title>
+    <desc lang="ko">스마트카라 에어프라이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105034200 +0900" stop="20261105034700 +0900" channel="GS MY SHOP">
+    <title lang="ko">메디큐브 스킨 케어</title>
+    <desc lang="ko">메디큐브 스킨 케어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105034700 +0900" stop="20261105035300 +0900" channel="GS MY SHOP">
+    <title lang="ko">프롬바이오 체중조절 식품</title>
+    <desc lang="ko">프롬바이오 체중조절 식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105035300 +0900" stop="20261105043400 +0900" channel="GS MY SHOP">
+    <title lang="ko">신안1956 조미 김</title>
+    <desc lang="ko">신안1956 조미 김
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105043400 +0900" stop="20261105045500 +0900" channel="GS MY SHOP">
+    <title lang="ko">예비</title>
+    <desc lang="ko">예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105045500 +0900" stop="20261105051500 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)예비</title>
+    <desc lang="ko">(패션)예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105051500 +0900" stop="20261105055500 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)의류 예비</title>
+    <desc lang="ko">(패션)의류 예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105055500 +0900" stop="20261105063600 +0900" channel="GS MY SHOP">
+    <title lang="ko">살림백서 헤어관리</title>
+    <desc lang="ko">살림백서 헤어관리
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105063600 +0900" stop="20261105073600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)아보크 팬츠</title>
+    <desc lang="ko">(패션)아보크 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105073600 +0900" stop="20261105083600 +0900" channel="GS MY SHOP">
+    <title lang="ko">BNR17 유산균 비에날씬</title>
+    <desc lang="ko">BNR17 유산균 비에날씬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105083600 +0900" stop="20261105093600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)스케쳐스 운동화</title>
+    <desc lang="ko">(패션)스케쳐스 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105093600 +0900" stop="20261105103600 +0900" channel="GS MY SHOP">
+    <title lang="ko">헉슬리 운동화</title>
+    <desc lang="ko">헉슬리 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105103600 +0900" stop="20261105113600 +0900" channel="GS MY SHOP">
+    <title lang="ko">매스티나 스킨 케어</title>
+    <desc lang="ko">매스티나 스킨 케어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105113600 +0900" stop="20261105123600 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)잡화 예비</title>
+    <desc lang="ko">(패션)잡화 예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105123600 +0900" stop="20261105133700 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)의류 예비</title>
+    <desc lang="ko">(패션)의류 예비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105133700 +0900" stop="20261105141700 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)DOTTI 팬츠</title>
+    <desc lang="ko">(패션)DOTTI 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105141700 +0900" stop="20261105145700 +0900" channel="GS MY SHOP">
+    <title lang="ko">헤리든 침구세트</title>
+    <desc lang="ko">헤리든 침구세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105145700 +0900" stop="20261105153800 +0900" channel="GS MY SHOP">
+    <title lang="ko">하루틴 비타민</title>
+    <desc lang="ko">하루틴 비타민
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105153800 +0900" stop="20261105163800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)라삐아프 팬츠</title>
+    <desc lang="ko">(패션)라삐아프 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105163800 +0900" stop="20261105173800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)모르간 팬츠</title>
+    <desc lang="ko">(패션)모르간 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105173800 +0900" stop="20261105183800 +0900" channel="GS MY SHOP">
+    <title lang="ko">오스온 조리기구</title>
+    <desc lang="ko">오스온 조리기구
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105183800 +0900" stop="20261105193800 +0900" channel="GS MY SHOP">
+    <title lang="ko">대상웰라이프 당플랜코어</title>
+    <desc lang="ko">대상웰라이프 당플랜코어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105193800 +0900" stop="20261105203800 +0900" channel="GS MY SHOP">
+    <title lang="ko">시슬리 속옷</title>
+    <desc lang="ko">시슬리 속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105203800 +0900" stop="20261105213800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)코어 팬츠</title>
+    <desc lang="ko">(패션)코어 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105213800 +0900" stop="20261105223800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)스케쳐스 운동화</title>
+    <desc lang="ko">(패션)스케쳐스 운동화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105223800 +0900" stop="20261105233800 +0900" channel="GS MY SHOP">
+    <title lang="ko">(패션)피플오브더월드 니트</title>
+    <desc lang="ko">(패션)피플오브더월드 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105233800 +0900" stop="20261106003800 +0900" channel="GS MY SHOP">
+    <title lang="ko">베키아에누보 샌드위치</title>
+    <desc lang="ko">베키아에누보 샌드위치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106003800 +0900" stop="20261106013900 +0900" channel="GS MY SHOP">
+    <title lang="ko">MY Collection</title>
+    <desc lang="ko">MY Collection
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106013900 +0900" stop="20261106024000 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활가전</title>
+    <desc lang="ko">생활가전
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106024000 +0900" stop="20261106025100 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106025100 +0900" stop="20261106031100 +0900" channel="GS MY SHOP">
+    <title lang="ko">건강식품</title>
+    <desc lang="ko">건강식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106031100 +0900" stop="20261106031600 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106031600 +0900" stop="20261106032100 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106032100 +0900" stop="20261106032600 +0900" channel="GS MY SHOP">
+    <title lang="ko">레포츠의류</title>
+    <desc lang="ko">레포츠의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106032600 +0900" stop="20261106033200 +0900" channel="GS MY SHOP">
+    <title lang="ko">레포츠의류</title>
+    <desc lang="ko">레포츠의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106033200 +0900" stop="20261106035200 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106035200 +0900" stop="20261106041300 +0900" channel="GS MY SHOP">
+    <title lang="ko">일반식품</title>
+    <desc lang="ko">일반식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106041300 +0900" stop="20261106041800 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106041800 +0900" stop="20261106042300 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106042300 +0900" stop="20261106042800 +0900" channel="GS MY SHOP">
+    <title lang="ko">레포츠의류</title>
+    <desc lang="ko">레포츠의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106042800 +0900" stop="20261106043300 +0900" channel="GS MY SHOP">
+    <title lang="ko">레포츠의류</title>
+    <desc lang="ko">레포츠의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106043300 +0900" stop="20261106045400 +0900" channel="GS MY SHOP">
+    <title lang="ko">이미용</title>
+    <desc lang="ko">이미용
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106045400 +0900" stop="20261106051400 +0900" channel="GS MY SHOP">
+    <title lang="ko">속옷</title>
+    <desc lang="ko">속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106051400 +0900" stop="20261106051900 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106051900 +0900" stop="20261106052400 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106052400 +0900" stop="20261106053500 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106053500 +0900" stop="20261106055500 +0900" channel="GS MY SHOP">
+    <title lang="ko">꿈꾸는 가게</title>
+    <desc lang="ko">꿈꾸는 가게
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106055500 +0900" stop="20261106063600 +0900" channel="GS MY SHOP">
+    <title lang="ko">건강식품</title>
+    <desc lang="ko">건강식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106063600 +0900" stop="20261106073600 +0900" channel="GS MY SHOP">
+    <title lang="ko">이미용</title>
+    <desc lang="ko">이미용
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106073600 +0900" stop="20261106083600 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083600 +0900" stop="20261106093600 +0900" channel="GS MY SHOP">
+    <title lang="ko">MY Collection</title>
+    <desc lang="ko">MY Collection
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106093600 +0900" stop="20261106103600 +0900" channel="GS MY SHOP">
+    <title lang="ko">일반식품</title>
+    <desc lang="ko">일반식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106103600 +0900" stop="20261106113600 +0900" channel="GS MY SHOP">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106113600 +0900" stop="20261106123600 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활용품</title>
+    <desc lang="ko">생활용품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106123600 +0900" stop="20261106133600 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활용품</title>
+    <desc lang="ko">생활용품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106133600 +0900" stop="20261106141700 +0900" channel="GS MY SHOP">
+    <title lang="ko">알뜰 매장</title>
+    <desc lang="ko">알뜰 매장
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106141700 +0900" stop="20261106145700 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활가전</title>
+    <desc lang="ko">생활가전
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106145700 +0900" stop="20261106153800 +0900" channel="GS MY SHOP">
+    <title lang="ko">의류</title>
+    <desc lang="ko">의류
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106153800 +0900" stop="20261106163800 +0900" channel="GS MY SHOP">
+    <title lang="ko">속옷</title>
+    <desc lang="ko">속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106163800 +0900" stop="20261106173800 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활가전</title>
+    <desc lang="ko">생활가전
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106173800 +0900" stop="20261106183800 +0900" channel="GS MY SHOP">
+    <title lang="ko">일반식품</title>
+    <desc lang="ko">일반식품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106183800 +0900" stop="20261106193800 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활가전</title>
+    <desc lang="ko">생활가전
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106193800 +0900" stop="20261106203800 +0900" channel="GS MY SHOP">
+    <title lang="ko">생활용품</title>
+    <desc lang="ko">생활용품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106203800 +0900" stop="20261106213800 +0900" channel="GS MY SHOP">
+    <title lang="ko">속옷</title>
+    <desc lang="ko">속옷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106213800 +0900" stop="20261106223800 +0900" channel="GS MY SHOP">
+    <title lang="ko">여행</title>
+    <desc lang="ko">여행
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106223800 +0900" stop="20261106225800 +0900" channel="GS MY SHOP">
+    <title lang="ko">쇼미더트렌드 리부트</title>
+    <desc lang="ko">쇼미더트렌드 리부트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106225800 +0900" stop="20261106233800 +0900" channel="GS MY SHOP">
+    <title lang="ko">MY Collection</title>
+    <desc lang="ko">MY Collection
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106233800 +0900" stop="20261107003800 +0900" channel="GS MY SHOP">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104004000 +0900" stop="20261104010000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">숏타임-셰퍼 스팀싹 스팀다리미</title>
+    <desc lang="ko">숏타임-셰퍼 스팀싹 스팀다리미
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104010000 +0900" stop="20261104014000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">데이즈온 파라다이스 그레인 버닝</title>
+    <desc lang="ko">데이즈온 파라다이스 그레인 버닝
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104014000 +0900" stop="20261104022000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">더리얼 유기농 레몬즙</title>
+    <desc lang="ko">더리얼 유기농 레몬즙
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104022000 +0900" stop="20261104032000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">이정용 만복이 어육바</title>
+    <desc lang="ko">이정용 만복이 어육바
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032000 +0900" stop="20261104032500 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠</title>
+    <desc lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032500 +0900" stop="20261104034500 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">대원제약 철갑상어 콘드로이친</title>
+    <desc lang="ko">대원제약 철갑상어 콘드로이친
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104034500 +0900" stop="20261104035000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠</title>
+    <desc lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035000 +0900" stop="20261104035500 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">아디다스 26F/W 데일리웜웨어 동내의</title>
+    <desc lang="ko">아디다스 26F/W 데일리웜웨어 동내의
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035500 +0900" stop="20261104040000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠</title>
+    <desc lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040000 +0900" stop="20261104040500 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">아디다스 26F/W 데일리웜웨어 동내의</title>
+    <desc lang="ko">아디다스 26F/W 데일리웜웨어 동내의
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040500 +0900" stop="20261104041000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠</title>
+    <desc lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104041000 +0900" stop="20261104041500 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">아디다스 26F/W 데일리웜웨어 동내의</title>
+    <desc lang="ko">아디다스 26F/W 데일리웜웨어 동내의
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104041500 +0900" stop="20261104042000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠</title>
+    <desc lang="ko">스노야 후드 머플러, 장갑, 코듀로이팬츠, 니트 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104042000 +0900" stop="20261104052000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">온부기 온열 부항의료기기</title>
+    <desc lang="ko">온부기 온열 부항의료기기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104052000 +0900" stop="20261104060000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">플로레센스 버튼포인트 니트베스트</title>
+    <desc lang="ko">플로레센스 버튼포인트 니트베스트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104064000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">피에라벨라 faux 밍크머플러/모자</title>
+    <desc lang="ko">피에라벨라 faux 밍크머플러/모자
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104064000 +0900" stop="20261104072000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">스넬리 플리스 셋업</title>
+    <desc lang="ko">스넬리 플리스 셋업
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104072000 +0900" stop="20261104074000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">올바른 파로효소 골드</title>
+    <desc lang="ko">올바른 파로효소 골드
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104074000 +0900" stop="20261104082000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">이상봉에디션 퀼팅패딩팬츠/컴포트핏패딩후드</title>
+    <desc lang="ko">이상봉에디션 퀼팅패딩팬츠/컴포트핏패딩후드
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104082000 +0900" stop="20261104092000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">라포레 스타일 보온보냉병</title>
+    <desc lang="ko">라포레 스타일 보온보냉병
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104092000 +0900" stop="20261104104000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">청결 태양초 햇 고춧가루</title>
+    <desc lang="ko">청결 태양초 햇 고춧가루
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104104000 +0900" stop="20261104112000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">캘빈클라인스포츠 후드패딩</title>
+    <desc lang="ko">캘빈클라인스포츠 후드패딩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104112000 +0900" stop="20261104114000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">오시래 컴포트 기모팬츠</title>
+    <desc lang="ko">오시래 컴포트 기모팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104114000 +0900" stop="20261104130000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">The Grace-버버리 의류/구찌 숄 시즌84</title>
+    <desc lang="ko">The Grace-버버리 의류/구찌 숄 시즌84
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104130000 +0900" stop="20261104134000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">92도씨 목편한 양모 경추베개</title>
+    <desc lang="ko">92도씨 목편한 양모 경추베개
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104134000 +0900" stop="20261104142000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">지니나나 기모데님팬츠</title>
+    <desc lang="ko">지니나나 기모데님팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104142000 +0900" stop="20261104150000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">부케가르니 비타콜라겐 바디워시</title>
+    <desc lang="ko">부케가르니 비타콜라겐 바디워시
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104150000 +0900" stop="20261104154000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">김오곤 쌍화차 침향</title>
+    <desc lang="ko">김오곤 쌍화차 침향
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104154000 +0900" stop="20261104162000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">라라쎄 배럴핏 데님팬츠</title>
+    <desc lang="ko">라라쎄 배럴핏 데님팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104162000 +0900" stop="20261104172000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">창업기업지원-한입쪽갈비</title>
+    <desc lang="ko">창업기업지원-한입쪽갈비
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104172000 +0900" stop="20261104182000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">마스케라 소가죽 보아퍼 앵클로퍼</title>
+    <desc lang="ko">마스케라 소가죽 보아퍼 앵클로퍼
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104182000 +0900" stop="20261104190000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">아날도바시니 25F/W 모달웜 히트 동내의</title>
+    <desc lang="ko">아날도바시니 25F/W 모달웜 히트 동내의
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104190000 +0900" stop="20261104194000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">푸마 골지 벨로아 셋업</title>
+    <desc lang="ko">푸마 골지 벨로아 셋업
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104194000 +0900" stop="20261104204000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">김영근명인 도토리묵가루</title>
+    <desc lang="ko">김영근명인 도토리묵가루
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104204000 +0900" stop="20261104214000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">세라젬 마스터 시리즈</title>
+    <desc lang="ko">세라젬 마스터 시리즈
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104214000 +0900" stop="20261104224000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">동남아-롯데관광</title>
+    <desc lang="ko">동남아-롯데관광
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104224000 +0900" stop="20261104234000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">노이즈 벤자민/루카스 쉘파후드자켓</title>
+    <desc lang="ko">노이즈 벤자민/루카스 쉘파후드자켓
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104234000 +0900" stop="20261105002000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">베키아에누보 치아바타 샌드위치</title>
+    <desc lang="ko">베키아에누보 치아바타 샌드위치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105002000 +0900" stop="20261105012000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">메트라이프 달러연금플랜</title>
+    <desc lang="ko">메트라이프 달러연금플랜
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105012000 +0900" stop="20261105014000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">밀라 코듀로이 팬츠/패딩베스트</title>
+    <desc lang="ko">밀라 코듀로이 팬츠/패딩베스트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105014000 +0900" stop="20261105022000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">RCB폴로클럽 기모안감 오리털패딩</title>
+    <desc lang="ko">RCB폴로클럽 기모안감 오리털패딩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105022000 +0900" stop="20261105030000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">어드림오브씨드 코튼삭스</title>
+    <desc lang="ko">어드림오브씨드 코튼삭스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105034000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">경북 햇 감홍사과</title>
+    <desc lang="ko">경북 햇 감홍사과
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105034000 +0900" stop="20261105040000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">아디다스 26F/W 데일리웜웨어 동내의</title>
+    <desc lang="ko">아디다스 26F/W 데일리웜웨어 동내의
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105044000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">소상공인지원-멜리지1826 율무 단백질크림</title>
+    <desc lang="ko">소상공인지원-멜리지1826 율무 단백질크림
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105044000 +0900" stop="20261105052000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">더창 위그 정수리가발 시즌2</title>
+    <desc lang="ko">더창 위그 정수리가발 시즌2
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105052000 +0900" stop="20261105072000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105072000 +0900" stop="20261105092000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105092000 +0900" stop="20261105112000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105112000 +0900" stop="20261105132000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105132000 +0900" stop="20261105152000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105152000 +0900" stop="20261105172000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105172000 +0900" stop="20261105192000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105192000 +0900" stop="20261105212000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105212000 +0900" stop="20261105232000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105232000 +0900" stop="20261106012000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106012000 +0900" stop="20261106032000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106032000 +0900" stop="20261106052000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106052000 +0900" stop="20261106072000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106072000 +0900" stop="20261106092000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092000 +0900" stop="20261106112000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106112000 +0900" stop="20261106132000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106132000 +0900" stop="20261106152000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106152000 +0900" stop="20261106172000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106172000 +0900" stop="20261106192000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106192000 +0900" stop="20261106212000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106212000 +0900" stop="20261106232000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106232000 +0900" stop="20261107012000 +0900" channel="현대홈쇼핑+Shop">
+    <title lang="ko">종합</title>
+    <desc lang="ko">종합
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104004000 +0900" stop="20261104012000 +0900" channel="롯데OneTV">
+    <title lang="ko">사임당 발패치</title>
+    <desc lang="ko">사임당 발패치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104012000 +0900" stop="20261104020000 +0900" channel="롯데OneTV">
+    <title lang="ko">렌포</title>
+    <desc lang="ko">렌포
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104024000 +0900" channel="롯데OneTV">
+    <title lang="ko">온휴 온풍기</title>
+    <desc lang="ko">온휴 온풍기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104024000 +0900" stop="20261104024500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104024500 +0900" stop="20261104025000 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_원더브라</title>
+    <desc lang="ko">300초_원더브라
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104025000 +0900" stop="20261104025500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104025500 +0900" stop="20261104030000 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030000 +0900" stop="20261104030500 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_플랜잇 드라이기</title>
+    <desc lang="ko">300초_플랜잇 드라이기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104030500 +0900" stop="20261104031000 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104031000 +0900" stop="20261104031500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104031500 +0900" stop="20261104032000 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_원더브라</title>
+    <desc lang="ko">300초_원더브라
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032000 +0900" stop="20261104032500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032500 +0900" stop="20261104033000 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033000 +0900" stop="20261104033500 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_플랜잇 드라이기</title>
+    <desc lang="ko">300초_플랜잇 드라이기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033500 +0900" stop="20261104034000 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104034000 +0900" stop="20261104034500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104034500 +0900" stop="20261104035000 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_원더브라</title>
+    <desc lang="ko">300초_원더브라
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035000 +0900" stop="20261104035500 +0900" channel="롯데OneTV">
+    <title lang="ko">에어룸</title>
+    <desc lang="ko">에어룸
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035500 +0900" stop="20261104040000 +0900" channel="롯데OneTV">
+    <title lang="ko">300초_제스프리 골드키위</title>
+    <desc lang="ko">300초_제스프리 골드키위
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040000 +0900" stop="20261104042000 +0900" channel="롯데OneTV">
+    <title lang="ko">셀렉스</title>
+    <desc lang="ko">셀렉스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104042000 +0900" stop="20261104044000 +0900" channel="롯데OneTV">
+    <title lang="ko">애플트리 미인콜라겐</title>
+    <desc lang="ko">애플트리 미인콜라겐
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104044000 +0900" stop="20261104050000 +0900" channel="롯데OneTV">
+    <title lang="ko">바이브리짓</title>
+    <desc lang="ko">바이브리짓
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104050000 +0900" stop="20261104054000 +0900" channel="롯데OneTV">
+    <title lang="ko">라스튜디오</title>
+    <desc lang="ko">라스튜디오
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104054000 +0900" stop="20261104064000 +0900" channel="롯데OneTV">
+    <title lang="ko">트라이</title>
+    <desc lang="ko">트라이
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104064000 +0900" stop="20261104074000 +0900" channel="롯데OneTV">
+    <title lang="ko">은나노스텝</title>
+    <desc lang="ko">은나노스텝
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104074000 +0900" stop="20261104084000 +0900" channel="롯데OneTV">
+    <title lang="ko">비버리힐스폴로클럽</title>
+    <desc lang="ko">비버리힐스폴로클럽
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104084000 +0900" stop="20261104094000 +0900" channel="롯데OneTV">
+    <title lang="ko">조르쥬레쉬</title>
+    <desc lang="ko">조르쥬레쉬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104094000 +0900" stop="20261104104000 +0900" channel="롯데OneTV">
+    <title lang="ko">베네통</title>
+    <desc lang="ko">베네통
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104104000 +0900" stop="20261104114000 +0900" channel="롯데OneTV">
+    <title lang="ko">바이브리짓</title>
+    <desc lang="ko">바이브리짓
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104114000 +0900" stop="20261104124000 +0900" channel="롯데OneTV">
+    <title lang="ko">풀무원 나또</title>
+    <desc lang="ko">풀무원 나또
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104124000 +0900" stop="20261104134000 +0900" channel="롯데OneTV">
+    <title lang="ko">조르쥬레쉬</title>
+    <desc lang="ko">조르쥬레쉬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104134000 +0900" stop="20261104144000 +0900" channel="롯데OneTV">
+    <title lang="ko">DB손해보험</title>
+    <desc lang="ko">DB손해보험
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104144000 +0900" stop="20261104152000 +0900" channel="롯데OneTV">
+    <title lang="ko">AGK</title>
+    <desc lang="ko">AGK
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104152000 +0900" stop="20261104160000 +0900" channel="롯데OneTV">
+    <title lang="ko">조르쥬레쉬</title>
+    <desc lang="ko">조르쥬레쉬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104160000 +0900" stop="20261104164000 +0900" channel="롯데OneTV">
+    <title lang="ko">렌가드</title>
+    <desc lang="ko">렌가드
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104164000 +0900" stop="20261104174000 +0900" channel="롯데OneTV">
+    <title lang="ko">덴프스 유산균이야기</title>
+    <desc lang="ko">덴프스 유산균이야기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104174000 +0900" stop="20261104184000 +0900" channel="롯데OneTV">
+    <title lang="ko">베네통</title>
+    <desc lang="ko">베네통
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104184000 +0900" stop="20261104194000 +0900" channel="롯데OneTV">
+    <title lang="ko">임성근 특 도가니탕</title>
+    <desc lang="ko">임성근 특 도가니탕
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104194000 +0900" stop="20261104204000 +0900" channel="롯데OneTV">
+    <title lang="ko">잭니클라우스</title>
+    <desc lang="ko">잭니클라우스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104204000 +0900" stop="20261104214000 +0900" channel="롯데OneTV">
+    <title lang="ko">허니제주</title>
+    <desc lang="ko">허니제주
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104214000 +0900" stop="20261104224000 +0900" channel="롯데OneTV">
+    <title lang="ko">조르쥬레쉬</title>
+    <desc lang="ko">조르쥬레쉬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104224000 +0900" stop="20261104234000 +0900" channel="롯데OneTV">
+    <title lang="ko">노랑풍선 큐슈,대마도</title>
+    <desc lang="ko">노랑풍선 큐슈,대마도
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104234000 +0900" stop="20261105004000 +0900" channel="롯데OneTV">
+    <title lang="ko">LBL</title>
+    <desc lang="ko">LBL
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105004000 +0900" stop="20261105020000 +0900" channel="롯데OneTV">
+    <title lang="ko">비에날씬</title>
+    <desc lang="ko">비에날씬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105040000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105060000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105100000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105120000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105140000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105160000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105180000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105200000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105220000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261106000000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106000000 +0900" stop="20261106020000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106040000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106060000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106080000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106100000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106120000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106140000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106140000 +0900" stop="20261106160000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106180000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106200000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106220000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261107000000 +0900" channel="롯데OneTV">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104003700 +0900" stop="20261104013800 +0900" channel="신세계쇼핑">
+    <title lang="ko">트라이 팬츠</title>
+    <desc lang="ko">트라이 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104013800 +0900" stop="20261104023800 +0900" channel="신세계쇼핑">
+    <title lang="ko">엘라코닉 브라팬티</title>
+    <desc lang="ko">엘라코닉 브라팬티
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104023800 +0900" stop="20261104033900 +0900" channel="신세계쇼핑">
+    <title lang="ko">전설의패치 준대형 240매</title>
+    <desc lang="ko">전설의패치 준대형 240매
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033900 +0900" stop="20261104041900 +0900" channel="신세계쇼핑">
+    <title lang="ko">부하우스 압축파우치</title>
+    <desc lang="ko">부하우스 압축파우치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104041900 +0900" stop="20261104043000 +0900" channel="신세계쇼핑">
+    <title lang="ko">블루핏 스트라이프 니트</title>
+    <desc lang="ko">블루핏 스트라이프 니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104043000 +0900" stop="20261104053000 +0900" channel="신세계쇼핑">
+    <title lang="ko">26FW 카라니트 풀오버</title>
+    <desc lang="ko">26FW 카라니트 풀오버
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104053000 +0900" stop="20261104063000 +0900" channel="신세계쇼핑">
+    <title lang="ko">웰라쥬 캡슐 앰플</title>
+    <desc lang="ko">웰라쥬 캡슐 앰플
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104063000 +0900" stop="20261104073100 +0900" channel="신세계쇼핑">
+    <title lang="ko">윤방부 마그네슘</title>
+    <desc lang="ko">윤방부 마그네슘
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104073100 +0900" stop="20261104083100 +0900" channel="신세계쇼핑">
+    <title lang="ko">디아레 파인 시어 터틀넥</title>
+    <desc lang="ko">디아레 파인 시어 터틀넥
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104083100 +0900" stop="20261104093200 +0900" channel="신세계쇼핑">
+    <title lang="ko">타린로즈 로제 밸런스힐</title>
+    <desc lang="ko">타린로즈 로제 밸런스힐
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104093200 +0900" stop="20261104103200 +0900" channel="신세계쇼핑">
+    <title lang="ko">엠베스트 중등교육</title>
+    <desc lang="ko">엠베스트 중등교육
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104103200 +0900" stop="20261104113200 +0900" channel="신세계쇼핑">
+    <title lang="ko">에디티드 코트</title>
+    <desc lang="ko">에디티드 코트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104113200 +0900" stop="20261104123300 +0900" channel="신세계쇼핑">
+    <title lang="ko">HLB 더 진한 맥문동 진액</title>
+    <desc lang="ko">HLB 더 진한 맥문동 진액
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104123300 +0900" stop="20261104133300 +0900" channel="신세계쇼핑">
+    <title lang="ko">틴톤 진주 쿠션</title>
+    <desc lang="ko">틴톤 진주 쿠션
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104133300 +0900" stop="20261104143300 +0900" channel="신세계쇼핑">
+    <title lang="ko">여유 극세사 파자마</title>
+    <desc lang="ko">여유 극세사 파자마
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104143300 +0900" stop="20261104153400 +0900" channel="신세계쇼핑">
+    <title lang="ko">모브온 26FW 하이넥가디건</title>
+    <desc lang="ko">모브온 26FW 하이넥가디건
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104153400 +0900" stop="20261104163400 +0900" channel="신세계쇼핑">
+    <title lang="ko">닥터3 립타투</title>
+    <desc lang="ko">닥터3 립타투
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104163400 +0900" stop="20261104173400 +0900" channel="신세계쇼핑">
+    <title lang="ko">끌레드벨 쿠션</title>
+    <desc lang="ko">끌레드벨 쿠션
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104173400 +0900" stop="20261104183500 +0900" channel="신세계쇼핑">
+    <title lang="ko">스케쳐스 고워크 아웃도어</title>
+    <desc lang="ko">스케쳐스 고워크 아웃도어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104183500 +0900" stop="20261104193500 +0900" channel="신세계쇼핑">
+    <title lang="ko">더블 한일 욕실용 온풍기</title>
+    <desc lang="ko">더블 한일 욕실용 온풍기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104193500 +0900" stop="20261104203500 +0900" channel="신세계쇼핑">
+    <title lang="ko">모두투어 시그니처 큐슈</title>
+    <desc lang="ko">모두투어 시그니처 큐슈
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104203500 +0900" stop="20261104213600 +0900" channel="신세계쇼핑">
+    <title lang="ko">캐시미어 100% 카라니트</title>
+    <desc lang="ko">캐시미어 100% 카라니트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104213600 +0900" stop="20261104223600 +0900" channel="신세계쇼핑">
+    <title lang="ko">블루핏 코듀로이 팬츠</title>
+    <desc lang="ko">블루핏 코듀로이 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104223600 +0900" stop="20261104233700 +0900" channel="신세계쇼핑">
+    <title lang="ko">잭니클라우스 다운 재킷</title>
+    <desc lang="ko">잭니클라우스 다운 재킷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104233700 +0900" stop="20261105000000 +0900" channel="신세계쇼핑">
+    <title lang="ko">라이나 간편한 건강보험</title>
+    <desc lang="ko">라이나 간편한 건강보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105000000 +0900" stop="20261105020000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105040000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105040000 +0900" stop="20261105060000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105080000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105080000 +0900" stop="20261105100000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105100000 +0900" stop="20261105120000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105120000 +0900" stop="20261105140000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105140000 +0900" stop="20261105160000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105180000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105180000 +0900" stop="20261105200000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105200000 +0900" stop="20261105220000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105220000 +0900" stop="20261106000000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106000000 +0900" stop="20261106020000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106040000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106040000 +0900" stop="20261106060000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106060000 +0900" stop="20261106080000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106080000 +0900" stop="20261106100000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106100000 +0900" stop="20261106120000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106120000 +0900" stop="20261106140000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106140000 +0900" stop="20261106160000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106180000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106180000 +0900" stop="20261106200000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106200000 +0900" stop="20261106220000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106220000 +0900" stop="20261107000000 +0900" channel="신세계쇼핑">
+    <title lang="ko">편성예정 입니다</title>
+    <desc lang="ko">편성예정 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104003200 +0900" stop="20261104013200 +0900" channel="쇼핑엔티">
+    <title lang="ko">닥터린 콘드로이친 1200 콘레이티 MBP + 글루타치온 30매</title>
+    <desc lang="ko">닥터린 콘드로이친 1200 콘레이티 MBP + 글루타치온 30매
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104013200 +0900" stop="20261104023100 +0900" channel="쇼핑엔티">
+    <title lang="ko">이봉원 자연산 순살조기</title>
+    <desc lang="ko">이봉원 자연산 순살조기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104023100 +0900" stop="20261104033800 +0900" channel="쇼핑엔티">
+    <title lang="ko">ODV 트윌 볼륨 팬츠 3종</title>
+    <desc lang="ko">ODV 트윌 볼륨 팬츠 3종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033800 +0900" stop="20261104043700 +0900" channel="쇼핑엔티">
+    <title lang="ko">[지역특별전] 아치솔 족저근말 인솔 1등 깔창</title>
+    <desc lang="ko">[지역특별전] 아치솔 족저근말 인솔 1등 깔창
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104043700 +0900" stop="20261104053700 +0900" channel="쇼핑엔티">
+    <title lang="ko">정성곳간 강순의 도가니탕 10+1팩</title>
+    <desc lang="ko">정성곳간 강순의 도가니탕 10+1팩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104053700 +0900" stop="20261104063600 +0900" channel="쇼핑엔티">
+    <title lang="ko">아보크 패딩 3종</title>
+    <desc lang="ko">아보크 패딩 3종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104063600 +0900" stop="20261104073600 +0900" channel="쇼핑엔티">
+    <title lang="ko">리더스 아이백 크림+상품평시 PDRN 미스트</title>
+    <desc lang="ko">리더스 아이백 크림+상품평시 PDRN 미스트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104073600 +0900" stop="20261104083600 +0900" channel="쇼핑엔티">
+    <title lang="ko">ODV 자수 니트 풀오버 3종</title>
+    <desc lang="ko">ODV 자수 니트 풀오버 3종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104083600 +0900" stop="20261104093500 +0900" channel="쇼핑엔티">
+    <title lang="ko">라오메뜨 전설의 패치 456매</title>
+    <desc lang="ko">라오메뜨 전설의 패치 456매
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104093500 +0900" stop="20261104103500 +0900" channel="쇼핑엔티">
+    <title lang="ko">김오곤 원장의 다이어트 환 4+1</title>
+    <desc lang="ko">김오곤 원장의 다이어트 환 4+1
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104103500 +0900" stop="20261104113500 +0900" channel="쇼핑엔티">
+    <title lang="ko">활력 마그네슘 영양제 에너지샷 6+3박스</title>
+    <desc lang="ko">활력 마그네슘 영양제 에너지샷 6+3박스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104113500 +0900" stop="20261104123500 +0900" channel="쇼핑엔티">
+    <title lang="ko">푸마 우븐 웜팬츠 3종 세트</title>
+    <desc lang="ko">푸마 우븐 웜팬츠 3종 세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104123500 +0900" stop="20261104133400 +0900" channel="쇼핑엔티">
+    <title lang="ko">아치솔 족저근막 인솔 1등 깔창</title>
+    <desc lang="ko">아치솔 족저근막 인솔 1등 깔창
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104133400 +0900" stop="20261104143400 +0900" channel="쇼핑엔티">
+    <title lang="ko">레드캠프 남녀 볼케이노 웜 패딩 자켓</title>
+    <desc lang="ko">레드캠프 남녀 볼케이노 웜 패딩 자켓
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104143400 +0900" stop="20261104153300 +0900" channel="쇼핑엔티">
+    <title lang="ko">벨리츠 플리스 자켓 3종</title>
+    <desc lang="ko">벨리츠 플리스 자켓 3종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104153300 +0900" stop="20261104163300 +0900" channel="쇼핑엔티">
+    <title lang="ko">슈리오 양가죽 숏앵클 부츠</title>
+    <desc lang="ko">슈리오 양가죽 숏앵클 부츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104163300 +0900" stop="20261104173300 +0900" channel="쇼핑엔티">
+    <title lang="ko">플루 슈퍼비타 스크럽 바디워시</title>
+    <desc lang="ko">플루 슈퍼비타 스크럽 바디워시
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104173300 +0900" stop="20261104183300 +0900" channel="쇼핑엔티">
+    <title lang="ko">정호영 백명란 5통+분란 3통</title>
+    <desc lang="ko">정호영 백명란 5통+분란 3통
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104183300 +0900" stop="20261104193300 +0900" channel="쇼핑엔티">
+    <title lang="ko">카파 남녀공용 중량패딩 재킷</title>
+    <desc lang="ko">카파 남녀공용 중량패딩 재킷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104193300 +0900" stop="20261104203300 +0900" channel="쇼핑엔티">
+    <title lang="ko">트루릴리전 코듀로이 데님 팬츠 2종</title>
+    <desc lang="ko">트루릴리전 코듀로이 데님 팬츠 2종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104203300 +0900" stop="20261104213400 +0900" channel="쇼핑엔티">
+    <title lang="ko">폰타나 립타투 핑크 2종+레드 2종+랜덤 1종</title>
+    <desc lang="ko">폰타나 립타투 핑크 2종+레드 2종+랜덤 1종
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104213400 +0900" stop="20261104223300 +0900" channel="쇼핑엔티">
+    <title lang="ko">독박트래블 in 백두산(예능 속 일정 그대로 독박즈PICK!)</title>
+    <desc lang="ko">독박트래블 in 백두산(예능 속 일정 그대로 독박즈PICK!)
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104223300 +0900" stop="20261104233300 +0900" channel="쇼핑엔티">
+    <title lang="ko">교원투어 장가계 5일/6일(NO선택관광+독채 온천 리조트+프리미엄국적기)</title>
+    <desc lang="ko">교원투어 장가계 5일/6일(NO선택관광+독채 온천 리조트+프리미엄국적기)
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104233300 +0900" stop="20261105003000 +0900" channel="쇼핑엔티">
+    <title lang="ko">상담예약 0원 렌탈 넥센타이어</title>
+    <desc lang="ko">상담예약 0원 렌탈 넥센타이어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105003000 +0900" stop="20261105023000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105023000 +0900" stop="20261105043000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105043000 +0900" stop="20261105063000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105063000 +0900" stop="20261105083000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105083000 +0900" stop="20261105103000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105103000 +0900" stop="20261105123000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105123000 +0900" stop="20261105143000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105143000 +0900" stop="20261105163000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105163000 +0900" stop="20261105183000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105183000 +0900" stop="20261105203000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105203000 +0900" stop="20261105223000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105223000 +0900" stop="20261106003000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106003000 +0900" stop="20261106023000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106023000 +0900" stop="20261106043000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106043000 +0900" stop="20261106063000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106063000 +0900" stop="20261106083000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106083000 +0900" stop="20261106103000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106103000 +0900" stop="20261106123000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106123000 +0900" stop="20261106143000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106143000 +0900" stop="20261106163000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106163000 +0900" stop="20261106183000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106183000 +0900" stop="20261106203000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106203000 +0900" stop="20261106223000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106223000 +0900" stop="20261107003000 +0900" channel="쇼핑엔티">
+    <title lang="ko">추천상품 입니다</title>
+    <desc lang="ko">추천상품 입니다
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104010000 +0900" stop="20261104020000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">디마떼오피자</title>
+    <desc lang="ko">디마떼오피자
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104020000 +0900" stop="20261104031000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">엘렌느(티블라우스FW+팬츠FW)</title>
+    <desc lang="ko">엘렌느(티블라우스FW+팬츠FW)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104031000 +0900" stop="20261104040500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">천연감로꿀</title>
+    <desc lang="ko">천연감로꿀
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104040500 +0900" stop="20261104045500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">버섯마루건버섯</title>
+    <desc lang="ko">버섯마루건버섯
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104045500 +0900" stop="20261104060000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">센텔리안24크림</title>
+    <desc lang="ko">센텔리안24크림
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104060000 +0900" stop="20261104071500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">푸마이지웨어세트</title>
+    <desc lang="ko">푸마이지웨어세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104071500 +0900" stop="20261104081500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">매스티나앰플</title>
+    <desc lang="ko">매스티나앰플
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104081500 +0900" stop="20261104092500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">박술녀양모차렵</title>
+    <desc lang="ko">박술녀양모차렵
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104092500 +0900" stop="20261104102500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">재클린스타일헤어에센스</title>
+    <desc lang="ko">재클린스타일헤어에센스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104102500 +0900" stop="20261104113500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">닥터슈퍼칸마그네슘</title>
+    <desc lang="ko">닥터슈퍼칸마그네슘
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104113500 +0900" stop="20261104124000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">안지크(니트류FW+밴딩팬츠FW)</title>
+    <desc lang="ko">안지크(니트류FW+밴딩팬츠FW)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104124000 +0900" stop="20261104133000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">수려한기초세트</title>
+    <desc lang="ko">수려한기초세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104133000 +0900" stop="20261104142000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">슈리오캐쥬얼화</title>
+    <desc lang="ko">슈리오캐쥬얼화
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104142000 +0900" stop="20261104151000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">로로스키니턱마스크</title>
+    <desc lang="ko">로로스키니턱마스크
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104151000 +0900" stop="20261104160000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">해피콜후라이팬</title>
+    <desc lang="ko">해피콜후라이팬
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104160000 +0900" stop="20261104165000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">순천만고들빼기김치고들빼기</title>
+    <desc lang="ko">순천만고들빼기김치고들빼기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104165000 +0900" stop="20261104174000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">박수홍뼈없는갈비탕</title>
+    <desc lang="ko">박수홍뼈없는갈비탕
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104174000 +0900" stop="20261104184000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">홍대쭈꾸미쭈꾸미</title>
+    <desc lang="ko">홍대쭈꾸미쭈꾸미
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104184000 +0900" stop="20261104193500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">에이앤디코디세트상/하의FW</title>
+    <desc lang="ko">에이앤디코디세트상/하의FW
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104193500 +0900" stop="20261104204500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">드모아양모이불</title>
+    <desc lang="ko">드모아양모이불
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104204500 +0900" stop="20261104214500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">그레인온캡슐레이션파로효소</title>
+    <desc lang="ko">그레인온캡슐레이션파로효소
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104214500 +0900" stop="20261104225500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">조이너스(니트류FW+가디건FW+머플러)</title>
+    <desc lang="ko">조이너스(니트류FW+가디건FW+머플러)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104225500 +0900" stop="20261104235500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">모두투어여행소개푸켓</title>
+    <desc lang="ko">모두투어여행소개푸켓
+등급 : 전체 관람가</desc>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104235500 +0900" stop="20261105010000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">뷰티피플오브제립스틱</title>
+    <desc lang="ko">뷰티피플오브제립스틱
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105010000 +0900" stop="20261105020000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">데이즈온파라다이스그레인</title>
+    <desc lang="ko">데이즈온파라다이스그레인
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105020000 +0900" stop="20261105030000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">오모떼팬티</title>
+    <desc lang="ko">오모떼팬티
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105030000 +0900" stop="20261105035000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">해가인과자</title>
+    <desc lang="ko">해가인과자
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105035000 +0900" stop="20261105045000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">끌레드벨기초세트</title>
+    <desc lang="ko">끌레드벨기초세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105045000 +0900" stop="20261105060000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">엘렌느(가디건FW+팬츠FW(기모))</title>
+    <desc lang="ko">엘렌느(가디건FW+팬츠FW(기모))
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105060000 +0900" stop="20261105071500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">스와니브아이크림</title>
+    <desc lang="ko">스와니브아이크림
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105071500 +0900" stop="20261105081500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">비에날씬다이어트유산균</title>
+    <desc lang="ko">비에날씬다이어트유산균
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105081500 +0900" stop="20261105092500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">허니블룸염모제</title>
+    <desc lang="ko">허니블룸염모제
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105092500 +0900" stop="20261105102500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">데미안(니트류FW(레이온)+베스트/조끼FW(스팽글))</title>
+    <desc lang="ko">데미안(니트류FW(레이온)+베스트/조끼FW(스팽글))
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105102500 +0900" stop="20261105113500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">일월텐셀카본매트</title>
+    <desc lang="ko">일월텐셀카본매트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105113500 +0900" stop="20261105124000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">데이즈온파라다이스그레인</title>
+    <desc lang="ko">데이즈온파라다이스그레인
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105124000 +0900" stop="20261105133000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">세인트스코트(티셔츠FW+니트류FW(레이온)+밴딩팬츠FW)</title>
+    <desc lang="ko">세인트스코트(티셔츠FW+니트류FW(레이온)+밴딩팬츠FW)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105133000 +0900" stop="20261105142000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">예다함토탈서비스(대)</title>
+    <desc lang="ko">예다함토탈서비스(대)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105142000 +0900" stop="20261105151000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">아람뜰사과</title>
+    <desc lang="ko">아람뜰사과
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105151000 +0900" stop="20261105160000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">도미솔김치</title>
+    <desc lang="ko">도미솔김치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105160000 +0900" stop="20261105165000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">등푸른생생고등어</title>
+    <desc lang="ko">등푸른생생고등어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105165000 +0900" stop="20261105174000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">한둘두부면</title>
+    <desc lang="ko">한둘두부면
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105174000 +0900" stop="20261105184000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">고래사어묵</title>
+    <desc lang="ko">고래사어묵
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105184000 +0900" stop="20261105193500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">코웨이정수기렌탈</title>
+    <desc lang="ko">코웨이정수기렌탈
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105193500 +0900" stop="20261105204500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">맥스튜어트데님팬츠FW</title>
+    <desc lang="ko">맥스튜어트데님팬츠FW
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105204500 +0900" stop="20261105214500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">달바에센스</title>
+    <desc lang="ko">달바에센스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105214500 +0900" stop="20261105225500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">무드매쳐립스틱</title>
+    <desc lang="ko">무드매쳐립스틱
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105225500 +0900" stop="20261105235500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">팬암(코디세트상/하의FW+점퍼FW)</title>
+    <desc lang="ko">팬암(코디세트상/하의FW+점퍼FW)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105235500 +0900" stop="20261106010000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">부케가르니바디클렌저</title>
+    <desc lang="ko">부케가르니바디클렌저
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106010000 +0900" stop="20261106020000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">데이즈온홍화씨오일</title>
+    <desc lang="ko">데이즈온홍화씨오일
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106020000 +0900" stop="20261106030000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">온작이영자파김치</title>
+    <desc lang="ko">온작이영자파김치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106030000 +0900" stop="20261106041500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">라디에스헤어에센스</title>
+    <desc lang="ko">라디에스헤어에센스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106041500 +0900" stop="20261106053000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">일월텐셀카본매트</title>
+    <desc lang="ko">일월텐셀카본매트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106053000 +0900" stop="20261106061500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">데이즈온파라다이스그레인</title>
+    <desc lang="ko">데이즈온파라다이스그레인
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106061500 +0900" stop="20261106071500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">울시(티셔츠FW+팬츠FW(기모))</title>
+    <desc lang="ko">울시(티셔츠FW+팬츠FW(기모))
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106071500 +0900" stop="20261106081500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">관절엔아나파랙틴천심련</title>
+    <desc lang="ko">관절엔아나파랙틴천심련
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106081500 +0900" stop="20261106092500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">PMD패치페이스기기</title>
+    <desc lang="ko">PMD패치페이스기기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092500 +0900" stop="20261106102500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">안지크(팬츠FW(기모)+점퍼FW)</title>
+    <desc lang="ko">안지크(팬츠FW(기모)+점퍼FW)
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106102500 +0900" stop="20261106113500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">명품컬렉션</title>
+    <desc lang="ko">명품컬렉션
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106113500 +0900" stop="20261106124000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">맥스클리닉클렌징폼</title>
+    <desc lang="ko">맥스클리닉클렌징폼
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106124000 +0900" stop="20261106133000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">박술녀양모이불</title>
+    <desc lang="ko">박술녀양모이불
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106133000 +0900" stop="20261106142000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">락앤락바로한끼보관용기</title>
+    <desc lang="ko">락앤락바로한끼보관용기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106142000 +0900" stop="20261106151000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">글로리본마스크팩</title>
+    <desc lang="ko">글로리본마스크팩
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106151000 +0900" stop="20261106160000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">콩순이네레토르트식품세트</title>
+    <desc lang="ko">콩순이네레토르트식품세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106160000 +0900" stop="20261106165000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">뜨래밤</title>
+    <desc lang="ko">뜨래밤
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106165000 +0900" stop="20261106174000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">싱싱손질오징어</title>
+    <desc lang="ko">싱싱손질오징어
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106174000 +0900" stop="20261106184000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">한일의료기전기매트</title>
+    <desc lang="ko">한일의료기전기매트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106184000 +0900" stop="20261106193500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">이재훈스테이크</title>
+    <desc lang="ko">이재훈스테이크
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106193500 +0900" stop="20261106204000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">수려한기초세트</title>
+    <desc lang="ko">수려한기초세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106204000 +0900" stop="20261106214000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">오모떼브라팬티세트</title>
+    <desc lang="ko">오모떼브라팬티세트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106214000 +0900" stop="20261106224500 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">로보락로봇청소기</title>
+    <desc lang="ko">로보락로봇청소기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106224500 +0900" stop="20261106235000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">얼리언스립틴트</title>
+    <desc lang="ko">얼리언스립틴트
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106235000 +0900" stop="20261107010000 +0900" channel="홈&amp;쇼핑">
+    <title lang="ko">지프코디세트상/하의FW</title>
+    <desc lang="ko">지프코디세트상/하의FW
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104002500 +0900" stop="20261104012500 +0900" channel="W쇼핑">
+    <title lang="ko">삼성화재 천만안심 건강보험</title>
+    <desc lang="ko">삼성화재 천만안심 건강보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104012500 +0900" stop="20261104022500 +0900" channel="W쇼핑">
+    <title lang="ko">종근당건강 헬씨칸 밀크씨슬 로얄</title>
+    <desc lang="ko">종근당건강 헬씨칸 밀크씨슬 로얄
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104022500 +0900" stop="20261104032600 +0900" channel="W쇼핑">
+    <title lang="ko">플로렌츠 페이스업 EMS 마사지기</title>
+    <desc lang="ko">플로렌츠 페이스업 EMS 마사지기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104032600 +0900" stop="20261104033200 +0900" channel="W쇼핑">
+    <title lang="ko">시청자정보</title>
+    <desc lang="ko">시청자정보
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104033200 +0900" stop="20261104035200 +0900" channel="W쇼핑">
+    <title lang="ko">필립스 전기면도기 아이언메탈</title>
+    <desc lang="ko">필립스 전기면도기 아이언메탈
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104035200 +0900" stop="20261104041300 +0900" channel="W쇼핑">
+    <title lang="ko">골드카무트 효소12박스+파로5봉+복부마사지기</title>
+    <desc lang="ko">골드카무트 효소12박스+파로5봉+복부마사지기
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104041300 +0900" stop="20261104051400 +0900" channel="W쇼핑">
+    <title lang="ko">부하우스 이불 압축파우치</title>
+    <desc lang="ko">부하우스 이불 압축파우치
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104051400 +0900" stop="20261104061400 +0900" channel="W쇼핑">
+    <title lang="ko">젬마 기모 이지팬츠</title>
+    <desc lang="ko">젬마 기모 이지팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104061400 +0900" stop="20261104071400 +0900" channel="W쇼핑">
+    <title lang="ko">메종노아 화이트 구스 워셔블 차렵이불</title>
+    <desc lang="ko">메종노아 화이트 구스 워셔블 차렵이불
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104071400 +0900" stop="20261104081500 +0900" channel="W쇼핑">
+    <title lang="ko">메디칼드림 목어깨 경추마사지기 V2</title>
+    <desc lang="ko">메디칼드림 목어깨 경추마사지기 V2
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104081500 +0900" stop="20261104091500 +0900" channel="W쇼핑">
+    <title lang="ko">골드카무트 효소12박스+효소G1박스+파로5봉</title>
+    <desc lang="ko">골드카무트 효소12박스+효소G1박스+파로5봉
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104091500 +0900" stop="20261104101600 +0900" channel="W쇼핑">
+    <title lang="ko">아놀드파마 핫멜팅 패딩 재킷</title>
+    <desc lang="ko">아놀드파마 핫멜팅 패딩 재킷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104101600 +0900" stop="20261104111600 +0900" channel="W쇼핑">
+    <title lang="ko">배한호원장의 명작 액상 마그네슘 에너지 영양제</title>
+    <desc lang="ko">배한호원장의 명작 액상 마그네슘 에너지 영양제
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104111600 +0900" stop="20261104121700 +0900" channel="W쇼핑">
+    <title lang="ko">윤방부박사의 넘버원 포스파티딜세린 PS</title>
+    <desc lang="ko">윤방부박사의 넘버원 포스파티딜세린 PS
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104121700 +0900" stop="20261104131800 +0900" channel="W쇼핑">
+    <title lang="ko">보넬드 아이엠 당근 주스</title>
+    <desc lang="ko">보넬드 아이엠 당근 주스
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104131800 +0900" stop="20261104141800 +0900" channel="W쇼핑">
+    <title lang="ko">라이나생명 치매 간병보험</title>
+    <desc lang="ko">라이나생명 치매 간병보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104141800 +0900" stop="20261104151900 +0900" channel="W쇼핑">
+    <title lang="ko">아놀드파마 기모 본딩 코듀로이 팬츠</title>
+    <desc lang="ko">아놀드파마 기모 본딩 코듀로이 팬츠
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104151900 +0900" stop="20261104161900 +0900" channel="W쇼핑">
+    <title lang="ko">아놀드파마 핫멜팅 패딩 재킷</title>
+    <desc lang="ko">아놀드파마 핫멜팅 패딩 재킷
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104161900 +0900" stop="20261104172000 +0900" channel="W쇼핑">
+    <title lang="ko">골드카무트 효소12박스+효소G1박스+파로5봉</title>
+    <desc lang="ko">골드카무트 효소12박스+효소G1박스+파로5봉
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104172000 +0900" stop="20261104182000 +0900" channel="W쇼핑">
+    <title lang="ko">더플레오 양면 극세사 차렵이불</title>
+    <desc lang="ko">더플레오 양면 극세사 차렵이불
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104182000 +0900" stop="20261104192100 +0900" channel="W쇼핑">
+    <title lang="ko">색다른 겨울 제주 3박 4일 여행</title>
+    <desc lang="ko">색다른 겨울 제주 3박 4일 여행
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104192100 +0900" stop="20261104202200 +0900" channel="W쇼핑">
+    <title lang="ko">아토만 무선 온열 담요</title>
+    <desc lang="ko">아토만 무선 온열 담요
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104202200 +0900" stop="20261104212300 +0900" channel="W쇼핑">
+    <title lang="ko">종근당건강 락토핏 당케어프로</title>
+    <desc lang="ko">종근당건강 락토핏 당케어프로
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104212300 +0900" stop="20261104222300 +0900" channel="W쇼핑">
+    <title lang="ko">흥국생명 다사랑 암보험</title>
+    <desc lang="ko">흥국생명 다사랑 암보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104222300 +0900" stop="20261104232400 +0900" channel="W쇼핑">
+    <title lang="ko">DB손해보험 프로미라이프 참좋은 운전자 상해보험</title>
+    <desc lang="ko">DB손해보험 프로미라이프 참좋은 운전자 상해보험
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104232400 +0900" stop="20261105002500 +0900" channel="W쇼핑">
+    <title lang="ko">알렉스하운드 기모 모크넥</title>
+    <desc lang="ko">알렉스하운드 기모 모크넥
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105002500 +0900" stop="20261105012500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105012500 +0900" stop="20261105022500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105022500 +0900" stop="20261105032500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105032500 +0900" stop="20261105042500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105042500 +0900" stop="20261105052500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105052500 +0900" stop="20261105062500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105062500 +0900" stop="20261105072500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105072500 +0900" stop="20261105082500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105082500 +0900" stop="20261105092500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105092500 +0900" stop="20261105102500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105102500 +0900" stop="20261105112500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105112500 +0900" stop="20261105122500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105122500 +0900" stop="20261105132500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105132500 +0900" stop="20261105142500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105142500 +0900" stop="20261105152500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105152500 +0900" stop="20261105162500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105162500 +0900" stop="20261105172500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105172500 +0900" stop="20261105182500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105182500 +0900" stop="20261105192500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105192500 +0900" stop="20261105202500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105202500 +0900" stop="20261105212500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105212500 +0900" stop="20261105222500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105222500 +0900" stop="20261105232500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261105232500 +0900" stop="20261106002500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106002500 +0900" stop="20261106012500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106012500 +0900" stop="20261106022500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106022500 +0900" stop="20261106032500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106032500 +0900" stop="20261106042500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106042500 +0900" stop="20261106052500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106052500 +0900" stop="20261106062500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106062500 +0900" stop="20261106072500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106072500 +0900" stop="20261106082500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106082500 +0900" stop="20261106092500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106092500 +0900" stop="20261106102500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106102500 +0900" stop="20261106112500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106112500 +0900" stop="20261106122500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106122500 +0900" stop="20261106132500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106132500 +0900" stop="20261106142500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106142500 +0900" stop="20261106152500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106152500 +0900" stop="20261106162500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106162500 +0900" stop="20261106172500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106172500 +0900" stop="20261106182500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106182500 +0900" stop="20261106192500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106192500 +0900" stop="20261106202500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106202500 +0900" stop="20261106212500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106212500 +0900" stop="20261106222500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106222500 +0900" stop="20261106232500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261106232500 +0900" stop="20261107002500 +0900" channel="W쇼핑">
+    <title lang="ko">W쇼핑 추천상품</title>
+    <desc lang="ko">W쇼핑 추천상품
+장르 : 홈쇼핑
+등급 : 전체 관람가</desc>
+    <category lang="ko">홈쇼핑</category>
+    <category lang="en">Advertisement / Shopping</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
   <programme start="20261103010000 +0900" stop="20261103013000 +0900" channel="CJ온스타일">
     <title lang="ko">1촌1명품/1사1명품(수화)</title>
     <desc lang="ko">1촌1명품/1사1명품(수화)
@@ -53163,7 +58800,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104180500 +0900" stop="20261104215000 +0900" channel="MBC">
+  <programme start="20261104180500 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">MBC 스포츠 2026 KBO 한국시리즈 2차전 삼성:KT (수원,Live)</title>
     <desc lang="ko">MBC 스포츠 2026 KBO 한국시리즈 2차전 삼성:KT (수원,Live)
 등급 : 전체 관람가</desc>
@@ -53172,7 +58809,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104180500 +0900" stop="20261104215000 +0900" channel="MBC">
+  <programme start="20261104180500 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">셰프의 DNA</title>
     <sub-title lang="ko">1부</sub-title>
     <desc lang="ko">셰프의 DNA
@@ -53183,7 +58820,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104190500 +0900" stop="20261104215000 +0900" channel="MBC">
+  <programme start="20261104190500 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">일일드라마 가족관계증명서(74)</title>
     <desc lang="ko">일일드라마 가족관계증명서(74)
 등급 : 15세 이상 관람가</desc>
@@ -53192,7 +58829,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104194000 +0900" stop="20261104215000 +0900" channel="MBC">
+  <programme start="20261104194000 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">MBC 뉴스데스크</title>
     <desc lang="ko">MBC 뉴스데스크
 등급 : 전체 관람가</desc>
@@ -53201,7 +58838,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104210000 +0900" stop="20261104215000 +0900" channel="MBC">
+  <programme start="20261104210000 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">금토드라마 라이어(재,2)</title>
     <desc lang="ko">금토드라마 라이어(재,2)
 등급 : 15세 이상 관람가</desc>
@@ -53210,16 +58847,7 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104215000 +0900" stop="20261104223000 +0900" channel="MBC">
-    <title lang="ko">MBC 뉴스데스크</title>
-    <desc lang="ko">MBC 뉴스데스크
-등급 : 전체 관람가</desc>
-    <icon src="https://img.imbc.com/adams/Program/20233/133234866858259497.jpg" />
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261104222000 +0900" stop="20261104223000 +0900" channel="MBC">
+  <programme start="20261104222000 +0900" stop="20261104225500 +0900" channel="MBC">
     <title lang="ko">전지적 집착 시점 미리보기</title>
     <desc lang="ko">전지적 집착 시점 미리보기
 등급 : 15세 이상 관람가</desc>
@@ -53228,7 +58856,16 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261104223000 +0900" stop="20261105001000 +0900" channel="MBC">
+  <programme start="20261104225500 +0900" stop="20261104234500 +0900" channel="MBC">
+    <title lang="ko">MBC 뉴스데스크</title>
+    <desc lang="ko">MBC 뉴스데스크
+등급 : 전체 관람가</desc>
+    <icon src="https://img.imbc.com/adams/Program/20233/133234866858259497.jpg" />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261104234500 +0900" stop="20261105012500 +0900" channel="MBC">
     <title lang="ko">라디오스타</title>
     <desc lang="ko">라디오스타
 등급 : 15세 이상 관람가</desc>
@@ -53237,31 +58874,13 @@ KBS '다큐멘터리 3일'은 2007년 5월 봄, 무안장터를 시작으로 지
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20261105001000 +0900" stop="20261105003000 +0900" channel="MBC">
-    <title lang="ko">MBC 뉴스 25</title>
-    <desc lang="ko">MBC 뉴스 25
-등급 : 전체 관람가</desc>
-    <icon src="https://img.imbc.com/adams/Program/20187/131761817545554545.jpg" />
-    <rating system="KR">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105003000 +0900" stop="20261105011000 +0900" channel="MBC">
+  <programme start="20261105012500 +0900" stop="20261105022500 +0900" channel="MBC">
     <title lang="ko">웰컴 투 스포츠</title>
     <desc lang="ko">웰컴 투 스포츠
 등급 : 전체 관람가</desc>
     <icon src="https://img.imbc.com/adams/Program/20252/133830367032083669.jpg" />
     <rating system="KR">
       <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20261105011000 +0900" stop="20261105021000 +0900" channel="MBC">
-    <title lang="ko">출발! 비디오 여행 스페셜</title>
-    <desc lang="ko">출발! 비디오 여행 스페셜
-등급 : 15세 이상 관람가</desc>
-    <icon src="https://img.imbc.com/adams/Program/20214/132621615079065101.jpg" />
-    <rating system="KR">
-      <value>15세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20261105050000 +0900" stop="20261105060000 +0900" channel="MBC">
