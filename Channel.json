@@ -1,6 +1,6 @@
 {
   "SK": {
-    "UPDATED": "2026-11-17T12:49:36.219140",
+    "UPDATED": "2026-11-18T12:42:46.470084",
     "TOTAL": 268,
     "CHANNELS": [
       { "Name": "SBS", "No": "5", "ServiceId": "14", "Category": "지상파/종편" },
@@ -274,7 +274,7 @@
     ]
   },
   "DAUM": {
-    "UPDATED": "2026-11-17T12:49:36.219155",
+    "UPDATED": "2026-11-18T12:42:46.470097",
     "TOTAL": 415,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "지상파 KBS1", "Category": "지상파" },
@@ -332,21 +332,6 @@
       { "Name": "MBN", "ServiceId": "종합편성 MBN", "Category": "종합편성" },
       { "Name": "TV 조선", "ServiceId": "종합편성 TV 조선", "Category": "종합편성" },
       { "Name": "채널A", "ServiceId": "종합편성 채널A", "Category": "종합편성" },
-      { "Name": "CBeebies", "ServiceId": "케이블 CBeebies", "Category": "케이블" },
-      { "Name": "EBS KIDS", "ServiceId": "케이블 EBS KIDS", "Category": "케이블" },
-      { "Name": "JEI 재능TV", "ServiceId": "케이블 JEI 재능TV", "Category": "케이블" },
-      { "Name": "KBS KIDS", "ServiceId": "케이블 KBS KIDS", "Category": "케이블" },
-      { "Name": "대교어린이TV", "ServiceId": "케이블 대교어린이TV", "Category": "케이블" },
-      { "Name": "브라보키즈", "ServiceId": "케이블 브라보키즈", "Category": "케이블" },
-      { "Name": "뽀요TV", "ServiceId": "케이블 뽀요TV", "Category": "케이블" },
-      { "Name": "캐리TV", "ServiceId": "케이블 캐리TV", "Category": "케이블" },
-      { "Name": "JTBC4", "ServiceId": "케이블 JTBC4", "Category": "케이블" },
-      { "Name": "tvN STORY", "ServiceId": "케이블 tvN STORY", "Category": "케이블" },
-      { "Name": "E LIKE", "ServiceId": "케이블 E LIKE", "Category": "케이블" },
-      { "Name": "ENA STORY", "ServiceId": "케이블 ENA STORY", "Category": "케이블" },
-      { "Name": "GTV", "ServiceId": "케이블 GTV", "Category": "케이블" },
-      { "Name": "KBS Story", "ServiceId": "케이블 KBS Story", "Category": "케이블" },
-      { "Name": "라이프타임", "ServiceId": "케이블 라이프타임", "Category": "케이블" },
       { "Name": "YTN", "ServiceId": "케이블 YTN", "Category": "케이블" },
       { "Name": "SBS Biz", "ServiceId": "케이블 SBS Biz", "Category": "케이블" },
       { "Name": "연합뉴스 TV", "ServiceId": "케이블 연합뉴스 TV", "Category": "케이블" },
@@ -384,12 +369,20 @@
       { "Name": "쇼핑엔티", "ServiceId": "케이블 쇼핑엔티", "Category": "케이블" },
       { "Name": "현대홈쇼핑+Shop", "ServiceId": "케이블 현대홈쇼핑+Shop", "Category": "케이블" },
       { "Name": "홈&쇼핑", "ServiceId": "케이블 홈&쇼핑", "Category": "케이블" },
-      { "Name": "에이플드라마", "ServiceId": "케이블 에이플드라마", "Category": "케이블" },
+      { "Name": "CBeebies", "ServiceId": "케이블 CBeebies", "Category": "케이블" },
+      { "Name": "EBS KIDS", "ServiceId": "케이블 EBS KIDS", "Category": "케이블" },
+      { "Name": "JEI 재능TV", "ServiceId": "케이블 JEI 재능TV", "Category": "케이블" },
+      { "Name": "KBS KIDS", "ServiceId": "케이블 KBS KIDS", "Category": "케이블" },
+      { "Name": "대교어린이TV", "ServiceId": "케이블 대교어린이TV", "Category": "케이블" },
+      { "Name": "브라보키즈", "ServiceId": "케이블 브라보키즈", "Category": "케이블" },
+      { "Name": "뽀요TV", "ServiceId": "케이블 뽀요TV", "Category": "케이블" },
+      { "Name": "캐리TV", "ServiceId": "케이블 캐리TV", "Category": "케이블" },
       { "Name": "MBC 드라마넷", "ServiceId": "케이블 MBC 드라마넷", "Category": "케이블" },
       { "Name": "SBS Plus", "ServiceId": "케이블 SBS Plus", "Category": "케이블" },
       { "Name": "KBS 드라마", "ServiceId": "케이블 KBS 드라마", "Category": "케이블" },
       { "Name": "Dramax", "ServiceId": "케이블 Dramax", "Category": "케이블" },
       { "Name": "MBC ON", "ServiceId": "케이블 MBC ON", "Category": "케이블" },
+      { "Name": "에이플드라마", "ServiceId": "케이블 에이플드라마", "Category": "케이블" },
       { "Name": "Asia N", "ServiceId": "케이블 Asia N", "Category": "케이블" },
       { "Name": "CH.U", "ServiceId": "케이블 CH.U", "Category": "케이블" },
       { "Name": "CHING", "ServiceId": "케이블 CHING", "Category": "케이블" },
@@ -533,6 +526,13 @@
       { "Name": "엑스원", "ServiceId": "케이블 엑스원", "Category": "케이블" },
       { "Name": "채널 뷰", "ServiceId": "케이블 채널 뷰", "Category": "케이블" },
       { "Name": "히스토리채널", "ServiceId": "케이블 히스토리채널", "Category": "케이블" },
+      { "Name": "JTBC4", "ServiceId": "케이블 JTBC4", "Category": "케이블" },
+      { "Name": "tvN STORY", "ServiceId": "케이블 tvN STORY", "Category": "케이블" },
+      { "Name": "E LIKE", "ServiceId": "케이블 E LIKE", "Category": "케이블" },
+      { "Name": "ENA STORY", "ServiceId": "케이블 ENA STORY", "Category": "케이블" },
+      { "Name": "GTV", "ServiceId": "케이블 GTV", "Category": "케이블" },
+      { "Name": "KBS Story", "ServiceId": "케이블 KBS Story", "Category": "케이블" },
+      { "Name": "라이프타임", "ServiceId": "케이블 라이프타임", "Category": "케이블" },
       { "Name": "EBS English", "ServiceId": "케이블 EBS English", "Category": "케이블" },
       { "Name": "EBS플러스1", "ServiceId": "케이블 EBS플러스1", "Category": "케이블" },
       { "Name": "EBS플러스2", "ServiceId": "케이블 EBS플러스2", "Category": "케이블" },
@@ -550,15 +550,13 @@
       { "Name": "국회방송", "ServiceId": "케이블 국회방송", "Category": "케이블" },
       { "Name": "법률방송", "ServiceId": "케이블 법률방송", "Category": "케이블" },
       { "Name": "복지TV", "ServiceId": "케이블 복지TV", "Category": "케이블" },
-      { "Name": "TLC여행레저채널", "ServiceId": "SKYLIFE TLC여행레저채널", "Category": "스카이라이프" },
-      { "Name": "HD FTV2", "ServiceId": "SKYLIFE HD FTV2", "Category": "스카이라이프" },
       { "Name": "애니맥스", "ServiceId": "SKYLIFE 애니맥스", "Category": "스카이라이프" },
       { "Name": "HD AniBox", "ServiceId": "SKYLIFE HD AniBox", "Category": "스카이라이프" },
       { "Name": "HD Aniplus", "ServiceId": "SKYLIFE HD Aniplus", "Category": "스카이라이프" },
       { "Name": "HD 애니원TV", "ServiceId": "SKYLIFE HD 애니원TV", "Category": "스카이라이프" },
       { "Name": "HD 투니버스", "ServiceId": "SKYLIFE HD 투니버스", "Category": "스카이라이프" },
-      { "Name": "Asia UHD", "ServiceId": "SKYLIFE Asia UHD", "Category": "스카이라이프" },
       { "Name": "HD CNTV", "ServiceId": "SKYLIFE HD CNTV", "Category": "스카이라이프" },
+      { "Name": "Asia UHD", "ServiceId": "SKYLIFE Asia UHD", "Category": "스카이라이프" },
       { "Name": "EDGE TV", "ServiceId": "SKYLIFE EDGE TV", "Category": "스카이라이프" },
       { "Name": "HD Asia N2", "ServiceId": "SKYLIFE HD Asia N2", "Category": "스카이라이프" },
       { "Name": "HD Channel J", "ServiceId": "SKYLIFE HD Channel J", "Category": "스카이라이프" },
@@ -610,6 +608,8 @@
       { "Name": "HD TJB 대전방송", "ServiceId": "SKYLIFE HD TJB 대전방송", "Category": "스카이라이프" },
       { "Name": "HD UBC 울산방송", "ServiceId": "SKYLIFE HD UBC 울산방송", "Category": "스카이라이프" },
       { "Name": "MBC 충주", "ServiceId": "SKYLIFE MBC 충주", "Category": "스카이라이프" },
+      { "Name": "TLC여행레저채널", "ServiceId": "SKYLIFE TLC여행레저채널", "Category": "스카이라이프" },
+      { "Name": "HD FTV2", "ServiceId": "SKYLIFE HD FTV2", "Category": "스카이라이프" },
       { "Name": "HD GS SHOP", "ServiceId": "SKYLIFE HD GS SHOP", "Category": "스카이라이프" },
       { "Name": "HD NS홈쇼핑", "ServiceId": "SKYLIFE HD NS홈쇼핑", "Category": "스카이라이프" },
       { "Name": "HD 롯데홈쇼핑", "ServiceId": "SKYLIFE HD 롯데홈쇼핑", "Category": "스카이라이프" },
@@ -687,15 +687,15 @@
       { "Name": "TBS영어방송", "ServiceId": "라디오 TBS영어방송", "Category": "라디오" },
       { "Name": "U KBS MUSIC", "ServiceId": "라디오 U KBS MUSIC", "Category": "라디오" },
       { "Name": "YTNNewsFM", "ServiceId": "라디오 YTNNewsFM", "Category": "라디오" },
+      { "Name": "cpbc 가톨릭평화방송", "ServiceId": "라디오 cpbc 가톨릭평화방송", "Category": "라디오" },
       { "Name": "경인방송", "ServiceId": "라디오 경인방송", "Category": "라디오" },
       { "Name": "국악방송", "ServiceId": "라디오 국악방송", "Category": "라디오" },
       { "Name": "극동방송", "ServiceId": "라디오 극동방송", "Category": "라디오" },
-      { "Name": "cpbc 가톨릭평화방송", "ServiceId": "라디오 cpbc 가톨릭평화방송", "Category": "라디오" },
       { "Name": "올댓뮤직", "ServiceId": "라디오 올댓뮤직", "Category": "라디오" }
     ]
   },
   "NAVER": {
-    "UPDATED": "2026-11-17T12:49:36.219158",
+    "UPDATED": "2026-11-18T12:42:46.470101",
     "TOTAL": 473,
     "CHANNELS": [
       { "Name": "KBS1", "ServiceId": "814574", "Category": "지상파" },
@@ -1174,7 +1174,7 @@
     ]
   },
   "KBS": {
-    "UPDATED": "2026-11-17T12:49:36.219161",
+    "UPDATED": "2026-11-18T12:42:46.470103",
     "TOTAL": 79,
     "CHANNELS": [
       { "Name": "1TV", "ServiceId": "11", "Category": "KBS", "Icon_url": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" },
@@ -1259,7 +1259,7 @@
     ]
   },
   "MBC": {
-    "UPDATED": "2026-11-17T12:49:36.219164",
+    "UPDATED": "2026-11-18T12:42:46.470106",
     "TOTAL": 9,
     "CHANNELS": [
       { "Name": "MBC", "ServiceId": "MBC", "Category": "TV" },
@@ -1274,7 +1274,7 @@
     ]
   },
   "SBS": {
-    "UPDATED": "2026-11-17T12:49:36.219166",
+    "UPDATED": "2026-11-18T12:42:46.470108",
     "TOTAL": 11,
     "CHANNELS": [
       { "Name": "SBS", "ServiceId": "S01", "Category": "TV" },
